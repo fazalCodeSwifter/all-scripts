@@ -2347,7 +2347,7 @@ export class MegaLaptopParserService {
 
     rows.forEach((row) => {
       // Title se Brand aur Main Title extract karo
-      const fullTitle = row['title']?.trim();
+      const fullTitle = row['title']?.trim().toLowerCase();
       if (!fullTitle) return;
 
       const { brand, mainTitle } = this.extractBrandAndMainTitle(fullTitle);
