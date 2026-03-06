@@ -9,13 +9,13 @@
         "description": "Capacity : 2TB\nFingerprint Security\nShock Resistant\nRead Speed :  1050MB/s\nWrite Speed : 1000 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "2TB",
-          "Read Speed": "1050MB/s",
-          "Write Speed": "1000 MB/s",
-          "Shock Proof": "Yes",
-          "Password Protection": "Yes",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "2TB",
+          "read_speed": "1050MB/s",
+          "write_speed": "1000 MB/s",
+          "shock_proof": "Yes",
+          "password_protection": "Yes",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-t7-touch-portable-ssd-1-78721-2195673-110924112347756.jpg",
         "price": 0,
@@ -29,13 +29,13 @@
         "description": "1TB Capacity\nUSB 3.2 Gen 2 Interface\nPCIe NVMe Technology\nRead Speeds up to 1050 MB/s\nWrite Speeds up to 1000 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "1TB",
-          "Read Speed": "1050 MB/s",
-          "Write Speed": "1000 MB/s",
-          "Shock Proof": "Yes",
-          "Password Protection": "Yes",
-          "Color": "Grey"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "1TB",
+          "read_speed": "1050 MB/s",
+          "write_speed": "1000 MB/s",
+          "shock_proof": "Yes",
+          "password_protection": "Yes",
+          "color": "Grey"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-portable-ssd-t7-myshop-pk-6-78721-2195674-110924111908903.jpg",
         "price": 0,
@@ -49,13 +49,13 @@
         "description": "Capacity : 1TB\nFingerprint Security\nInterface : USB 3.2\nRead Speed : 1050 MB/s\nWrite Speed : 1000 MB/s.",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "1TB",
-          "Read Speed": "1050 MB/s",
-          "Write Speed": "1000 MB/s",
-          "Shock Proof": "Yes",
-          "Password Protection": "Yes",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "1TB",
+          "read_speed": "1050 MB/s",
+          "write_speed": "1000 MB/s",
+          "shock_proof": "Yes",
+          "password_protection": "Yes",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/sas016h1-78721-2195671-110924112340787.jpg",
         "price": 0,
@@ -69,11 +69,11 @@
         "description": "2TB Capacity\nUSB 3.2 Gen 2 Interface\nRead Speeds up to 1050 MB/s\nWrite Speeds up to 1000 MB/s.",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "2TB",
-          "Shock Proof": "Yes",
-          "Password Protection": "Yes",
-          "Color": "Blue"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "2TB",
+          "shock_proof": "Yes",
+          "password_protection": "Yes",
+          "color": "Blue"
         },
         "image": "https://static.webx.pk/files/78721/Images/ae-portable-ssd-t7-shield-mu-pe2t0r-ww-537752382-78721-2195676-180625080150834.png",
         "price": 0,
@@ -87,13 +87,13 @@
         "description": "1TB Capacity\nUSB 3.2 Gen 2 Interface\nRead Speeds up to 1050 MB/s\nWrite Speeds up to 1000 MB/s.",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "1TB",
-          "Read Speed": "1050 MB/s",
-          "Write Speed": "1000 MB/s.",
-          "Shock Proof": "Yes",
-          "Password Protection": "Yes",
-          "Color": "Beige"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "1TB",
+          "read_speed": "1050 MB/s",
+          "write_speed": "1000 MB/s.",
+          "shock_proof": "Yes",
+          "password_protection": "Yes",
+          "color": "Beige"
         },
         "image": "https://static.webx.pk/files/78721/Images/26-czone.com.pk-1540-13409-210722121803-78721-2195675-180125103932535.jpg",
         "price": 0,
@@ -107,11 +107,11 @@
         "description": "Capacity : 2TB\nShock Resistant\nThermal Control\nInterface : USB 3.2\nRead Speed : 1050 MB/s\nWrite Speed : 1000 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2",
-          "Capacity": "2TB",
-          "Read Speed": "1050 MB/s",
-          "Write Speed": "1000 MB/s",
-          "Color": "Grey"
+          "interface": "USB 3.2",
+          "capacity": "2TB",
+          "read_speed": "1050 MB/s",
+          "write_speed": "1000 MB/s",
+          "color": "Grey"
         },
         "image": "https://static.webx.pk/files/78721/Images/mu-pc500t-004-back-black-78721-2195672-180625075501849.jpg",
         "price": 0,
@@ -125,13 +125,13 @@
         "description": "4TB Capacity\nUSB 3.2 Gen 2 Interface\nRead Speeds up to 1050 MB/s\nWrite Speeds up to 1000 MB/s.",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2",
-          "Capacity": "4TB",
-          "Read Speed": "1050 MB/s",
-          "Write Speed": "1000 MB/s.",
-          "Shock Proof": "Yes",
-          "Password Protection": "Yes",
-          "Color": "Black"
+          "interface": "USB 3.2",
+          "capacity": "4TB",
+          "read_speed": "1050 MB/s",
+          "write_speed": "1000 MB/s.",
+          "shock_proof": "Yes",
+          "password_protection": "Yes",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-t7-4tb-portable-78721-2195670-160924105944734.png",
         "price": 0,
@@ -151,9 +151,9 @@
         "description": "Capacity 4TB\nInterface SATA III 6 Gb/s\nForm Factor 3.5″\nRotational Speed 7200 rpm",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "3.5 Inch",
-          "Interface": "SATA 6Gb/s",
-          "Capacity": "4TB"
+          "form_factor": "3.5 Inch",
+          "interface": "SATA 6Gb/s",
+          "capacity": "4TB"
         },
         "image": "https://static.webx.pk/files/78721/Images/4tb--1-78721-2195658-130924051011537.jpg",
         "price": 0,
@@ -180,11 +180,11 @@
         "description": "Interface USB 3.2\nSuperSpeed USB cable\nPassword Protection\nBuilt-in 256-bit AES hardware encryption",
         "attributes": {
           "brand": "WD",
-          "Interface": "USB 3.2 Gen1",
-          "Capacity": "4TB",
-          "Shock Proof": "No",
-          "Password Protection": "Yes",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen1",
+          "capacity": "4TB",
+          "shock_proof": "No",
+          "password_protection": "Yes",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/41xdwkbroal.-ac-uf894,1000-ql80--78721-2195631-110924104220939.jpg",
         "price": 0,
@@ -217,11 +217,11 @@
         "description": "Capacity : 2TB\nDrop Resistant\nThermal Guard\nInterface : USB 3.2 Gen 2×2 (20 Gbps)\nRead Speed : 2000 MB/s\nWrite Speed : 1950 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2×2 (20 Gbps)",
-          "Capacity": "2TB",
-          "Read Speed": "2000 MB/s",
-          "Write Speed": "1950 MB/s",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 2×2 (20 Gbps)",
+          "capacity": "2TB",
+          "read_speed": "2000 MB/s",
+          "write_speed": "1950 MB/s",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-t9-1tb-portable-ssd-price-in-pakistan-4-19643-0-2604-78721-2195677-110924112602116.jpg",
         "price": 0,
@@ -235,11 +235,11 @@
         "description": "Capacity : 1TB\nInterface : USB 3.2 Gen 2×2 (20 Gbps)\nRead Speed : 2000 MB/s\nWrite Speed : 1950 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen",
-          "Capacity": "1TB",
-          "Read Speed": "2000 MB/s",
-          "Write Speed": "1950 MB/s",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen",
+          "capacity": "1TB",
+          "read_speed": "2000 MB/s",
+          "write_speed": "1950 MB/s",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/images-29-78721-2195681-110924112550928.jpeg",
         "price": 0,
@@ -272,11 +272,11 @@
         "description": "PCIe Gen3 x4 NVMe v1.4\nSequential Read Performance 3400MB/s\nSequential Write Performance 2900MB/s\nCapacity 2TB",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen3x4",
-          "Capacity": "2TB",
-          "Read Speed": "Up to 3400MB/s",
-          "Write Speed": "Up to 2900MB/s"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen3x4",
+          "capacity": "2TB",
+          "read_speed": "Up to 3400MB/s",
+          "write_speed": "Up to 2900MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/sn-700-2-78721-2195746-120924110950986.jpg",
         "price": 0,
@@ -290,11 +290,11 @@
         "description": "PCIe Gen3 x4 NVMe v1.4\nSequential Read Performance 3400MB/s\nSequential Write Performance 3100MB/s\nCapacity 4TB",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen3x4",
-          "Capacity": "4TB",
-          "Read Speed": "Up to 3400MB/s",
-          "Write Speed": "Up to 3100MB/s"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen3x4",
+          "capacity": "4TB",
+          "read_speed": "Up to 3400MB/s",
+          "write_speed": "Up to 3100MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/wd-red-ssd-price-in-pakistan-galaxypk-1-78721-2195747-120924063031555.jpg",
         "price": 0,
@@ -308,11 +308,11 @@
         "description": "PCIe Gen3 x4 NVMe v1.4\nSequential Read Performance 3430MB/s\nSequential Write Performance 3000MB/s\nCapacity 1TB",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen3x4",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 3430MB/s",
-          "Write Speed": "Up to 3000MB/s"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen3x4",
+          "capacity": "1TB",
+          "read_speed": "Up to 3430MB/s",
+          "write_speed": "Up to 3000MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/sn-700--2-78721-2195744-120924110212273.jpg",
         "price": 0,
@@ -410,12 +410,12 @@
         "description": "Capacity : 2TB\nForm Factor : M.2 (2280)\nRead Speed : Up to 7,450 MB/s\nWrite Speed :Up to 6,900 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen 4.0 x4",
-          "Capacity": "2TB",
-          "Read Speed": "Up to 7,450 MB/s",
-          "Write Speed": "Up to 6,900 MB/s",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen 4.0 x4",
+          "capacity": "2TB",
+          "read_speed": "Up to 7,450 MB/s",
+          "write_speed": "Up to 6,900 MB/s",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-990-pro-78721-2195730-120924060620093.jpg",
         "price": 0,
@@ -429,11 +429,11 @@
         "description": "2TB Capacity\nUSB 3.2 Gen 2 Interface\nNand Flash Technology\nRead Speeds Up to 460MB/s\nWrite Speeds Up to 460MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "2TB",
-          "Read Speed": "460MB/s",
-          "Write Speed": "460MB/s",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "2TB",
+          "read_speed": "460MB/s",
+          "write_speed": "460MB/s",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/11-4012-1988092-200224074353517-78721-2195678-110924115157205.jpg",
         "price": 0,
@@ -447,12 +447,12 @@
         "description": "Capacity : 2TB\nForm Factor : M.2 (2280)\nRead Speed : 3500MB/s Seq.\nWrite Speed : 3300MB/s Seq.",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe 3.0 x4, NVMe",
-          "Capacity": "2TB",
-          "Read Speed": "3500MB/s Seq",
-          "Write Speed": "3300MB/s Seq",
-          "NAND Flash": "V-NAND"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe 3.0 x4, NVMe",
+          "capacity": "2TB",
+          "read_speed": "3500MB/s Seq",
+          "write_speed": "3300MB/s Seq",
+          "nand_flash": "V-NAND"
         },
         "image": "https://static.webx.pk/files/78721/Images/ssd-2-78721-2195721-120924070450919.jpg",
         "price": 0,
@@ -466,12 +466,12 @@
         "description": "Capacity : 2TB\nForm Factor : M.2 (2280)\nRead Speed : 7450MB/s Seq\nWrite Speed : 6900MB/s Seq.",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen 4.0 x4",
-          "Capacity": "2TB",
-          "Read Speed": "7450MB/s Seq.",
-          "Write Speed": "6900MB/s Seq.",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen 4.0 x4",
+          "capacity": "2TB",
+          "read_speed": "7450MB/s Seq.",
+          "write_speed": "6900MB/s Seq.",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-990-pro-price-in-galaxypk--3-78721-2195729-120924055820151.jpg",
         "price": 0,
@@ -485,12 +485,12 @@
         "description": "Capacity : 2TB\nForm Factor : M.2 (2280)\nRead Speed : 7000MB/s Seq.\nWrite Speed : 5100MB/s Seq.",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe 4.0",
-          "Capacity": "2TB",
-          "Read Speed": "Up to 7,000 MB/s",
-          "Write Speed": "Up to 5,100 MB/s",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe 4.0",
+          "capacity": "2TB",
+          "read_speed": "Up to 7,000 MB/s",
+          "write_speed": "Up to 5,100 MB/s",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/2tb-980-ssd-price-in-pakistan-galaxypk---3-78721-2195736-120924093359568.jpg",
         "price": 0,
@@ -504,12 +504,12 @@
         "description": "Capacity : 2TB\nForm Factor : M.2 (2280)\nRead Speed : 7000MB/s Seq.\nWrite Speed : 5000MB/s Seq.",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen 4.0 x4",
-          "Capacity": "2TB",
-          "Read Speed": "7000MB/s Seq.",
-          "Write Speed": "5000MB/s Seq.",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen 4.0 x4",
+          "capacity": "2TB",
+          "read_speed": "7000MB/s Seq.",
+          "write_speed": "5000MB/s Seq.",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-980-pro-price-in-pakistan-galaxypk--1-78721-2195727-120924053923448.jpg",
         "price": 0,
@@ -555,11 +555,11 @@
         "description": "4TB Capacity\nUSB 3.2 Gen 2 Interface\nStylish metal body keeps you looking good\nRead Speeds: Max 1050MB/s\nWrite Speeds: Max 1000 MB/s",
         "attributes": {
           "brand": "Lenovo",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "4TB",
-          "Read Speed": "1050MB/s",
-          "Write Speed": "1000 MB/s",
-          "Color": "Grey"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "4TB",
+          "read_speed": "1050MB/s",
+          "write_speed": "1000 MB/s",
+          "color": "Grey"
         },
         "image": "https://static.webx.pk/files/78721/Images/images-27-78721-2195667-110924111221882.jpeg",
         "price": 0,
@@ -669,8 +669,8 @@
         "description": "Capacity: 10TB\nConnector: SATA\nTransfer rate: Upto 273MB/s\nDisk Speed (RPM): 7200 RPM\nCache:256MB\nSecurity: SE",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "3.5 Inch",
-          "Capacity": "10TB"
+          "form_factor": "3.5 Inch",
+          "capacity": "10TB"
         },
         "image": "https://static.webx.pk/files/78721/Images/ultrastar-dc-hc330-front.png.wdthumb.1280.1280-78721-2195655-040225091320838.png",
         "price": 0,
@@ -742,9 +742,9 @@
         "description": "Versatile, Fast and Dependable\n64MB Cache\nSATA 6.0Gb/s 3.5″\nMulti-Tier Caching Technology",
         "attributes": {
           "brand": "Seagate",
-          "Form Factor": "3.5 Inch",
-          "Interface": "SATA 6.0Gb/s",
-          "Capacity": "8TB"
+          "form_factor": "3.5 Inch",
+          "interface": "SATA 6.0Gb/s",
+          "capacity": "8TB"
         },
         "image": "https://static.webx.pk/files/78721/Images/8tb-78721-2195651-130924053026748.jpg",
         "price": 0,
@@ -803,11 +803,11 @@
         "description": "4TB Capacity\nUSB 3.2 Gen 2 Interface\nNand Flash Technology\nRead Speeds Up to 460MB/s\nWrite Speeds Up to 460MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "4TB",
-          "Read Speed": "460MB/s",
-          "Write Speed": "460MB/s",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "4TB",
+          "read_speed": "460MB/s",
+          "write_speed": "460MB/s",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/11-4012-1988092-200224074353517-78721-2195679-110924115200901.jpg",
         "price": 0,
@@ -821,11 +821,11 @@
         "description": "Capacity : 4TB\nForm Factor : 2.5″\nRead Speed : 560MB/s Seqa.\nWrite Speed : 530MB/s Seq.",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": " 2.5 Inch",
-          "Interface": "SATA 6Gb/s",
-          "Capacity": "4TB",
-          "Read Speed": "560MB/s Seqa.",
-          "Write Speed": "530MB/s Seq."
+          "form_factor": " 2.5 Inch",
+          "interface": "SATA 6Gb/s",
+          "capacity": "4TB",
+          "read_speed": "560MB/s Seqa.",
+          "write_speed": "530MB/s Seq."
         },
         "image": "https://static.webx.pk/files/78721/Images/870-evo-1-78721-2195723-120924071604975.jpg",
         "price": 0,
@@ -884,14 +884,14 @@
         "description": "Capacity : 1TB\nInterface : USB 3.2\nRead Speed :1050MB/s\nWrite speed : 1000MB/s\nSpecial Features : water resistance , Dust Resistance.",
         "attributes": {
           "brand": "SanDisk",
-          "Form Factor": "2.5 Inch",
-          "Interface": "USB 3.2",
-          "Capacity": "1TB",
-          "Read Speed": "1050MB/s",
-          "Write Speed": "1000MB/s",
-          "Shock Proof": "No",
-          "Password Protection": "Yes",
-          "Color": "Black"
+          "form_factor": "2.5 Inch",
+          "interface": "USB 3.2",
+          "capacity": "1TB",
+          "read_speed": "1050MB/s",
+          "write_speed": "1000MB/s",
+          "shock_proof": "No",
+          "password_protection": "Yes",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/1-4012-752876-090322072949799-78721-2195683-110924115936173.jpg",
         "price": 0,
@@ -918,7 +918,7 @@
         "description": "Our USB 3.0 flash drive flies through file transfers\nStylish and tough\nPassword-protect your files\nSpeed Meets Style",
         "attributes": {
           "brand": "SanDisk",
-          "Capacity": "128GB"
+          "capacity": "128GB"
         },
         "image": "https://static.webx.pk/files/78721/Images/copy-copy-copy-61yjkz7mf5l.-sl1100--1540-8581-230919073209-78721-0-250924094853661.jpg",
         "price": 0,
@@ -945,12 +945,12 @@
         "description": "Capacity : 1TB\nInterface : USB 3.2 Gen 2 x2\nRead Speed : 2000MB/s\nWrite speed : 2000MB/s",
         "attributes": {
           "brand": "SanDisk",
-          "Form Factor": "2.5 Inches",
-          "Interface": "USB 3.2 Gen 2 x2",
-          "Capacity": "1TB",
-          "Read Speed": "2000MB/s",
-          "Write Speed": "2000MB/s",
-          "Color": "Black"
+          "form_factor": "2.5 Inches",
+          "interface": "USB 3.2 Gen 2 x2",
+          "capacity": "1TB",
+          "read_speed": "2000MB/s",
+          "write_speed": "2000MB/s",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/sandisk-ssdportablepro-11-78721-0-240924105030213.jpg",
         "price": 0,
@@ -970,10 +970,10 @@
         "description": "Read Speed up to 550MB/s\nWrite speed up to 490MB/s\nInterface M.2 Nvme",
         "attributes": {
           "brand": "Hikvision",
-          "Interface": "M.2 Nvme",
-          "Capacity": "512GB",
-          "Read Speed": "up to 550MB/s",
-          "Write Speed": "up to 490MB/s"
+          "interface": "M.2 Nvme",
+          "capacity": "512GB",
+          "read_speed": "up to 550MB/s",
+          "write_speed": "up to 490MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/512gb--1-78721-2195699-120924012159032.jpg",
         "price": 0,
@@ -987,10 +987,10 @@
         "description": "Read Speed up to 2100MB/s\nWrite speed up to 1800MB/s\nInterface M.2 Nvme",
         "attributes": {
           "brand": "Hikvision",
-          "Interface": " M.2 Nvme",
-          "Capacity": "1024GB",
-          "Read Speed": "up to 2100MB/s",
-          "Write Speed": "up to 1800MB/s"
+          "interface": " M.2 Nvme",
+          "capacity": "1024GB",
+          "read_speed": "up to 2100MB/s",
+          "write_speed": "up to 1800MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/512gb--1-78721-2195700-120924012452539.jpg",
         "price": 0,
@@ -1004,12 +1004,12 @@
         "description": "Total Capacity: 1024 GB\nMax. read speed (MB/s): 560\nMax. write speed (MB/s): 500\nSATA III 6 Gb/s Interface",
         "attributes": {
           "brand": "Hikvision",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6.0Gb/s",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 560 MB/s",
-          "Write Speed": "Up to 500 MB/s",
-          "NAND Flash": "3D NAND"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6.0Gb/s",
+          "capacity": "1TB",
+          "read_speed": "Up to 560 MB/s",
+          "write_speed": "Up to 500 MB/s",
+          "nand_flash": "3D NAND"
         },
         "image": "https://static.webx.pk/files/78721/Images/1024-gb-2-78721-2195698-120924011728584.jpg",
         "price": 0,
@@ -1029,9 +1029,9 @@
         "description": "Capacity 6TB\nInterface SATA III 6 Gb/s\nForm Factor 3.5″\nRotational Speed 7200 rpm",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "3.5 Inch",
-          "Interface": "SATA 6Gb/s",
-          "Capacity": "6TB"
+          "form_factor": "3.5 Inch",
+          "interface": "SATA 6Gb/s",
+          "capacity": "6TB"
         },
         "image": "https://static.webx.pk/files/78721/Images/6tb-3-78721-2195659-130924051547195.jpg",
         "price": 0,
@@ -1064,9 +1064,9 @@
         "description": "Ultimate portability\nQuick and convenient\nUSB 3.2 Gen 1\n256GB Storage Capacity",
         "attributes": {
           "brand": "Kingston",
-          "Interface": "USB 3.2 Gen 1",
-          "Capacity": "256GB",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 1",
+          "capacity": "256GB",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/698ea821df26bf4f8dd8037e531caa24-6a0b836b-dc19-4d99-bebb-6b5-78721-2195642-110924011550919.jpg",
         "price": 0,
@@ -1080,11 +1080,11 @@
         "description": "Gen 4x4 NVMe PCIe Performance\nUp to 3,000MB/s Read, 1,300MB/s Write",
         "attributes": {
           "brand": "Kingston",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe 4.0 x4 NVMe",
-          "Capacity": "256GB",
-          "Read Speed": "3,000MB/s",
-          "Write Speed": "1,300MB/s"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe 4.0 x4 NVMe",
+          "capacity": "256GB",
+          "read_speed": "3,000MB/s",
+          "write_speed": "1,300MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/ktc-product-ssd-snv2s-250g-3-lg-78721-0-240924011019212.jpg",
         "price": 0,
@@ -1104,12 +1104,12 @@
         "description": "Capacity : 1TB\nForm Factor : M.2 (2280)\nRead Speed : Up to 7,450 MB/s\nWrite Speed :Up to 6,900 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen 4.0 x4",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 7,450 MB/s",
-          "Write Speed": "Up to 6,900 MB/s",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen 4.0 x4",
+          "capacity": "1TB",
+          "read_speed": "Up to 7,450 MB/s",
+          "write_speed": "Up to 6,900 MB/s",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/990-heatsink-2-78721-2195731-120924072935216.jpg",
         "price": 0,
@@ -1123,12 +1123,12 @@
         "description": "Capacity : 1TB\nForm Factor : M.2 (2280)\nRead Speed :3500MB/s Seq.\nWrite Speed : 3000MB/s Seq.",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen 3.0 x4",
-          "Capacity": "1TB",
-          "Read Speed": "3500MB/s Seq",
-          "Write Speed": "3000MB/s Seq.",
-          "NAND Flash": "V-NAND"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen 3.0 x4",
+          "capacity": "1TB",
+          "read_speed": "3500MB/s Seq",
+          "write_speed": "3000MB/s Seq.",
+          "nand_flash": "V-NAND"
         },
         "image": "https://static.webx.pk/files/78721/Images/ssd-980-1-78721-2195725-120924072022325.jpg",
         "price": 0,
@@ -1142,12 +1142,12 @@
         "description": "Capacity : 1TB\nForm Factor : 2.5″\nRead Speed : Up to 560 MB/s\nWrite Speed : Up to 530 MB/s",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6Gb/s",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 560 MB/s",
-          "Write Speed": "Up to 530 MB/s",
-          "NAND Flash": "V-NAND"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6Gb/s",
+          "capacity": "1TB",
+          "read_speed": "Up to 560 MB/s",
+          "write_speed": "Up to 530 MB/s",
+          "nand_flash": "V-NAND"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-1tb-3-78721-2195716-120924120244808.jpg",
         "price": 0,
@@ -1161,12 +1161,12 @@
         "description": "Capacity : 1TB\nForm Factor : M.2 (2280)\nRead Speed : 7450MB/s Seq.\nWrite Speed : 6900MB/s Seq.\n ",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen 4.0 x4",
-          "Capacity": "1TB",
-          "Read Speed": "7450MB/s Seq.",
-          "Write Speed": "6900MB/s Seq.",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen 4.0 x4",
+          "capacity": "1TB",
+          "read_speed": "7450MB/s Seq.",
+          "write_speed": "6900MB/s Seq.",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-990-pro-price-in-pakistan-galaxypk-78721-2195728-120924054954611.jpg",
         "price": 0,
@@ -1180,12 +1180,12 @@
         "description": "Capacity : 1TB\nForm Factor : M.2 (2280)\nRead Speed : 7000MB/s Seq.\nWrite Speed : 5000MB/s Seq.\n ",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen 4.0 x4",
-          "Capacity": "1TB",
-          "Read Speed": "7000MB/s Seq.",
-          "Write Speed": "5000MB/s Seq.",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen 4.0 x4",
+          "capacity": "1TB",
+          "read_speed": "7000MB/s Seq.",
+          "write_speed": "5000MB/s Seq.",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/samsung-980-pro-nvme--price-in-pakistan-galaxy-pk-1-78721-2195720-120924065525193.jpg",
         "price": 0,
@@ -1244,12 +1244,12 @@
         "description": "Capacity 256GB\nInterface 2.5” SATA III (6Gb/s)\nRead Speed 550MB/s\nWrite Speed 520MB/s",
         "attributes": {
           "brand": "Lexar",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6Gb/s",
-          "Capacity": "256GB",
-          "Read Speed": "Up to 550MB/s",
-          "Write Speed": "Up to 520MB/s",
-          "NAND Flash": "3D TLC"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6Gb/s",
+          "capacity": "256GB",
+          "read_speed": "Up to 550MB/s",
+          "write_speed": "Up to 520MB/s",
+          "nand_flash": "3D TLC"
         },
         "image": "https://static.webx.pk/files/78721/Images/lexar-1-78721-2195705-120924125626808.jpg",
         "price": 0,
@@ -1282,9 +1282,9 @@
         "description": "Ultimate portability\nQuick and convenient\nUSB 3.2 Gen 1\n128GB Storage Capacity",
         "attributes": {
           "brand": "Kingston",
-          "Interface": "USB 3.2 Gen 1",
-          "Capacity": "128GB",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 1",
+          "capacity": "128GB",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/698ea821df26bf4f8dd8037e531caa24-6a0b836b-dc19-4d99-bebb-6b5-78721-2195641-110924011547253.jpg",
         "price": 0,
@@ -1298,9 +1298,9 @@
         "description": "Transfer rate 100MB\nMicroSDHC card\nSpeed Classs 10",
         "attributes": {
           "brand": "Kingston",
-          "Capacity": "128GB",
-          "Read Speed": "100MB/s",
-          "Write Speed": "85MB/s "
+          "capacity": "128GB",
+          "read_speed": "100MB/s",
+          "write_speed": "85MB/s "
         },
         "image": "https://static.webx.pk/files/78721/Images/128gb-1-78721-2195662-120924013714249.jpg",
         "price": 0,
@@ -1320,12 +1320,12 @@
         "description": "Capacity : 2TB\nInterface : USB 3.2\nRead speed: 520MB/s\nTough rubber hook to secure it to your belt loop or backpack",
         "attributes": {
           "brand": "SanDisk",
-          "Form Factor": "2.5 Inch",
-          "Interface": "USB 3.2",
-          "Capacity": "2TB",
-          "Read Speed": "520MB/s",
-          "Write Speed": "500MB/s",
-          "Color": "Black"
+          "form_factor": "2.5 Inch",
+          "interface": "USB 3.2",
+          "capacity": "2TB",
+          "read_speed": "520MB/s",
+          "write_speed": "500MB/s",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/sandisk-e30-portable-1tb-ssd-drive-price-in-pakistan-galaxy.-78721-2195682-110924115657817.jpg",
         "price": 0,
@@ -1345,11 +1345,11 @@
         "description": "",
         "attributes": {
           "brand": "Lexar",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6.0Gb/s",
-          "Capacity": "2TB",
-          "Read Speed": "Up to 550MB/s",
-          "Shock Proof": "Yes"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6.0Gb/s",
+          "capacity": "2TB",
+          "read_speed": "Up to 550MB/s",
+          "shock_proof": "Yes"
         },
         "image": "https://static.webx.pk/files/78721/Images/lexar--2-78721-2195710-120924112703307.jpg",
         "price": 0,
@@ -1363,12 +1363,12 @@
         "description": "Capacity 2TB\nInterface  PCIe Gen3x4\nRead Speed upto 3500MB/s\nWrite speed upto 3000MB/s",
         "attributes": {
           "brand": "Lexar",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen3x4",
-          "Capacity": "2TB",
-          "Read Speed": "Up to 3500MB/s",
-          "Write Speed": "up to 3000MB/s",
-          "NAND Flash": "3D TLC"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen3x4",
+          "capacity": "2TB",
+          "read_speed": "Up to 3500MB/s",
+          "write_speed": "up to 3000MB/s",
+          "nand_flash": "3D TLC"
         },
         "image": "https://static.webx.pk/files/78721/Images/lexar-nvme-1-78721-2195712-120924113506397.jpg",
         "price": 0,
@@ -1401,12 +1401,12 @@
         "description": "Capacity 128GB\nInterface 2.5” SATA III (6Gb/s)\nRead Speed 550MB/s\nWrite Speed 520MB/s",
         "attributes": {
           "brand": "Lexar",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6.0Gb/s",
-          "Capacity": "128GB",
-          "Read Speed": "Up to 550MB/s",
-          "Write Speed": "Up to 520MB/s",
-          "NAND Flash": "3D TLC"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6.0Gb/s",
+          "capacity": "128GB",
+          "read_speed": "Up to 550MB/s",
+          "write_speed": "Up to 520MB/s",
+          "nand_flash": "3D TLC"
         },
         "image": "https://static.webx.pk/files/78721/Images/lexar-1-78721-2195707-120924112054319.jpg",
         "price": 0,
@@ -1503,9 +1503,9 @@
         "description": "Capacity: 12TB\nConnector: SATA\nTransfer rate: Upto 245MB/s\nDisk Speed (RPM): 7200 RPM\nCache:256MB",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "3.5 Inch",
-          "Interface": "SATA 6.0Gb/s",
-          "Capacity": "6TB"
+          "form_factor": "3.5 Inch",
+          "interface": "SATA 6.0Gb/s",
+          "capacity": "6TB"
         },
         "image": "https://static.webx.pk/files/78721/Images/wd-purple-surveillance-hard-drive-12tb.png.wdthumb.1280.1280-78721-2195650-040225090906120.png",
         "price": 0,
@@ -1551,11 +1551,11 @@
         "description": "USB 3.0 Cable\nRescue Data Recovery Services\nDesktop Hard Drive\nReady to use in seconds.",
         "attributes": {
           "brand": "Seagate",
-          "Interface": "USB 3.0",
-          "Capacity": "1TB",
-          "Shock Proof": "No",
-          "Password Protection": "No",
-          "Color": "Black"
+          "interface": "USB 3.0",
+          "capacity": "1TB",
+          "shock_proof": "No",
+          "password_protection": "No",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/seagate-expansion-external-hard-drive-78721-2195615-110924110541060.jpg",
         "price": 0,
@@ -1569,11 +1569,11 @@
         "description": "USB 3.0 Cable\nRescue Data Recovery Services\nDesktop Hard Drive\nReady to use in seconds",
         "attributes": {
           "brand": "Seagate",
-          "Interface": "USB 3.0",
-          "Capacity": "2TB",
-          "Shock Proof": "No",
-          "Password Protection": "No",
-          "Color": "Black"
+          "interface": "USB 3.0",
+          "capacity": "2TB",
+          "shock_proof": "No",
+          "password_protection": "No",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/61hdep4b4fl.-ac-sl1000---08202-78721-2195616-110924110532250.jpg",
         "price": 0,
@@ -1587,11 +1587,11 @@
         "description": "USB 3.0 Cable\nRescue Data Recovery Services\nDesktop Hard Drive\nReady to use in seconds",
         "attributes": {
           "brand": "Seagate",
-          "Interface": "USB 3.0",
-          "Capacity": "4TB",
-          "Shock Proof": "No",
-          "Password Protection": "No",
-          "Color": "Black"
+          "interface": "USB 3.0",
+          "capacity": "4TB",
+          "shock_proof": "No",
+          "password_protection": "No",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/seagate-expansion-external-hard-drive-78721-2195617-110924110528346.jpg",
         "price": 0,
@@ -1611,11 +1611,11 @@
         "description": "Interface USB 3.2\nSuperSpeed USB cable\nPassword Protection\nBuilt-in 256-bit AES hardware encryption\n ",
         "attributes": {
           "brand": "WD",
-          "Interface": "USB 3.2 Gen1",
-          "Capacity": "1TB",
-          "Shock Proof": "No",
-          "Password Protection": "Yes",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen1",
+          "capacity": "1TB",
+          "shock_proof": "No",
+          "password_protection": "Yes",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/41xdwkbroal.-ac-uf894,1000-ql80--78721-2195629-110924104243381.jpg",
         "price": 0,
@@ -1635,10 +1635,10 @@
         "description": "14TB Hub with (Type-c)\nUSB 3.0 Interface\nBus Powered\nFormatted exFAT for Windows & Mac\nIncludes Adobe CC Photography Plan\nIncludes Mylio Create Plan\nIncludes USB 3.0 Cable\n",
         "attributes": {
           "brand": "Seagate",
-          "Form Factor": "One Touch",
-          "Interface": "USB 3.0",
-          "Capacity": "14TB",
-          "Color": "Black"
+          "form_factor": "One Touch",
+          "interface": "USB 3.0",
+          "capacity": "14TB",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/1115-78721-2195625-110924063607048.jpg",
         "price": 0,
@@ -1677,11 +1677,11 @@
         "description": "PCIe Gen3 x4 interface\nExcellent read/write performance\nHeat sink keeps things 15% cooler\nGreat upgrade option for creators\nHigh capacities\nSupports NVMe 1.4,LDPC & AES 256-bit encryption.",
         "attributes": {
           "brand": "Adata",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen3 x4",
-          "Capacity": "512GB",
-          "NAND Flash": "3D NAND",
-          "Color": "Black/Blue"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen3 x4",
+          "capacity": "512GB",
+          "nand_flash": "3D NAND",
+          "color": "Black/Blue"
         },
         "image": "https://static.webx.pk/files/78721/Images/adata-3-78721-2195686-120924115013683.jpg",
         "price": 0,
@@ -1695,11 +1695,11 @@
         "description": "PCIe Gen3 x4 interface\nExcellent read/write performance\nHeat sink keeps things 15% cooler\nGreat upgrade option for creators\nHigh capacities\nSupports NVMe 1.4\nLDPC & AES 256-bit encryption",
         "attributes": {
           "brand": "Adata",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen3 x4",
-          "Capacity": "1TB",
-          "Read Speed": "3D NAND",
-          "Color": "Black/Blue"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen3 x4",
+          "capacity": "1TB",
+          "read_speed": "3D NAND",
+          "color": "Black/Blue"
         },
         "image": "https://static.webx.pk/files/78721/Images/adata--2-78721-2195687-120924115313845.jpg",
         "price": 0,
@@ -1719,11 +1719,11 @@
         "description": "Capacity 512GB\nInterface 2.5” SATA III (6Gb/s)\nRead Speed 550 MB/s\nWrite Speed 520MB/s",
         "attributes": {
           "brand": "Lexar",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6.0Gb/s",
-          "Capacity": "512GB",
-          "Read Speed": "Up to 550MB/s",
-          "Write Speed": "Up to 520MB/s"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6.0Gb/s",
+          "capacity": "512GB",
+          "read_speed": "Up to 550MB/s",
+          "write_speed": "Up to 520MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/nq100-slider-480gb-1-78721-2195706-290725064551830.webp",
         "price": 0,
@@ -1737,10 +1737,10 @@
         "description": "Up to 3300MB/s read, 2400MB/s write\nNVMe 1.4 Standard\nPCle Gen 3x4 Interface\nEnergy Efficient",
         "attributes": {
           "brand": "Lexar",
-          "Interface": "PCle Gen 3x4",
-          "Capacity": "512GB",
-          "Read Speed": "3300MB/s",
-          "Write Speed": "2400MB/s"
+          "interface": "PCle Gen 3x4",
+          "capacity": "512GB",
+          "read_speed": "3300MB/s",
+          "write_speed": "2400MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/nm620-slider-512gb-1-78721-0-240924014839828.png",
         "price": 0,
@@ -1760,8 +1760,8 @@
         "description": "Transfer rate 95MB\nMicroSDHC card\nSpeed Classs 10",
         "attributes": {
           "brand": "Lexar",
-          "Capacity": "32GB",
-          "Read Speed": "Class10"
+          "capacity": "32GB",
+          "read_speed": "Class10"
         },
         "image": "https://static.webx.pk/files/78721/Images/lexar-memorycard---2-78721-2195663-120924014044573.jpg",
         "price": 0,
@@ -1781,11 +1781,11 @@
         "description": "Interface USB 3.2\nSuperSpeed USB cable\nPassword Protection\nBuilt-in 256-bit AES hardware encryption\n ",
         "attributes": {
           "brand": "WD",
-          "Interface": "USB 3.2 Gen1",
-          "Capacity": "2TB",
-          "Shock Proof": "No",
-          "Password Protection": "Yes",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen1",
+          "capacity": "2TB",
+          "shock_proof": "No",
+          "password_protection": "Yes",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/41xdwkbroal.-ac-uf894,1000-ql80--78721-2195630-110924104231414.jpg",
         "price": 0,
@@ -1818,11 +1818,11 @@
         "description": "Lightning-fast transfer speeds\nExcellent anti-shock protection\nTransfer rates of up to 5Gbps\nOne touch auto backup",
         "attributes": {
           "brand": "Transcend",
-          "Interface": "USB 3.2 Gen1",
-          "Capacity": "1TB",
-          "Shock Proof": "Yes",
-          "Password Protection": "No",
-          "Color": "Black / Green"
+          "interface": "USB 3.2 Gen1",
+          "capacity": "1TB",
+          "shock_proof": "Yes",
+          "password_protection": "No",
+          "color": "Black / Green"
         },
         "image": "https://static.webx.pk/files/78721/Images/be5075210c1c2f1fbaa27016777df32f.jpg-720x720q80-78721-2195627-110924105015000.jpg",
         "price": 0,
@@ -1836,11 +1836,11 @@
         "description": "Lightning-fast transfer speeds\nExcellent anti-shock protection\nTransfer rates of up to 5Gbps\nOne touch auto backup",
         "attributes": {
           "brand": "Transcend",
-          "Interface": "USB 3.2 Gen1",
-          "Capacity": "2TB",
-          "Shock Proof": "Yes",
-          "Password Protection": "No",
-          "Color": "Black / Green "
+          "interface": "USB 3.2 Gen1",
+          "capacity": "2TB",
+          "shock_proof": "Yes",
+          "password_protection": "No",
+          "color": "Black / Green "
         },
         "image": "https://static.webx.pk/files/78721/Images/be5075210c1c2f1fbaa27016777df32f.jpg-720x720q80-78721-2195626-110924105020468.jpg",
         "price": 0,
@@ -1860,12 +1860,12 @@
         "description": "Interface PCIe\nSequential Read Performance 2400MB/s\nSequential Write Performance 1750MB/s\nCapacity 500 GB",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe",
-          "Capacity": "500GB",
-          "Read Speed": "Up to 2400MB/s",
-          "Write Speed": "Up to 1750MB/s",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe",
+          "capacity": "500GB",
+          "read_speed": "Up to 2400MB/s",
+          "write_speed": "Up to 1750MB/s",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/wd-500gb-price-in-pakistan-galaxy-pk-2-78721-2195743-120924105408162.jpg",
         "price": 0,
@@ -1918,11 +1918,11 @@
         "description": "PCIe Gen4 x4 M.2 2280\n4150MB/s sequential read performance\nMake light work of heavy files",
         "attributes": {
           "brand": "WD",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen4 x4",
-          "Capacity": "1TB",
-          "Read Speed": "4150MB/s",
-          "Write Speed": "4150MB/s"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen4 x4",
+          "capacity": "1TB",
+          "read_speed": "4150MB/s",
+          "write_speed": "4150MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/wd-blue-sn580-nvme-ssd-1tb-front.png.wdthumb.1280.1280-78721-0-190425104615782.png",
         "price": 0,
@@ -1942,12 +1942,12 @@
         "description": "Capacity 1TB\nInterface  PCIe Gen3x4\nRead Speed upto 3500MB/s\nWrite speed upto 3000MB/s",
         "attributes": {
           "brand": "Lexar",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe Gen3x4",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 3500MB/s",
-          "Write Speed": "up to 3000MB/s",
-          "NAND Flash": "3D TLC"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe Gen3x4",
+          "capacity": "1TB",
+          "read_speed": "Up to 3500MB/s",
+          "write_speed": "up to 3000MB/s",
+          "nand_flash": "3D TLC"
         },
         "image": "https://static.webx.pk/files/78721/Images/nvme-1-78721-2195711-120924113058374.jpg",
         "price": 0,
@@ -1961,11 +1961,11 @@
         "description": "Capacity 1TB\nInterface 2.5” SATA III (6Gb/s)\nRead Speed 550MB/s",
         "attributes": {
           "brand": "Lexar",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6.0Gb/s",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 550MB/s",
-          "Shock Proof": "Yes"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6.0Gb/s",
+          "capacity": "1TB",
+          "read_speed": "Up to 550MB/s",
+          "shock_proof": "Yes"
         },
         "image": "https://static.webx.pk/files/78721/Images/lexar-3-78721-2195709-120924112448923.jpg",
         "price": 0,
@@ -1998,10 +1998,10 @@
         "description": "2TB Storage Capacity\nUSB 3.0 Interface, Convenient Backup\nHigh Capacity, Steller Style\nMeasurably Small, Amazingly fast\nIncludes Adobe Creative CLoud Photography Plan\nOrganize Your Memories With Mylio Create, Includes USB 3.0 Cable.",
         "attributes": {
           "brand": "Seagate",
-          "Form Factor": "One Touch",
-          "Interface": "USB 3.0",
-          "Capacity": "2TB",
-          "Color": "Black"
+          "form_factor": "One Touch",
+          "interface": "USB 3.0",
+          "capacity": "2TB",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/seagate-one-touch-5tb-external-hard-drive-black-usb-3-0-stkc-78721-2195621-110924105714756.jpeg",
         "price": 0,
@@ -2021,12 +2021,12 @@
         "description": "Capacity : 250GB\nForm Factor : 2.5″\nRead Speed : 560MB/s Seq.\nWrite Speed : 530MB/s Seq.",
         "attributes": {
           "brand": "Samsung",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATA 6Gb/s",
-          "Capacity": "250GB",
-          "Read Speed": "560MB/s Seq.",
-          "Write Speed": "530MB/s Seq",
-          "NAND Flash": "V-NAND"
+          "form_factor": "2.5-Inch",
+          "interface": "SATA 6Gb/s",
+          "capacity": "250GB",
+          "read_speed": "560MB/s Seq.",
+          "write_speed": "530MB/s Seq",
+          "nand_flash": "V-NAND"
         },
         "image": "https://static.webx.pk/files/78721/Images/250gb-3-78721-2195713-120924010133713.jpg",
         "price": 0,
@@ -2046,12 +2046,12 @@
         "description": "Ideal for laptops & small form factor PCs\nUp to 2,100MB/s Read, 1,700MB/s Write\nNVMe PCIe SSD Performance",
         "attributes": {
           "brand": "Kingston",
-          "Form Factor": "M.2 2280",
-          "Interface": "NVMe™ PCIe Gen 3.0 x 4 Lanes",
-          "Capacity": "500GB",
-          "Read Speed": "Up to 2,100MB/s",
-          "Write Speed": "Up to 1,700MB/s",
-          "NAND Flash": "No"
+          "form_factor": "M.2 2280",
+          "interface": "NVMe™ PCIe Gen 3.0 x 4 Lanes",
+          "capacity": "500GB",
+          "read_speed": "Up to 2,100MB/s",
+          "write_speed": "Up to 1,700MB/s",
+          "nand_flash": "No"
         },
         "image": "https://static.webx.pk/files/78721/Images/nv2-1-78721-2195703-120924125033787.jpg",
         "price": 0,
@@ -2071,9 +2071,9 @@
         "description": "Transfer rate 100MB\nMicroSDHC card\nSpeed Class 10",
         "attributes": {
           "brand": "Kingston",
-          "Capacity": "64GB",
-          "Read Speed": "100MB/s ",
-          "Write Speed": "85MB/s "
+          "capacity": "64GB",
+          "read_speed": "100MB/s ",
+          "write_speed": "85MB/s "
         },
         "image": "https://static.webx.pk/files/78721/Images/64gb-2-78721-2195661-120924013334037.jpg",
         "price": 0,
@@ -2087,9 +2087,9 @@
         "description": "USB 3.2 Gen 1 compliant\n64GB Storage Capacity\nUltimate portability\nQuick and convenient",
         "attributes": {
           "brand": "Kingston",
-          "Interface": "USB 3.2 Gen 1",
-          "Capacity": "64GB",
-          "Color": "Black"
+          "interface": "USB 3.2 Gen 1",
+          "capacity": "64GB",
+          "color": "Black"
         },
         "image": "https://static.webx.pk/files/78721/Images/ktc-product-usb-dtx-64gb-3-lg-78721-0-250924093217482.jpg",
         "price": 0,
@@ -2109,8 +2109,8 @@
         "description": "Transfer Speeds of up to 120MB\nSpeed Classs 10\nMicroSDHC card",
         "attributes": {
           "brand": "SanDisk",
-          "Capacity": "32GB",
-          "Read Speed": " 120MB"
+          "capacity": "32GB",
+          "read_speed": " 120MB"
         },
         "image": "https://static.webx.pk/files/78721/Images/ultra-card-2-78721-2195664-120924014313832.jpg",
         "price": 0,
@@ -2130,12 +2130,12 @@
         "description": "Interface Type : SATAII\nRead/Write Speed : 550MB/s 500MB/s\nSize : 2.5″\nType : Internal",
         "attributes": {
           "brand": "Aigo",
-          "Form Factor": "2.5-Inch",
-          "Interface": "SATAII",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 550MB/s",
-          "Write Speed": "Up to 500MB/s",
-          "NAND Flash": "3D TLC"
+          "form_factor": "2.5-Inch",
+          "interface": "SATAII",
+          "capacity": "1TB",
+          "read_speed": "Up to 550MB/s",
+          "write_speed": "Up to 500MB/s",
+          "nand_flash": "3D TLC"
         },
         "image": "https://static.webx.pk/files/78721/Images/aigo-1-78721-2195688-120924115754244.jpg",
         "price": 0,
@@ -2283,12 +2283,12 @@
         "description": "PCIe 4.0 NVMe M.2\n7,300MB/s Read, 7,000MB/s Write\nIncludes Acronis cloning software\nDouble-sided",
         "attributes": {
           "brand": "Kingston",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe 4.0 x4 NVMe",
-          "Capacity": "2TB",
-          "Read Speed": "7,300MB/s",
-          "Write Speed": "7,000MB/s",
-          "NAND Flash": "3D TLC"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe 4.0 x4 NVMe",
+          "capacity": "2TB",
+          "read_speed": "7,300MB/s",
+          "write_speed": "7,000MB/s",
+          "nand_flash": "3D TLC"
         },
         "image": "https://static.webx.pk/files/78721/Images/ktc-product-ssd-sfyrd-2000gb-3-lg-78721-0-240924124256808.jpg",
         "price": 0,
@@ -2321,12 +2321,12 @@
         "description": "PCIe 4.0 NVMe M.2\n7,300MB/s Read, 7,000MB/s Write\nIncludes Acronis cloning software\nDouble-sided",
         "attributes": {
           "brand": "Kingston",
-          "Form Factor": "M.2 2280",
-          "Interface": "PCIe 4.0 x4 NVMe",
-          "Capacity": "4TB",
-          "Read Speed": "7,300MB/s",
-          "Write Speed": "7,000MB/s",
-          "NAND Flash": "3D TLC"
+          "form_factor": "M.2 2280",
+          "interface": "PCIe 4.0 x4 NVMe",
+          "capacity": "4TB",
+          "read_speed": "7,300MB/s",
+          "write_speed": "7,000MB/s",
+          "nand_flash": "3D TLC"
         },
         "image": "https://static.webx.pk/files/78721/Images/kingston-ssd-78721-2208899-191124121636612.png",
         "price": 0,
@@ -2576,11 +2576,11 @@
         "description": "Includes USB-C to USB-A cable and USB-A to USB-C adapter\nUSB 3.2 Gen 2\nSpeeds up to 1,050MB/s read, 1,000MB/s write",
         "attributes": {
           "brand": "Kingston",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "1TB",
-          "Read Speed": "Up to 1,050MB/s",
-          "Write Speed": "1,000MB/s",
-          "NAND Flash": "3D"
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "1TB",
+          "read_speed": "Up to 1,050MB/s",
+          "write_speed": "1,000MB/s",
+          "nand_flash": "3D"
         },
         "image": "https://static.webx.pk/files/78721/Images/sxs1000-1000gb-pkg-lg-78721-0-240924111700309.jpg",
         "price": 0,
@@ -2619,12 +2619,12 @@
         "description": "USB 3.2 Gen 2 High speed Performance \nRead/ write speeds up to 1000 MB/s \nUltra-fast and safe solution to expand storage and backup files ",
         "attributes": {
           "brand": "Verbatim",
-          "Form Factor": "M.2",
-          "Interface": "USB 3.2 Gen 2",
-          "Capacity": "1TB",
-          "Read Speed": "1000 MB/s",
-          "Write Speed": "1000 MB/s",
-          "Color": "Black & Blue , Black & Grey , Black & Orange , Black & Red"
+          "form_factor": "M.2",
+          "interface": "USB 3.2 Gen 2",
+          "capacity": "1TB",
+          "read_speed": "1000 MB/s",
+          "write_speed": "1000 MB/s",
+          "color": "Black & Blue , Black & Grey , Black & Orange , Black & Red"
         },
         "image": "https://static.webx.pk/files/78721/Images/verbatim-1tbss-78721-2239227-191124123145524.png",
         "price": 0,
@@ -2638,11 +2638,11 @@
         "description": "Ideal option for upgrading hard drive-based PC or laptop computer\nLightning-fast data transfer – up to 520 MB/s read and up to 500 MB/s write\nCutting-edge 3D NAND flash technology",
         "attributes": {
           "brand": "Verbatim",
-          "Form Factor": "2.5”",
-          "Interface": "SATA 3.0",
-          "Capacity": "1TB",
-          "Read Speed": "520 MB/s",
-          "Write Speed": "500 MB/s"
+          "form_factor": "2.5”",
+          "interface": "SATA 3.0",
+          "capacity": "1TB",
+          "read_speed": "520 MB/s",
+          "write_speed": "500 MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/binary-details-9-78721-0-250924063240559.jpg",
         "price": 0,
@@ -2656,10 +2656,10 @@
         "description": "Blazing fast data transfer – up to 3100MB/s read and 2200MB/s write*PCIe NVMe Gen 3.0 x4 interface is up to 6x faster than SATA-based SSDs (not compatible with SATA interface)Faster system boot-up, decreased load times and increased system reliability",
         "attributes": {
           "brand": "Verbatim",
-          "Form Factor": "M.2",
-          "Capacity": "1TB",
-          "Read Speed": "3100MB/s",
-          "Write Speed": "2200MB/s"
+          "form_factor": "M.2",
+          "capacity": "1TB",
+          "read_speed": "3100MB/s",
+          "write_speed": "2200MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/binary-details-78721-0-240924113146219.jpg",
         "price": 0,
@@ -2679,8 +2679,8 @@
         "description": "Interface : USB 3.0\nCapacity : 32GB\nRead Speed : 40–70 MB/s\nWrite Speed : 9–25 MB/s",
         "attributes": {
           "brand": "Dahua",
-          "Interface": "USB 3.0",
-          "Capacity": "32GB"
+          "interface": "USB 3.0",
+          "capacity": "32GB"
         },
         "image": "https://static.webx.pk/files/78721/Images/usb1-thumb-78721-0-250924095505562.png",
         "price": 0,
@@ -2700,11 +2700,11 @@
         "description": "Ideal option for upgrading hard drive-based PC or laptop computer\nLightning-fast data transfer – up to 520 MB/s read and up to 460 MB/s write\nCutting-edge 3D NAND flash technology",
         "attributes": {
           "brand": "Verbatim",
-          "Form Factor": "2.5”",
-          "Interface": "SATA 3.0",
-          "Capacity": "256GB",
-          "Read Speed": "520 MB/s",
-          "Write Speed": "460 MB/s"
+          "form_factor": "2.5”",
+          "interface": "SATA 3.0",
+          "capacity": "256GB",
+          "read_speed": "520 MB/s",
+          "write_speed": "460 MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/binary-details-7-78721-0-240924115916908.jpg",
         "price": 0,
@@ -2724,12 +2724,12 @@
         "description": "Ideal option for upgrading hard drive-based PC or laptop computer\nLightning-fast data transfer – up to 520 MB/s read and up to 500 MB/s write\nCutting-edge 3D NAND flash technology",
         "attributes": {
           "brand": "Verbatim",
-          "Form Factor": "2.5”",
-          "Interface": "SATA 3.0",
-          "Capacity": "512GB",
-          "Read Speed": "520 MB/s",
-          "Write Speed": "500 MB/s",
-          "NAND Flash": "3D"
+          "form_factor": "2.5”",
+          "interface": "SATA 3.0",
+          "capacity": "512GB",
+          "read_speed": "520 MB/s",
+          "write_speed": "500 MB/s",
+          "nand_flash": "3D"
         },
         "image": "https://static.webx.pk/files/78721/Images/binary-details-5-78721-0-240924114550780.jpg",
         "price": 0,
@@ -2743,10 +2743,10 @@
         "description": "Blazing fast data transfer – up to 3100MB/s read and 2100MB/s write*PCIe NVMe Gen 3.0 x4 interface is up to 6x faster than SATA-based SSDs (not compatible with SATA interface)Faster system boot-up, decreased load times and increased system reliability",
         "attributes": {
           "brand": "Verbatim",
-          "Form Factor": "M.2",
-          "Capacity": "512GB",
-          "Read Speed": "3100MB/s",
-          "Write Speed": "2100MB/s"
+          "form_factor": "M.2",
+          "capacity": "512GB",
+          "read_speed": "3100MB/s",
+          "write_speed": "2100MB/s"
         },
         "image": "https://static.webx.pk/files/78721/Images/binary-details-4-78721-0-240924113917807.jpg",
         "price": 0,

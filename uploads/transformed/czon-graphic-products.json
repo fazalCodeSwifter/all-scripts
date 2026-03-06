@@ -1,0 +1,414 @@
+[
+  {
+    "brand": "Gigabyte",
+    "main_title": "GeForce RTX",
+    "variants": [
+      {
+        "product_title": "5090 AORUS MASTER ICE 32G Graphics Card, 32GB GDDR7 512bit PCI-E 5.0, 2655MHz, Ice",
+        "slug": "5090-aorus-master-ice-32g-graphics-card-32gb-gddr7-512bit-pci-e-50-2655mhz-ice",
+        "description": "High-end Gigabyte AORUS GeForce RTX 5090 graphics card with 32GB GDDR7 and PCI-E 5.0, featuring WINDFORCE cooling, LCD Edge View, RGB Halo, and Dual BIOS. GeForce RTX 5090, 2655MHz, 21760 CUDA Cores_32GB GDDR7, 512bit, 28Gbps_PCI-E 5.0, Up To 7680x4320, 4 Displays_3x DisplayPort 2.1b and 1x HDMI 2.1b, 16 Pin",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Gigabyte"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260125151244-87161-0-250126031249703.webp",
+        "price": 1410000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>NVIDIA Architecture:</b> Powered By The NVIDIA Blackwell Architecture And DLSS 4</p>\n<p><b>Graphics Processing:</b> Powered By GeForce RTX 5090</p>\n<p><b>Memory:</b> Integrated With 32GB GDDR7 512bit Memory Interface</p>\n<p><b>Cooling:</b> WINDFORCE Cooling System With Hawk Fan, Superconducting Heat Pipes, Composite Metal Grease For GPU, And Server-Grade Thermal Conductive Gel</p>\n<p><b>Display And Lighting:</b> LCD Edge View And RGB Halo</p>\n<p><b>BIOS:</b> Dual BIOS Performance Or Silent</p>\n<p><b>Build:</b> Reinforced Structure And Versatile VGA Holder</p>\n<h4>Product Specifications</h4>\n<p><b>Graphics Processing:</b> GeForce RTX 5090</p>\n<p><b>Core Clock:</b> 2655MHz Reference Card 2407MHz</p>\n<p><b>CUDA Cores:</b> 21760</p>\n<p><b>Memory Size:</b> 32GB</p>\n<p><b>Memory Type:</b> GDDR7</p>\n<p><b>Memory Clock:</b> 28Gbps</p>\n<p><b>Memory Bus:</b> 512bit</p>\n<p><b>Card Bus:</b> PCI-E 5.0</p>\n<p><b>Digital Max Resolution:</b> 7680x4320</p>\n<p><b>Multi-View:</b> 4</p>\n<p><b>Card Size:</b> L=360 W=150 H=75mm</p>\n<p><b>PCB Form:</b> ATX</p>\n<p><b>DirectX:</b> DirectX 12 API</p>\n<p><b>OpenGL:</b> 4.6</p>\n<p><b>Recommended PSU:</b> 1000W</p>\n<p><b>Power Connectors:</b> 16 Pin*1</p>\n<p><b>Output:</b> DisplayPort 2.1b*3, HDMI 2.1b*1</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "5080 AORUS MASTER ICE 16G Graphics Card, 16GB GDDR7 256bit, PCI-E 5.0, 2805MHz, Ice",
+        "slug": "5080-aorus-master-ice-16g-graphics-card-16gb-gddr7-256bit-pci-e-50-2805mhz-ice",
+        "description": "Built for GeForce RTX 5080 performance with 16GB GDDR7 and PCI-E 5.0, featuring WINDFORCE cooling, LCD Edge View, RGB Halo, and Dual BIOS modes. GeForce RTX 5080, 2805MHz Core Clock, 10752 CUDA Cores_16GB GDDR7 256bit, PCI-E 5.0_DisplayPort 2.1b x3 and HDMI 2.1b x1, 7680 x 4320_360 x 150 x 75mm, Recommended 850W PSU",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Gigabyte"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260108043239-87161-0-080126043318633.webp",
+        "price": 585000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>NVIDIA Architecture:</b> Powered by the NVIDIA Blackwell architecture and DLSS 4</p>\n<p><b>Graphics Processing:</b> Powered by GeForce RTX 5080</p>\n<p><b>Memory:</b> Integrated with 16GB GDDR7 256bit memory interface</p>\n<p><b>Cooling:</b> WINDFORCE cooling system with Hawk fan</p>\n<p><b>Thermal Materials:</b> Composite metal grease for GPU and server-grade thermal conductive gel</p>\n<p><b>Display:</b> LCD Edge View</p>\n<p><b>Lighting:</b> RGB Halo</p>\n<p><b>BIOS:</b> Dual BIOS Performance and Silent</p>\n<p><b>Build:</b> Reinforced structure with versatile VGA holder</p>\n<h4>Product Specifications</h4>\n<p><b>Graphics Processing:</b> GeForce RTX 5080</p>\n<p><b>Core Clock:</b> 2805MHz Reference 2617MHz</p>\n<p><b>CUDA Cores:</b> 10752</p>\n<p><b>Memory Clock:</b> 30Gbps</p>\n<p><b>Memory Size:</b> 16GB</p>\n<p><b>Memory Type:</b> GDDR7</p>\n<p><b>Memory Bus:</b> 256bit</p>\n<p><b>Card Bus:</b> PCI-E 5.0</p>\n<p><b>Digital Max Resolution:</b> 7680 x 4320</p>\n<p><b>Multi-View:</b> 4</p>\n<p><b>Card Size:</b> L=360 W=150 H=75mm</p>\n<p><b>PCB Form:</b> ATX</p>\n<p><b>DirectX:</b> DirectX 12 API</p>\n<p><b>OpenGL:</b> OpenGL 4.6</p>\n<p><b>Recommended PSU:</b> 850W</p>\n<p><b>Power Connectors:</b> 16 pin*1</p>\n<p><b>Output:</b> DisplayPort 2.1b x3, HDMI 2.1b x1</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "5080 Aero OC SFF 16G Graphics Card, 16GB 256-Bit GDDR7, Windforce Cooling System",
+        "slug": "5080-aero-oc-sff-16g-graphics-card-16gb-256-bit-gddr7-windforce-cooling-system",
+        "description": "Gigabyte GeForce RTX 5080 Aero OC SFF 16G Graphics Card with 16GB 256-bit GDDR7 memory, NVIDIA Blackwell Architecture, and WINDFORCE cooling plus Dual BIOS modes. NVIDIA Blackwell Architecture_16GB GDDR7 256-Bit Memory_WINDFORCE Cooling System_Dual BIOS Performance Or Silent",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Gigabyte"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260123140540-87161-0-230126020546853.webp",
+        "price": 470000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>NVIDIA Blackwell Architecture:</b> Built on NVIDIA Blackwell Architecture</p>\n<p><b>16GB GDDR7 Memory:</b> 16GB 256-bit GDDR7 memory for graphics performance</p><p><br></p><p><img src=\"https://cdn.webx.pk/images/productcontent/65c95fa6-0351-4b8d-be4d-e8c7a94d8460.png\" style=\"width: 100%;\" data-filename=\"image.png\"><br></p>\n<p><b>WINDFORCE Cooling System:</b> Delivers exceptional thermal performance through a combination of cutting-edge technologies</p>\n<p><b>Advanced Cooling Technologies:</b> Features server-grade thermal conductive gel, innovative Hawk fans with alternate spinning, composite copper heat pipes, a large vapor chamber, 3D active fans, and screen cooling</p>\n<p><b>Dual BIOS:</b> Dual BIOS with Performance and Silent modes</p>\n<h4>Product Specifications</h4>\n<p><b>Brand:</b> Gigabyte</p>\n<p><b>Product Name:</b> GeForce RTX 5080 Aero OC SFF 16G</p>\n<p><b>Product Type:</b> Graphics Card</p>\n<p><b>Architecture:</b> NVIDIA Blackwell Architecture</p>\n<p><b>Memory:</b> 16GB GDDR7</p>\n<p><b>Memory Interface:</b> 256-bit</p>\n<p><b>Cooling System:</b> WINDFORCE Cooling System</p>\n<p><b>BIOS:</b> Dual BIOS Performance and Silent</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "5070 Ti EAGLE OC ICE SFF 16G Graphics Card, 16GB GDDR7 256bit, PCI-E 5.0, 2542MHz, Ice",
+        "slug": "5070-ti-eagle-oc-ice-sff-16g-graphics-card-16gb-gddr7-256bit-pci-e-50-2542mhz-ice",
+        "description": "Gigabyte GeForce RTX 5070 Ti EAGLE OC ICE SFF 16G graphics card with 16GB GDDR7 on a 256bit interface, PCI-E 5.0 support, and 2542MHz core clock, built with WINDFORCE cooling and NVIDIA SFF-ready design. GeForce RTX 5070 Ti, 2542MHz Core Clock, 8960 CUDA Cores_16GB GDDR7, 256bit, 28Gbps Memory Clock_PCI-E 5.0, DisplayPort 2.1b x3 and HDMI 2.1b x1_7680 x 4320 Max Resolution, 304 x 126 x 50mm",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Gigabyte"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260108051825-87161-0-080126051856490.webp",
+        "price": 335000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p>Powered by the NVIDIA Blackwell architecture and DLSS 4</p>\n<p>Powered by GeForce RTX 5070 Ti with 2542MHz core clock and 8960 CUDA Cores</p>\n<p>Integrated with 16GB GDDR7 256bit memory interface and 28Gbps memory clock</p>\n<p>WINDFORCE cooling system with Hawk fan and server-grade thermal conductive gel</p>\n<p>RGB Lighting and Dual BIOS Performance and Silent</p>\n<p>NVIDIA SFF-ready design with reinforced structure and versatile VGA holder</p>\n<h4>Product Specifications</h4>\n<p><b>Graphics Processing:</b> GeForce RTX 5070 Ti</p>\n<p><b>Core Clock:</b> 2542MHz Reference: 2452MHz</p>\n<p><b>CUDA Cores:</b> 8960</p>\n<p><b>Memory Size:</b> 16GB</p>\n<p><b>Memory Type:</b> GDDR7</p>\n<p><b>Memory Bus:</b> 256bit</p>\n<p><b>Memory Clock:</b> 28Gbps</p>\n<p><b>Card Bus:</b> PCI-E 5.0</p>\n<p><b>Digital Max Resolution:</b> 7680 x 4320</p>\n<p><b>Multi-View:</b> 4</p>\n<p><b>Card Size:</b> L=304 W=126 H=50mm</p>\n<p><b>PCB Form:</b> ATX</p>\n<p><b>DirectX:</b> DirectX 12 API</p>\n<p><b>OpenGL:</b> OpenGL 4.6</p>\n<p><b>Recommended PSU:</b> 750W</p>\n<p><b>Power Connectors:</b> 16pin x1</p>\n<p><b>Output:</b> DisplayPort 2.1b x3, HDMI 2.1b x1</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "GIGABYTE GeForce RTX 5060 Eagle OC 8G Graphics Card, 8GB GDDR7 128-Bit PCI-E 5.0, GV-N5060EAGLE OC-8GD",
+        "slug": "gigabyte-geforce-rtx-5060-eagle-oc-8g-graphics-card-8gb-gddr7-128-bit-pci-e-50-gv-n5060eagle-oc-8gd",
+        "description": "GIGABYTE GeForce RTX 5060 Eagle OC 8G Graphics Card with GeForce RTX 5060 GPU, 8GB GDDR7 memory, and PCI-E 5.0 support for high-resolution output up to 7680x4320. GeForce RTX 5060, 2550MHz Core Clock, 3840 CUDA Cores_8GB GDDR7, 128-Bit, 28Gbps Memory Clock_PCI-E 5.0, DisplayPort 2.1b x3, HDMI 2.1b x1_7680x4320 Max Resolution, 550W Recommended PSU, 8-Pin x1",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Gigabyte"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260131095954-87161-0-310126095958394.webp",
+        "price": 123000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>Performance:</b> Powered by GeForce RTX 5060 with 2550MHz core clock and 3840 CUDA cores</p>\n<p><b>Memory:</b> 8GB GDDR7 with 128-bit memory bus and 28Gbps memory clock</p>\n<p><b>Interface:</b> PCI-E 5.0 graphics card interface</p>\n<p><b>Cooling:</b> WINDFORCE Cooling System</p>\n<p><b>Display Output:</b> Supports up to 4 displays with DisplayPort 2.1b and HDMI 2.1b outputs</p>\n<p><b>Resolution:</b> Digital max resolution up to 7680x4320</p>\n<br><br>\n<h4>Product Specifications</h4>\n<p><b>Graphics Processing:</b> GeForce RTX 5060</p>\n<p><b>Core Clock:</b> 2550MHz Reference Card: 2497MHz</p>\n<p><b>CUDA Cores:</b> 3840</p>\n<p><b>Memory Size:</b> 8GB</p>\n<p><b>Memory Type:</b> GDDR7</p>\n<p><b>Memory Clock:</b> 28Gbps</p>\n<p><b>Memory Bus:</b> 128-Bit</p>\n<p><b>Card Bus:</b> PCI-E 5.0</p>\n<p><b>Digital Max Resolution:</b> 7680x4320</p>\n<p><b>Multi-View:</b> 4</p>\n<p><b>Output:</b> DisplayPort 2.1b x3, HDMI 2.1b x1</p>\n<p><b>Card Size:</b> L=208 W=120 H=40</p>\n<p><b>PCB Form:</b> ATX</p>\n<p><b>DirectX:</b> DirectX 12 API</p>\n<p><b>OpenGL:</b> 4.6</p>\n<p><b>Recommended PSU:</b> 550W</p>\n<p><b>Power Connectors:</b> 8 Pin x1</p>\n<p><b>Accessories:</b> Quick Guide</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "5050 OC Low Profile 8G Graphics Card, 8GB GDDR6, 128-Bit, Boost 2587MHz, PCIe 5.0, DLSS 4, Model GV-N5050OC-8GL",
+        "slug": "5050-oc-low-profile-8g-graphics-card-8gb-gddr6-128-bit-boost-2587mhz-pcie-50-dlss-4-model-gv-n5050oc-8gl",
+        "description": "Compact low-profile GPU powered by NVIDIA Blackwell architecture with DLSS 4, server-grade cooling, and support for up to 4 displays for efficient gaming and multitasking. NVIDIA GeForce RTX 5050 GPU_8GB GDDR6 Memory, 128-Bit Bus_Boost Clock Up To 2587MHz_Low Profile PCIe 5.0 Design, 4 Display Support",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Gigabyte"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260127070301-87161-2509129-270126070300071.webp",
+        "price": 96990,
+        "discount_off": 0,
+        "seoContent": "<article><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">GeForce RTX™ 5050</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Graphics Processing</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">2587 MHz (Reference card : 2572MHz)</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Core Clock</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">2560</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">CUDA® Cores</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">20 Gbps</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Memory Clock</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">8 GB</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Memory Size</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">GDDR6</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Memory Type</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">128 bit</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Memory Bus</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">PCI-E 5.0</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Card Bus</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">7680x4320</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Digital max resolution</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">4</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Multi-view</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">L=182 W=69 H=36 mm</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Card size</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">ATX</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">PCB Form</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">DirectX 12 API</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">DirectX</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">4.6</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">OpenGL</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">550W</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Recommended PSU</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">8 Pin*1</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Power Connectors</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">DisplayPort 2.1b *1\nDisplayPort 1.4a *1\nHDMI 2.1b *2</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Output</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">1. Quick guide\n2. Low Profile Bracket</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Accessories</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">\n* The terms HDMI, HDMI High-Definition Multimedia Interface, HDMI Trade dress and the HDMI Logos are trademarks or registered trademarks of HDMI Licensing Administrator, Inc.\n* The entire materials provided herein are for reference only. GIGABYTE reserves the right to modify or revise the content at anytime without prior notice.\n* Advertised performance is based on maximum theoretical interface values from respective Chipset vendors or organization who defined the interface specification. Actual performance may vary by system configuration.\n* All trademarks and logos are the properties of their respective holders.\n* Due to standard PC architecture, a certain amount of memory is reserved for system usage and therefore the actual memory size is less than the stated amount.</p></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Zotac",
+    "main_title": "GeForce RTX",
+    "variants": [
+      {
+        "product_title": "5070 Gaming Ti Solid Core Graphics Card, ZT-B50710D2-10P",
+        "slug": "5070-gaming-ti-solid-core-graphics-card-zt-b50710d2-10p",
+        "description": "Zotac Gaming GeForce RTX 5070 Ti Solid Core graphics card built for gaming and content creation, featuring a 2.5 Slot design, NVIDIA Blackwell architecture, and DLSS 4. NVIDIA Blackwell Architecture And DLSS 4_2.5 Slot Design With IceStorm 3.0 Advanced Cooling_Vapor Chamber And BladeLink Fans_SPECTRA RGB Lighting, Metal Backplate, GPU Support Bracket",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Zotac"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260131105851-87161-0-310126105859499.webp",
+        "price": 375000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>High-Performance Design:</b> Built for gaming and content creation with a 2.5 Slot design for performance and build flexibility</p>\n<p><b>Next-Gen NVIDIA Platform:</b> Powered by the NVIDIA Blackwell architecture and DLSS 4</p>\n<p><b>Advanced Cooling:</b> IceStorm 3.0 Advanced Cooling with Vapor Chamber and BladeLink Fans</p>\n<p><b>Durable Construction:</b> Reinforced Metal Mid-Frame and Metal Backplate for added structural support</p>\n<p><b>Smart Fan Operation:</b> FREEZE Fan Stop and Active Fan Control</p>\n<p><b>Lighting:</b> SPECTRA RGB Lighting</p>\n<p><b>Included Support:</b> Bundled with GPU Support Bracket</p>\n<p><b>Power Safety Indicator:</b> 12V-2x6 Safety Light</p>\n<h4>Product Specifications</h4>\n<p><b>Brand:</b> ZOTAC GAMING</p>\n<p><b>Product Name:</b> GeForce RTX 5070 Ti SOLID CORE</p>\n<p><b>Part Number:</b> ZT-B50710D2-10P</p>\n<p><b>Architecture:</b> NVIDIA Blackwell</p>\n<p><b>AI Upscaling:</b> DLSS 4</p>\n<p><b>Form Factor:</b> 2.5 Slot</p>\n<p><b>Cooling:</b> IceStorm 3.0 Advanced Cooling</p>\n<p><b>Cooling Components:</b> Vapor Chamber, BladeLink Fans</p>\n<p><b>Frame:</b> Reinforced Metal Mid-Frame</p>\n<p><b>Backplate:</b> Metal Backplate</p>\n<p><b>Fan Features:</b> FREEZE Fan Stop, Active Fan Control</p>\n<p><b>Lighting:</b> SPECTRA RGB Lighting</p>\n<p><b>Included Accessory:</b> GPU Support Bracket</p>\n<p><b>Indicator:</b> 12V-2x6 Safety Light</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "ZOTAC GeForce RTX 5060 GAMING Ti 16GB Twin Edge Graphics Card | 4608 CUDA Cores | 2572 MHz | 128-bit GDDR7 | PCIe 5.0 x8 | IceStorm 2.0 Cooling",
+        "slug": "zotac-geforce-rtx-5060-gaming-ti-16gb-twin-edge-graphics-card-4608-cuda-cores-2572-mhz-128-bit-gddr7-pcie-50-x8-icestorm-20-cooling",
+        "description": "Compact dual-fan design with IceStorm 2.0 cooling, BladeLink fans, FREEZE fan stop, and durable metal backplate for efficient performance in SFF builds. NVIDIA GeForce RTX 5060 Ti, 4608 CUDA cores_16GB GDDR7, 128-bit, 28 Gbps memory clock_2572 MHz boost clock, PCIe 5.0 x8 interface_3x DisplayPort 2.1b, 1x HDMI 2.1b, Quad Display",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Zotac"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone.com.pk-1-1540-18888-160825125959-87161-2459827-011025034337.webp",
+        "price": 196000,
+        "discount_off": 0,
+        "seoContent": "<article><h2 style=\"box-sizing: border-box; text-align: center; margin: 0px; font-family: Arial, sans-serif; white-space-collapse: preserve;\">ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge</h2><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">ZT-B50620E-10M</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">The ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge is a compact graphics card powered by NVIDIA‘s cutting edge Blackwell Architecture, DLSS4 and 16GB of GDDR7 memory. With a solid cooling solution, the Twin Edge is ready to take on the latest title releases with smooth framerates and performance.</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Feature&nbsp;Highlights:</strong>\n-&nbsp;Powered by the NVIDIA Blackwell architecture and DLSS 4\n-&nbsp;8-Pin PCIe power connector\n- SFF-Ready Graphics Card\n-&nbsp;Compact dual-fan form factor\n-&nbsp;IceStorm 2.0 Cooling\n- BladeLink Fans\n- FREEZE Fan Stop\n- Metal Backplate\n-&nbsp;All-new FireStorm Utility</p></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "ZOTAC GeForce RTX 5060 Gaming Twin Edge OC DLSS 4 Gaming Graphics Card, 8GB GDDR7, 128-Bit, PCI Express 5.0, ZT-B50600H-10M",
+        "slug": "zotac-geforce-rtx-5060-gaming-twin-edge-oc-dlss-4-gaming-graphics-card-8gb-gddr7-128-bit-pci-express-50-zt-b50600h-10m",
+        "description": "ZOTAC Gaming GeForce RTX 5060 Twin Edge OC DLSS 4 Gaming Graphics Card with 8GB GDDR7, 128-bit memory bus, and PCI Express 5.0 x8 for compact SFF-ready builds. NVIDIA GeForce RTX 5060, 3840 CUDA Cores, 2527MHz Engine Clock_8GB GDDR7, 128-Bit, 28Gbps, PCI Express 5.0 x8_3x DisplayPort 2.1b, 1x HDMI 2.1b, Quad Display_2-Slot, Air Cooled, 1x 8-Pin Power, 145W",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Zotac"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260103184917-87161-0-030126014922668.webp",
+        "price": 125000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>NVIDIA Blackwell and DLSS 4:</b> Powered by the NVIDIA Blackwell architecture and DLSS 4</p>\n<p><b>SFF-Ready Compact Design:</b> SFF-ready compact card with a 2-slot form factor</p>\n<p><b>Cooling Design:</b> 2x 90mm BladeLink fans with Composite Heatpipes and Pass-thru Airflow Design</p>\n<p><b>Durable Build:</b> Metal Backplate</p>\n<p><b>Display Support:</b> 3x DisplayPort 2.1b and 1x HDMI 2.1b with 8K Ready, 4 Display Ready, HDCP 2.3, and VR Ready</p>\n<p><b>Utility Software:</b> All-new FireStorm Utility</p>\n<h4>Product Specifications</h4>\n<p><b>GPU:</b> NVIDIA GeForce RTX 5060 GPU</p>\n<p><b>Architecture and Upscaling:</b> NVIDIA Blackwell architecture, DLSS 4</p>\n<p><b>CUDA Cores:</b> 3840</p>\n<p><b>AI Performance:</b> 614 AI TOPS</p>\n<p><b>Video Memory:</b> 8GB GDDR7</p>\n<p><b>Memory Bus:</b> 128-bit</p>\n<p><b>Engine Clock:</b> 2527MHz</p>\n<p><b>Memory Clock:</b> 28Gbps</p>\n<p><b>PCI Express:</b> PCI Express 5.0 x8</p>\n<p><b>Display Outputs:</b> 3x DisplayPort 2.1b with UHBR20, 1x HDMI 2.1b</p>\n<p><b>HDCP Support:</b> 2.3</p>\n<p><b>Multi Display Capability:</b> Quad Display</p>\n<p><b>Power Input:</b> 1x 8-pin power input</p>\n<p><b>Recommended Power Supply:</b> 550W</p>\n<p><b>Power Consumption:</b> 145W</p>\n<p><b>Cooling:</b> Air Cooled</p>\n<p><b>Slot Size:</b> 2</p>\n<p><b>SLI:</b> No</p>\n<p><b>DirectX:</b> Microsoft DirectX 12 Ultimate</p>\n<p><b>OpenGL:</b> 4.6</p>\n<p><b>Supported OS:</b> Windows 11 / Windows 10 64-bit v1809 November 2018 or later</p>\n<p><b>Card Length:</b> 220.5mm x 120.25mm x 41.6mm / 8.7\" x 4.7\" x 1.6\"</p>\n<p><b>Accessories:</b> User Manual</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "ZOTAC GeForce RTX 5050 Gaming Twin Edge Graphics Card, 8GB GDDR6, 128-Bit, PCI Express 5.0 x8, ZT-B50500E-10M",
+        "slug": "zotac-geforce-rtx-5050-gaming-twin-edge-graphics-card-8gb-gddr6-128-bit-pci-express-50-x8-zt-b50500e-10m",
+        "description": "Compact SFF-ready dual-fan design with BladeLink Fans, metal backplate, and FireStorm Utility for tuning and monitoring. NVIDIA GeForce RTX 5050 GPU, 2560 CUDA Cores_8GB GDDR6, 128-Bit, 20 Gbps_PCI Express 5.0 x8, 1 x HDMI, 3 x DisplayPort 2.1b_Quad Display Support, 130W Power, 1 x 8-Pin Power Input",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Zotac"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone.com.pk-1540-19697-211125081058-87161-2509137-231225061553.webp",
+        "price": 97990,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center; font-size:14px;\"><h1 style=\"font-weight: normal;\"><b>Product Features</b></h1>\n<h3 style=\"font-weight: normal;\"><b>Design and Cooling</b></h3>\n<p>Compact dual-fan form factor suitable for SFF-ready builds.</p>\n<p>BladeLink Fans and fans plus heatsink cooling for efficient heat dissipation.</p>\n<p>Metal backplate adds rigidity and a clean aesthetic.</p>\n<h3 style=\"font-weight: normal;\"><b>Software and Utility</b></h3>\n<p>All-new FireStorm Utility for tuning and monitoring.</p>\n<h3 style=\"font-weight: normal;\"><b>Display and Multimedia</b></h3>\n<p>Quad display capability for multi-monitor setups.</p>\n<p>3 x DisplayPort 2.1b with UHBR20 supporting up to 4K 480Hz or 8K 165Hz with DSC.</p>\n<p>1 x HDMI connector supporting 4K 120Hz HDR, 8K 60Hz HDR, and Variable Refresh Rate as specified in HDMI 2.1b.</p>\n<h3 style=\"font-weight: normal;\"><b>Platform Support</b></h3>\n<p>Supported on Windows 11 and Windows 10 64-bit (v1809 November 2018 or later).</p>\n<p>Includes user manual accessory.</p>\n<h1 style=\"font-weight: normal;\"><b>Specifications</b></h1>\n<h3 style=\"font-weight: normal;\"><b>GPU and Performance</b></h3>\n<p>GPU: NVIDIA GeForce RTX 5050.</p>\n<p>CUDA Cores: 2560.</p>\n<p>Engine Clock: 2572 MHz.</p>\n<p>AI TOPS: 421.</p>\n<p>DirectX: Microsoft DirectX 12 Ultimate.</p>\n<p>OpenGL: 4.6.</p>\n<h3 style=\"font-weight: normal;\"><b>Memory</b></h3>\n<p>Video Memory: 8GB GDDR6.</p>\n<p>Memory Bus: 128-bit.</p>\n<p>Memory Clock: 20 Gbps.</p>\n<h3 style=\"font-weight: normal;\"><b>Interface and Connectivity</b></h3>\n<p>PCI Express: PCI Express 5.0 x8.</p>\n<p>Display Outputs: 3 x DisplayPort 2.1b with UHBR20.</p>\n<p>HDMI: 1 x HDMI connector.</p>\n<p>HDCP Support: 2.3.</p>\n<p>Multi Display Capability: Quad Display.</p>\n<h3 style=\"font-weight: normal;\"><b>Power and Thermal</b></h3>\n<p>Recommended Power Supply: 550W.</p>\n<p>Power Consumption: 130W.</p>\n<p>Power Input: 1 x 8-pin power input.</p>\n<p>Cooling: Fans plus heatsink.</p>\n<p>Slot Size: 2.</p>\n<p>SLI: No.</p>\n<h3 style=\"font-weight: normal;\"><b>Physical</b></h3>\n<p>Card Length: 220.5mm x 120.25mm x 41.6mm.</p>\n<p>Card Length (Inches): 8.7\" x 4.7\" x 1.6\".</p></div></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Asus",
+    "main_title": "AMD Radeon",
+    "variants": [
+      {
+        "product_title": "ASUS AMD Radeon 9070 RX Prime XT OC Edition Graphics Card, 16GB GDDR6, PCI Express 5.0, HDMI 2.1b and 3x DisplayPort 2.1a, 2.5 Slot, PRIME-RX9070XT-O16G",
+        "slug": "asus-amd-radeon-9070-rx-prime-xt-oc-edition-graphics-card-16gb-gddr6-pci-express-50-hdmi-21b-and-3x-displayport-21a-25-slot-prime-rx9070xt-o16g",
+        "description": "ASUS Prime Radeon RX 9070 XT OC Edition graphics card with 16GB GDDR6 and PCI Express 5.0, featuring a 2.5-slot design, HDMI 2.1b plus 3x DisplayPort 2.1a, and up to 3030MHz boost clock in OC mode. AMD Radeon RX 9070 XT, Up To 3030MHz Boost Clock OC Mode_16GB GDDR6, 256-Bit, 20Gbps_PCI Express 5.0, HDMI 2.1b and 3x DisplayPort 2.1a_2.5 Slot, Up To 4 Displays, 7680 x 4320 Max Resolution",
+        "attributes": {
+          "categoryname": "AMD Radeon",
+          "warranty": "2 - Year Limited* Warranty",
+          "stock": "inStock",
+          "brand": "Asus"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone.com.pk-33-1540-19081-050925102858-87161-2459715-011025033332.webp",
+        "price": 285000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>OC Edition Performance:</b> OC mode via GPU Tweak III supports up to 3030MHz boost clock and up to 2480MHz game clock, with default mode up to 3010MHz boost clock and up to 2460MHz game clock</p><p><br></p><p><p><img src=\"https://cdn.webx.pk/images/productcontent/7c685b13-73a5-4623-bf11-e2d7fc904aa5.png\" style=\"width: 100%;\" data-filename=\"image.png\"><br></p>\n<p><b>Enhanced Cooling Design:</b> Axial-tech fans feature a smaller fan hub for longer blades and a barrier ring that increases downward air pressure</p>\n<p><b>Improved Thermal Transfer:</b> Phase-change GPU thermal pad helps ensure optimal heat transfer, lowering GPU temperatures for enhanced performance and reliability</p>\n<p><b>Build-Friendly Form Factor:</b> 2.5-slot design allows for greater build compatibility while maintaining cooling performance</p>\n<p><b>Long-Lasting Fan Bearings:</b> Dual-ball fan bearings last up to twice as long as standard conventional sleeve bearings designs</p><p><br></p><p><img src=\"https://cdn.webx.pk/images/productcontent/13c9551f-6db0-40c8-a85a-abd3bc2c69fb.png\" style=\"width: 100%;\" data-filename=\"image.png\"><br></p>\n<p><b>Quiet Operation:</b> 0dB technology lets you enjoy light gaming in relative silence</p>\n<p><b>Hardware Protection:</b> Dual BIOS and GPU Guard</p>\n<h4>Product Specifications</h4>\n<p><b>Model:</b> PRIME-RX9070XT-O16G</p>\n<p><b>Graphic Engine:</b> AMD Radeon RX 9070 XT</p>\n<p><b>Bus Standard:</b> PCI Express 5.0</p>\n<p><b>OpenGL:</b> OpenGL 4.6</p>\n<p><b>Video Memory:</b> 16GB GDDR6</p>\n<p><b>Stream Processors:</b> 4096</p>\n<p><b>Engine Clock:</b> OC Mode GPU Tweak III Up To 3030MHz Boost Clock and Up To 2480MHz Game Clock</p>\n<p><b>Engine Clock:</b> Default Mode Up To 3010MHz Boost Clock and Up To 2460MHz Game Clock</p>\n<p><b>Memory Speed:</b> 20Gbps</p>\n<p><b>Memory Interface:</b> 256-Bit</p>\n<p><b>Digital Max Resolution:</b> 7680 x 4320</p>\n<p><b>Interface:</b> 1x Native HDMI 2.1b and 3x Native DisplayPort 2.1a</p>\n<p><b>HDCP Support:</b> Yes 2.3</p>\n<p><b>Maximum Display Support:</b> 4</p>\n<p><b>NVlink and Crossfire Support:</b> No</p>\n<p><b>Power Connectors:</b> 3x 8-Pin</p>\n<p><b>Recommended PSU:</b> 750W</p>\n<p><b>Slot:</b> 2.5 Slot</p>\n<p><b>Dimensions:</b> 312 x 130 x 50mm</p>\n<p><b>Dimensions:</b> 12.3 x 5.1 x 2.0 inch</p>\n<p><b>Accessories:</b> Thank You Card and Speedsetup Manual</p>\n<p><b>Software:</b> ASUS GPU Tweak III and Drivers Please Download All Software From The Support Site</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "ASUS AMD Radeon 9070  Prime 16GB GDDR6 OC Edition Graphics Card, PCIe5.0, 3584 Stream Processors, PRIME-RX9070-O16G",
+        "slug": "asus-amd-radeon-9070-prime-16gb-gddr6-oc-edition-graphics-card-pcie50-3584-stream-processors-prime-rx9070-o16g",
+        "description": "OC Edition Radeon GPU with up to 2610MHz Boost Clock, 20Gbps memory speed, and 256-bit interface for smooth 8K visuals and efficient next-gen gaming performance. AMD Radeon RX 9070, PCIe5.0 Interface_16GB GDDR6, 20Gbps Memory Speed_Up To 2610MHz Boost Clock, 3584 Cores_256-Bit Interface, 8K Resolution Support",
+        "attributes": {
+          "categoryname": "AMD Radeon",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Asus"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone.com.pk-2-1540-19403-221025080439-87161-2509139-231225061629.webp",
+        "price": 244000,
+        "discount_off": 0,
+        "seoContent": "",
+        "faqContent": ""
+      },
+      {
+        "product_title": "ASUS AMD Radeon 9060 RX Dual XT Video Graphics Card, 16GB GDDR6, PCI Express 5.0, 2.5 Slot, DUAL-RX9060XT-16G",
+        "slug": "asus-amd-radeon-9060-rx-dual-xt-video-graphics-card-16gb-gddr6-pci-express-50-25-slot-dual-rx9060xt-16g",
+        "description": "ASUS Dual Radeon RX 9060 XT graphics card with 16GB GDDR6 memory, PCI Express 5.0 support, and a 2.5 Slot SFF compatible design with dual fans and 0dB Technology. AMD Radeon RX 9060 XT, Up To 3250MHz Boost Clock_16GB GDDR6, 128-Bit, 20Gbps_PCI Express 5.0, HDMI 2.1b and 2x DisplayPort 2.1a_202x120x49mm, 1x8-Pin, Recommended 550W PSU",
+        "attributes": {
+          "categoryname": "AMD Radeon",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Asus"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260108104808-87161-0-080126104822397.webp",
+        "price": 166000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>Dual Fans, Perfect Fit:</b> Dual fan design built for cooling efficiency and compatibility</p>\n<p><b>SFF Compatible 2.5 Slot Design:</b> Maximizes compatibility and cooling efficiency for superior performance in small format</p>\n<p><b>Backplate Design With Enhanced Breathability:</b> Back plate with large ventilation slit provides a strong cooling effect and helps ensure stable GPU operation in harsh environments</p>\n<p><b>Axial-tech Upgrade:</b> Axial-tech fans with dual ball bearings deliver up to 23% more wind than standard fans</p>\n<p><b>0dB Technology:</b> Fan stop below 50C and restart over 55C for performance and silence</p>\n<h4>Product Specifications</h4>\n<p><b>Model:</b> DUAL-RX9060XT-16G</p>\n<p><b>Graphic Engine:</b> AMD Radeon RX 9060 XT</p>\n<p><b>Bus Standard:</b> PCI Express 5.0</p>\n<p><b>OpenGL:</b> OpenGL 4.6</p>\n<p><b>Video Memory:</b> 16GB GDDR6</p>\n<p><b>Engine Clock:</b> OC Mode Up To 3250MHz Boost Clock and Up To 2640MHz Game Clock</p>\n<p><b>Engine Clock:</b> Default Mode Up To 3230MHz Boost Clock and Up To 2620MHz Game Clock</p>\n<p><b>Stream Processors:</b> 2048</p>\n<p><b>Memory Speed:</b> 20Gbps</p>\n<p><b>Memory Interface:</b> 128-bit</p>\n<p><b>Digital Max Resolution:</b> 7680x4320</p>\n<p><b>Interface:</b> 1x Native HDMI 2.1b</p>\n<p><b>Interface:</b> 2x Native DisplayPort 2.1a</p>\n<p><b>HDCP Support:</b> Yes 2.3</p>\n<p><b>Maximum Display Support:</b> 3</p>\n<p><b>NVlink and Crossfire Support:</b> No</p>\n<p><b>Power Connectors:</b> 1x8-pin</p>\n<p><b>Recommended PSU:</b> 550W</p>\n<p><b>Slot:</b> 2.5 Slot</p>\n<p><b>Dimensions:</b> 202x120x49mm</p>\n<p><b>Accessories:</b> 1x Thank You Card</p>\n<p><b>Accessories:</b> 1x Speedsetup Manual</p>\n<p><b>Software:</b> ASUS GPU Tweak III and Drivers Download From The Support Site</p></div></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Sapphire",
+    "main_title": "AMD Radeon",
+    "variants": [
+      {
+        "product_title": "9070 PULSE XT Graphics Card, 16GB GDDR6, 256-Bit, Boost Up To 2970MHz, Game Up To 2400MHz, PCI-Express 5.0 x16",
+        "slug": "9070-pulse-xt-graphics-card-16gb-gddr6-256-bit-boost-up-to-2970mhz-game-up-to-2400mhz-pci-express-50-x16",
+        "description": "Sapphire PULSE AMD Radeon RX 9070 XT Graphics Card with 16GB GDDR6 on a 256-bit bus, up to 2970MHz boost clock, and DisplayPort 2.1a and HDMI outputs for up to 4 displays. Boost Up To 2970MHz, Game Up To 2400MHz_16GB GDDR6, 256-Bit, 20Gbps Effective_PCI-Express 5.0 x16, Up To 4 Displays_2x HDMI, 2x DisplayPort 2.1a, 7680x4320",
+        "attributes": {
+          "categoryname": "AMD Radeon",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Sapphire"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/20260107071639-87161-0-070126071647969.webp",
+        "price": 262990,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>High-Performance GPU Clocks:</b> Boost Clock up to 2970MHz and Game Clock up to 2400MHz for demanding gaming workloads</p>\n<p><b>16GB GDDR6 Memory:</b> 16GB GDDR6 on a 256-bit memory bus with 20Gbps effective memory clock</p>\n<p><b>Advanced AMD Architecture:</b> Built on AMD RDNA 4 Architecture with 4096 Stream Processors, 64 Compute Units, and 64 Ray Accelerators</p>\n<p><b>Next-Gen Display Connectivity:</b> DisplayPort 2.1a and HDMI outputs with support for up to 4 displays and up to 7680x4320 resolution</p>\n<p><b>Thermal Interface Material:</b> Honeywell PTM7950 TIM designed to enhance thermal conductivity for improved reliability and longevity</p>\n<p><b>Cooling Design:</b> Free Flow cooling design with AeroCurve Fan Blade, Optimized Composite Heatpipes, and Integrated Cooling Module for efficient heat dissipation</p>\n<p><b>Rigid Backplate:</b> Tough metal all-aluminum backplate adds rigidity and helps increase heat dissipation</p>\n<p><b>AMD Feature Support:</b> AMD HYPR-RX with AFMF 2, AMD FidelityFX Super Resolution 4 with AI Upscaling, AMD Radiance Display Engine, and AMD Fluid Motion Frames 2 technology</p>\n<h4>Product Specifications</h4>\n<p><b>Product:</b> AMD Radeon RX 9070 XT Graphics Card</p>\n<p><b>Architecture:</b> AMD RDNA 4 Architecture</p>\n<p><b>Stream Processors:</b> 4096</p>\n<p><b>Compute Units:</b> 64 CUs 3rd Gen RT and 2nd Gen AI Accelerators</p>\n<p><b>Ray Accelerators:</b> 64</p>\n<p><b>AI Accelerator:</b> 128</p>\n<p><b>Infinity Cache:</b> 64MB</p>\n<p><b>Engine Clock:</b> Boost Clock Up to 2970MHz; Game Clock Up to 2400MHz</p>\n<p><b>Memory Size and Bus:</b> 16GB/256 bit GDDR6</p>\n<p><b>Memory Clock:</b> 20Gbps Effective</p>\n<p><b>Interface:</b> PCI-Express 5.0 x16</p>\n<p><b>Outputs:</b> 2x HDMI; 2x DisplayPort 2.1a</p>\n<p><b>Maximum Displays:</b> 4</p>\n<p><b>Resolution:</b> HDMI 7680x4320; DisplayPort 2.1a 7680x4320</p>\n<p><b>BIOS Support:</b> UEFI</p>\n<p><b>Game Index:</b> 4K</p>\n<p><b>Cooler Type:</b> Tri-X Cooling</p>\n<p><b>Form Factor:</b> 3 slot, ATX</p>\n<p><b>Dimensions:</b> 320(L) x 120.25(W) x 61.6(H)mm</p>\n<p><b>Power Consumption:</b> 304W Typical Board Power</p>\n<p><b>OS:</b> Linux, Windows 10, and Windows 11 64-bit operating system required</p>\n<p><b>System Requirement:</b> Minimum 750 Watt Power Supply; 2 x 8-pin Power Connector</p>\n<p><b>System Requirement:</b> PCI Express based PC required with one X16 lane graphics slot available on the motherboard</p>\n<p><b>System Requirement:</b> Minimum 8GB system memory; 16GB recommended</p>\n<p><b>Accessories Bundled:</b> L-Shape Support Bracket</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "7800 RX Pulse XT Graphics Card, 16GB 256 Bit DDR6, Boost Clock Up To 2430MHz",
+        "slug": "7800-rx-pulse-xt-graphics-card-16gb-256-bit-ddr6-boost-clock-up-to-2430mhz",
+        "description": "Sapphire Pulse AMD Radeon RX 7800 XT graphics card with 16GB 256 bit DDR6 memory, up to 2430MHz boost clock, and AMD RDNA 3 architecture with hardware raytracing. Up To 2430MHz Boost Clock, 3840 Stream Processors_16GB 256 Bit DDR6 Memory_AMD RDNA 3 Architecture With Hardware Raytracing_Angular Velocity Fan Blade, Intelligent Fan Control",
+        "attributes": {
+          "categoryname": "AMD Radeon",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Sapphire"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260127064522-3-87161-0-270126064519639.webp",
+        "price": 169900,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>High-Performance Boost Clock:</b> Boost clock up to 2430MHz for strong graphics performance</p>\n<p><b>16GB DDR6 Memory:</b> 16GB 256 bit DDR6 memory for handling demanding graphics workloads</p>\n<p><b>AMD RDNA 3 With Hardware Raytracing:</b> AMD RDNA 3 architecture features chiplet technology, redesigned raytracing accelerators, and advanced compute units for next-generation performance, visuals, and power efficiency</p>\n<p><b>Angular Velocity Fan Blade Airflow Design:</b> Double layer of downward air pressure alongside the outer ring air pressure on the axial fan for up to 44% more downward air pressure and up to 19% more airflow for quieter and cooler operation compared to previous generations</p>\n<p><b>Intelligent Fan Control:</b> Fan speed is intelligently controlled to keep the GPU, memory, PWM IC and other components as low as possible in temperature to balance performance and fan noise</p>\n<h4>Product Specifications</h4>\n<p><b>Brand And Series:</b> Sapphire Pulse</p>\n<p><b>GPU:</b> AMD Radeon RX 7800 XT</p>\n<p><b>Architecture:</b> RDNA 3</p>\n<p><b>Hardware Raytracing:</b> Yes</p>\n<p><b>Boost Clock:</b> Up To 2430MHz</p>\n<p><b>Stream Processors:</b> 3840</p>\n<p><b>Memory:</b> 16GB 256 Bit DDR6</p>\n<p><b>Cooling:</b> Angular Velocity Fan Blade</p>\n<p><b>Fan Control:</b> Intelligent Fan Control</p></div></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "PNY",
+    "main_title": "GeForce RTX",
+    "variants": [
+      {
+        "product_title": "5070 Triple Fan Graphics Card, 6144 CUDA Cores, 2.51GHz Boost, 12GB GDDR7, 192-bit, PCIe 5.0, 3x DisplayPort 2.1b, HDMI 2.1b, VCG507012TFXPB1",
+        "slug": "5070-triple-fan-graphics-card-6144-cuda-cores-251ghz-boost-12gb-gddr7-192-bit-pcie-50-3x-displayport-21b-hdmi-21b-vcg507012tfxpb1",
+        "description": "Triple-fan cooling design for stable performance with support for up to 4 displays and 4K 480Hz or 8K 120Hz output for next-level gaming and content creation. 6144 CUDA Cores And 2.51GHz Boost Clock_12GB GDDR7 Memory And 192-Bit Interface_PCIe 5.0 x16 Bus With 250W TDP Power Draw_3x DisplayPort 2.1b And HDMI 2.1b Outputs",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "PNY"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone.com.pk-87161-2461140-270126070928277.webp",
+        "price": 229000,
+        "discount_off": 0,
+        "seoContent": "",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Leadtek",
+    "main_title": "GeForce RTX",
+    "variants": [
+      {
+        "product_title": "5070 WinFast HURRICANE 12G Graphics Card, 12GB GDDR7 192-Bit, PCI Express 5.0, 6144 CUDA Cores",
+        "slug": "5070-winfast-hurricane-12g-graphics-card-12gb-gddr7-192-bit-pci-express-50-6144-cuda-cores",
+        "description": "Leadtek WinFast RTX 5070 HURRICANE 12G graphics card with NVIDIA GeForce RTX 5070 GPU, 12GB GDDR7 memory, and PCI Express 5.0 interface for high-performance gaming and creation. NVIDIA GeForce RTX 5070, 6144 CUDA Cores, 2.33GHz Base 2.51GHz Boost_12GB GDDR7 192-Bit, 28Gbps, 672GB/sec Bandwidth_1x HDMI 2.1 and 3x DisplayPort 2.1, 4K at 480Hz or 8K at 165Hz With DSC_250W Max Power Draw, 16-Pin Power Connector, Metal Backplate",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "11 - Month(s) Warranty",
+          "stock": "inStock",
+          "brand": "Leadtek"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260112074943-87161-0-120126074948024.webp",
+        "price": 210900,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p>Powered by the NVIDIA GeForce RTX 5070 GPU with NVIDIA Blackwell architecture and 6144 CUDA Cores</p>\n<p>12GB GDDR7 memory with 192-bit memory interface and 28Gbps memory speed</p>\n<p>Base clock 2.33GHz and boost clock 2.51GHz for high-performance operation</p>\n<p>4th Generation Ray Tracing Cores and 5th Generation Tensor Cores with NVIDIA DLSS 4 support</p>\n<p>PCI Express 5.0 bus interface for modern platform compatibility</p>\n<p>Display outputs include 1x HDMI 2.1 and 3x DisplayPort 2.1</p>\n<p>Supports maximum digital resolution up to 4K at 480Hz or 8K at 165Hz with DSC</p>\n<p>Cooling design includes 5 heat pipes and a copper base, plus a metal backplate</p>\n<p>16-pin supplementary power connector with included 16 Pin power cable 1 2 x PCI/E 8pin to 16Pin</p>\n<br><br>\n<h4>Product Specifications</h4>\n<p><b>Brand and Series:</b> Leadtek WinFast RTX 5070 HURRICANE 12G</p>\n<p><b>Graphics Processing Unit:</b> NVIDIA GeForce RTX 5070</p>\n<p><b>GPU Architecture:</b> NVIDIA Blackwell GPU</p>\n<p><b>CUDA Cores:</b> 6144</p>\n<p><b>Core Clock:</b> Base 2.33GHz</p>\n<p><b>Boost Clock:</b> 2.51GHz</p>\n<p><b>Bus Interface:</b> PCI Express 5.0</p>\n<p><b>Memory:</b> 12GB GDDR7</p>\n<p><b>Memory Interface Width:</b> 192-bit</p>\n<p><b>Memory Speed:</b> 28Gbps</p>\n<p><b>Memory Bandwidth:</b> 672GB/sec</p>\n<p><b>Ray Tracing Cores:</b> 4th Generation Ray Tracing Cores</p>\n<p><b>Tensor Cores:</b> 5th Generation Tensor Cores</p>\n<p><b>DLSS:</b> NVIDIA DLSS 4</p>\n<p><b>Output Ports:</b> 1x HDMI 2.1, 3x DisplayPort 2.1</p>\n<p><b>Maximum Digital Resolution:</b> 4K at 480Hz or 8K at 165Hz with DSC</p>\n<p><b>HDCP Support:</b> Yes</p>\n<p><b>DirectX:</b> Microsoft DirectX 12 Ultimate</p>\n<p><b>OpenGL:</b> 4.6</p>\n<p><b>NVIDIA RTX NVLink:</b> No</p>\n<p><b>Maximum Power Draw:</b> 250W</p>\n<p><b>Power Connector:</b> 16-Pin Supplementary Power Connector</p>\n<p><b>Cooling:</b> 5 Heat Pipes and Copper Base</p>\n<p><b>Backplate:</b> Metal Backplate</p>\n<p><b>Dimensions:</b> 314mm Length, 127.5mm Height, 60.5mm Thickness</p>\n<p><b>Package Contents:</b> WinFast RTX 5070 HURRICANE Graphics Card</p>\n<p><b>Package Contents:</b> Quick Installation Guide</p>\n<p><b>Package Contents:</b> 16 Pin Power Cable x 1 2 x PCI/E 8pin to 16Pin</p>\n<p><b>Package Contents:</b> GPU Support Holder</p>\n<p><b>Requirements:</b> Microsoft Windows10, Windows 11 and Linux operation system 64 bit</p>\n<p><b>Requirements:</b> PCI-Express compliant motherboard with one four-width x16 graphics slot</p>\n<p><b>Requirements:</b> Two 8-pin PCI-Express supplementary power connectors</p>\n<p><b>Requirements:</b> 8GB system memory 16GB or higher recommended</p>\n<p><b>Requirements:</b> 1.5GB of available hard disk space</p>\n<p><b>Requirements:</b> A DP or HDMI compatible monitor</p>\n<p><b>Requirements:</b> Minimum 650W Power Supply</p></div></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Inno3D",
+    "main_title": "GeForce RTX",
+    "variants": [
+      {
+        "product_title": "INNO3D GeForce RTX 5060 TI 8GB TWIN X2 Video Graphics Card N506T2-08D7-193075N 8GB GDDR7 128-bit, SFF Ready, DLSS 4",
+        "slug": "inno3d-geforce-rtx-5060-ti-8gb-twin-x2-video-graphics-card-n506t2-08d7-193075n-8gb-gddr7-128-bit-sff-ready-dlss-4",
+        "description": "The INNO3D GeForce RTX 50 Series promises exceptional performance from these next-gen graphics cards powered by NVIDIA’s Blackwell Architecture. CUDA Cores 4608 - 5060Ti_Boost Clock (MHz) 2572MHz_8GB GDDR7 128-bit_Memory Clock 28Gbps",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Inno3D"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260127070454-87161-2461121-270126070501396.webp",
+        "price": 138990,
+        "discount_off": 0,
+        "seoContent": "<article><h1 style=\"box-sizing: border-box; font-family: Arial, sans-serif; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">INNO3D GeForce RTX™ 5060 Ti 8GB TWIN X2</strong></h1><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">The INNO3D GeForce RTX 50 Series promises exceptional performance from these next-gen graphics cards powered by</p><h2 style=\"box-sizing: border-box; text-align: center; margin: 0px; font-family: Arial, sans-serif; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">NVIDIA’s Blackwell Architecture.</strong></h2><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">The INNO3D GeForce RTX 50 Series promises exceptional performance from these next-gen graphics cards powered by Nvidia’s Blackwell architecture. The INNO3D announced its new GeForce RTX 5060 Ti 8GB and 16GB TWIN X2 OC WHITE is a compact powerhouse tailor-made for space-conscious enthusiasts, featuring a sleek dual-slot design that fits seamlessly into smaller form factor builds. The TWIN X2 OC WHITE doesn't just excel in performance; it also captivates with its contemporary white aesthetic. It features 4,608 CUDA cores, 8GB and 16GB of GDDR7 memory with a 128-bit interface, and a boost clock of up to 2,602MHz in its overclocked state. Merging next-gen AI capabilities with unparalleled gaming prowess, this graphics card redefines the balance between style, size, and raw power.</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">NVIDIA Blackwell Architecture</strong></p><h3 style=\"box-sizing: border-box; font-family: Arial, sans-serif; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">The Ultimate Platform for Gamers and Creators</strong></h3><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Fifth-Gen Tensor Cores</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">Max AI performance with FP4 and DLSS 4</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">New Streaming Multiprocessors</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">Optimized for neural shaders</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Fourth-Gen Ray Tracing Core</strong></p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">Built for Mega Geometry</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">NVIDIA DLSS 4</strong><br></p><h3 style=\"box-sizing: border-box; font-family: Arial, sans-serif; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Supreme Speed.</strong><span style=\"box-sizing: border-box;\"> </span><strong style=\"box-sizing: border-box;\">Superior Visuals.</strong><span style=\"box-sizing: border-box;\"> </span><strong style=\"box-sizing: border-box;\">Powered by AI.</strong></h3><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">DLSS is a revolutionary suite of neural rendering technologies that uses AI to boost FPS, reduce latency, and improve image quality. ?The latest breakthrough, DLSS 4, brings new Multi Frame Generation and enhanced Ray Reconstruction and Super Resolution, powered by GeForce RTX™ 50 Series GPUs and fifth-generation Tensor Cores. DLSS on GeForce RTX is the best way to play, backed by an NVIDIA AI supercomputer in the cloud constantly improving your PC’s gaming capabilities. Supreme Speed. Superior Visuals. Powered by AI.</p><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Full Ray Tracing with Neural Rendering&nbsp;</strong></p><h3 style=\"box-sizing: border-box; font-family: Arial, sans-serif; text-align: center; white-space-collapse: preserve;\"><strong style=\"box-sizing: border-box;\">Game-Changing Realism</strong><br></h3><p style=\"box-sizing: border-box; font-family: Arial, sans-serif; font-size: medium; text-align: center; white-space-collapse: preserve;\">The NVIDIA Blackwell architecture unlocks the game-changing realism of full ray tracing. Experience cinematic quality visuals at unprecedented speed powered by GeForce RTX 50 Series with fourth-gen RT Cores and breakthrough neural rendering technologies accelerated with fifth-gen Tensor Cores.</p></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Gigabyte",
+    "main_title": "AMD Radeon",
+    "variants": [
+      {
+        "product_title": "9060 XT GAMING 8G Video Graphics Card, 8GB GDDR6, 20Gbps, 128 Bit, Boost Up To 3130MHz",
+        "slug": "9060-xt-gaming-8g-video-graphics-card-8gb-gddr6-20gbps-128-bit-boost-up-to-3130mhz",
+        "description": "Gigabyte Radeon RX 9060 XT GAMING 8G Video Graphics Card delivers Radeon RX 9060 XT performance with 8GB GDDR6 memory, up to 3130MHz boost clock, and PCI-E 5.0 support for high-resolution gaming. Radeon RX 9060 XT, Boost Up To 3130MHz, Game Up To 2530MHz_8GB GDDR6, 20Gbps, 128 Bit_PCI-E 5.0, 7680 x 4320 Max Resolution_DirectX 12 API, OpenGL 4.6, 8 Pin x1, 450W PSU",
+        "attributes": {
+          "categoryname": "AMD Radeon",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Gigabyte"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone.com.pk-40-1540-20030-161225081138-87161-2509141-231225061709.webp",
+        "price": 119000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center; font-size: medium;\"><h2 style=\"font-weight: normal;\"><b>Product Features</b></h2>\n<h3 style=\"font-weight: normal;\"><b>Radeon RX 9060 XT Performance</b></h3>\n<p style=\"font-weight: normal;\">Built around the Radeon RX 9060 XT graphics processing for strong gaming and graphics performance</p>\n<p style=\"font-weight: normal;\">Boost Clock up to 3130MHz and Game Clock up to 2530MHz for high-speed operation</p>\n<p style=\"font-weight: normal;\">2048 Stream Processors to support graphics workloads</p>\n<h3 style=\"font-weight: normal;\"><b>Memory and Bandwidth</b></h3>\n<p style=\"font-weight: normal;\">8GB GDDR6 memory with 20Gbps memory clock for fast data throughput</p>\n<p style=\"font-weight: normal;\">128 Bit memory bus for balanced bandwidth</p>\n<h3 style=\"font-weight: normal;\"><b>Display and API Support</b></h3>\n<p style=\"font-weight: normal;\">Digital max resolution up to 7680 x 4320 for ultra-high-resolution output</p>\n<p style=\"font-weight: normal;\">Multi-view support for up to 3 displays</p>\n<p style=\"font-weight: normal;\">DirectX 12 API and OpenGL 4.6 support</p>\n<h3 style=\"font-weight: normal;\"><b>Power and Platform</b></h3>\n<p style=\"font-weight: normal;\">PCI-E 5.0 card bus for modern platform compatibility</p>\n<p style=\"font-weight: normal;\">Recommended 450W PSU and 8 pin power connector x1</p>\n<h2 style=\"font-weight: normal;\"><b>Product Specifications</b></h2>\n<h3 style=\"font-weight: normal;\"><b>Graphics Processing</b></h3>\n<p style=\"font-weight: normal;\"><b>Graphics Processing:</b> Radeon RX 9060 XT</p>\n<p style=\"font-weight: normal;\"><b>Stream Processors:</b> 2048</p>\n<p style=\"font-weight: normal;\"><b>Core Clock:</b> Boost Clock up to 3130MHz, Game Clock up to 2530MHz</p>\n<h3 style=\"font-weight: normal;\"><b>Memory</b></h3>\n<p style=\"font-weight: normal;\"><b>Memory Size:</b> 8GB</p>\n<p style=\"font-weight: normal;\"><b>Memory Type:</b> GDDR6</p>\n<p style=\"font-weight: normal;\"><b>Memory Clock:</b> 20Gbps</p>\n<p style=\"font-weight: normal;\"><b>Memory Bus:</b> 128 Bit</p>\n<h3 style=\"font-weight: normal;\"><b>Interface and Standards</b></h3>\n<p style=\"font-weight: normal;\"><b>Card Bus:</b> PCI-E 5.0</p>\n<p style=\"font-weight: normal;\"><b>DirectX:</b> DirectX 12 API</p>\n<p style=\"font-weight: normal;\"><b>OpenGL:</b> OpenGL 4.6</p>\n<h3 style=\"font-weight: normal;\"><b>Display</b></h3>\n<p style=\"font-weight: normal;\"><b>Digital Max Resolution:</b> 7680 x 4320</p>\n<p style=\"font-weight: normal;\"><b>Multi-view:</b> 3</p>\n<h3 style=\"font-weight: normal;\"><b>Physical</b></h3>\n<p style=\"font-weight: normal;\"><b>Card Size:</b> L=281 W=118 H=40mm</p>\n<p style=\"font-weight: normal;\"><b>PCB Form:</b> ATX</p>\n<h3 style=\"font-weight: normal;\"><b>Power</b></h3>\n<p style=\"font-weight: normal;\"><b>Recommended PSU:</b> 450W</p>\n<p style=\"font-weight: normal;\"><b>Power Connectors:</b> 8 Pin x1</p></div></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Asus",
+    "main_title": "GeForce RTX",
+    "variants": [
+      {
+        "product_title": "ASUS GeForce RTX 5050 Gaming Graphics Card, 8GB GDDR6 PCI Express 5.0, OC 2677MHz, HDMI 2.1b DisplayPort 2.1b, 2 Slot, DUAL-RTX5050-O8G",
+        "slug": "asus-geforce-rtx-5050-gaming-graphics-card-8gb-gddr6-pci-express-50-oc-2677mhz-hdmi-21b-displayport-21b-2-slot-dual-rtx5050-o8g",
+        "description": "ASUS Dual GeForce RTX 5050 8GB GDDR6 OC Edition graphics card with PCI Express 5.0, DLSS 4, and Dual BIOS for Quiet or Performance profiles, plus 2-slot SFF-ready design with 0dB technology. NVIDIA GeForce RTX 5050, OC 2677MHz Boost 2647MHz_8GB GDDR6, 128-bit, 20Gbps_PCI Express 5.0, HDMI 2.1b and 3x DisplayPort 2.1b_2 Slot, Up To 4 Displays, 7680 x 4320 Max Resolution",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Asus"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260115105429-87161-0-150126105451112.webp",
+        "price": 104000,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>NVIDIA Blackwell And DLSS 4:</b> Powered by the NVIDIA Blackwell architecture and DLSS 4 for GeForce RTX 5050 performance</p>\n<p><b>OC Edition Clocks:</b> OC Mode 2677MHz and Default Mode 2647MHz Boost Clock</p>\n<p><b>0dB Technology:</b> 0dB technology lets you enjoy light gaming in relative silence</p>\n<p><b>SFF-Ready 2-Slot Design:</b> A 2-slot design maximizes compatibility and cooling efficiency for superior performance in small chassis</p>\n<p><b>Axial-tech Fan Design:</b> Axial-tech fans feature a smaller fan hub for longer blades and a barrier ring that increases downward air pressure</p>\n<p><b>Dual BIOS:</b> Toggle between Quiet and Performance BIOS profiles</p>\n<br><br>\n<h4>Product Specifications</h4>\n<p><b>Model:</b> DUAL-RTX5050-O8G</p>\n<p><b>Graphic Engine:</b> NVIDIA GeForce RTX 5050</p>\n<p><b>AI Performance:</b> 421 TOPs</p>\n<p><b>Bus Standard:</b> PCI Express 5.0</p>\n<p><b>OpenGL:</b> OpenGL 4.6</p>\n<p><b>Video Memory:</b> 8GB GDDR6</p>\n<p><b>CUDA Core:</b> 2560</p>\n<p><b>Engine Clock:</b> OC Mode 2677MHz; Default Mode 2647MHz Boost Clock</p>\n<p><b>Memory Speed:</b> 20Gbps</p>\n<p><b>Memory Interface:</b> 128-bit</p>\n<p><b>Digital Max Resolution:</b> 7680 x 4320</p>\n<p><b>Interface:</b> 1x Native HDMI 2.1b; 3x Native DisplayPort 2.1b</p>\n<p><b>HDCP Support:</b> Yes 2.3</p>\n<p><b>Maximum Display Support:</b> 4</p>\n<p><b>NVlink Or Crossfire Support:</b> No</p>\n<p><b>Power Connectors:</b> 1x 8-pin</p>\n<p><b>Recommended PSU:</b> 550W</p>\n<p><b>Slot:</b> 2 Slot</p>\n<p><b>Dimensions:</b> 203 x 120.2 x 40mm</p>\n<p><b>Dimensions In Inches:</b> 7.99 x 4.73 x 1.58 inches</p>\n<p><b>Accessories:</b> 1x Speedsetup Manual; 1x Thank You Card</p>\n<p><b>Software:</b> ASUS GPU Tweak III and MuseTree and GeForce Game Ready Driver and Studio Driver; please download all software from the support site</p></div></article>",
+        "faqContent": ""
+      },
+      {
+        "product_title": "ASUS GeForce RTX 3050 Dual OC Edition 6GB GDDR6 Video Graphics Card, NVIDIA Ampere Streaming Multiprocessors, PCI Express 4.0, 96-bit | DUAL-RTX3050-O6G",
+        "slug": "asus-geforce-rtx-3050-dual-oc-edition-6gb-gddr6-video-graphics-card-nvidia-ampere-streaming-multiprocessors-pci-express-40-96-bit-dual-rtx3050-o6g",
+        "description": "ASUS Dual GeForce RTX™ 3050 OC Edition 6GB GDDR6 with two powerful fans AAA gaming performance and ray tracing CUDA Core 2304_OC mode : 1537 MHz (Boost Clock)_6GB GDDR6 14 Gbps 96-bit_Digital Max Resolution 7680 x 4320",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "10 - Month(s) Warranty",
+          "stock": "inStock",
+          "brand": "Asus"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/57-czone.com.pk-1540-17247-041124104301-87161-2459794-011025034056.webp",
+        "price": 74980,
+        "discount_off": 0,
+        "seoContent": "<article><p>ASUS Dual GeForce RTX™ 3050 OC Edition 6GB GDDR6 with two powerful fans AAA gaming performance and ray tracing</p><p><strong>NVIDIA Ampere Streaming Multiprocessors:</strong> The all-new Ampere SM brings 2X the FP32 throughput and improved power efficiency.</p><p><strong>2nd Generation RT Cores:</strong> Experience 2X the throughput of 1st gen RT Cores, plus concurrent RT and shading for a whole new level of ray-tracing performance.</p><p><strong>3rd Generation Tensor Cores:</strong> Get up to 2X the throughput with structural sparsity and advanced AI algorithms such as DLSS. These cores deliver a massive boost in game performance and all-new AI capabilities.</p><p><strong>OC edition: Boost Clock 1537</strong> <strong>MHz (OC Mode)/</strong> <strong>1507 MHz (Default Mode)</strong></p><p><strong>IP5X dust resistance</strong> offers protection from particle ingress for better durability.</p><p>A<strong> 2-slot design</strong> maximizes compatibility and cooling efficiency for superior performance in small chassis.</p><p>A <strong>stainless steel bracket</strong> is harder and more resistant to corrosion.</p><p><strong>Auto-Extreme technology</strong> uses automation to enhance reliability.</p><p><strong>GPU Tweak III</strong> provides intuitive performance tweaking, thermal controls, and system monitoring.</p></article>",
+        "faqContent": ""
+      }
+    ]
+  },
+  {
+    "brand": "Ease",
+    "main_title": "GeForce GT",
+    "variants": [
+      {
+        "product_title": "740 4GB GDDR5 128-Bit, PCI Express 3.0, DirectX 12 OpenGL 4.6, DVI and Mini-HDMI",
+        "slug": "740-4gb-gddr5-128-bit-pci-express-30-directx-12-opengl-46-dvi-and-mini-hdmi",
+        "description": "Ease GT 740 powered by NVIDIA GeForce delivers smooth graphics with 4GB GDDR5 memory, 384 CUDA cores, and PCI Express 3.0 compatibility, with DVI and Mini-HDMI outputs. NVIDIA GeForce GT 740 With 384 CUDA Cores_4GB GDDR5 128-Bit, Up To 5000MHz Effective_PCI Express 3.0, DirectX 12 and OpenGL 4.6_DVI and Mini-HDMI, NVIDIA CUDA PhysX Adaptive V-Sync",
+        "attributes": {
+          "categoryname": "Nvidia GeForce",
+          "warranty": "1 - Year Warranty",
+          "stock": "inStock",
+          "brand": "Ease"
+        },
+        "image": "https://static.webx.pk/files/87161/Images/czone-20260107075229-87161-2517171-070126075237326.webp",
+        "price": 20990,
+        "discount_off": 0,
+        "seoContent": "<article><div style=\"text-align:center;\"><h4>Product Features</h4>\n<p><b>Powered By:</b> NVIDIA GeForce GT 740 for smooth graphics performance</p>\n<p><b>Memory Performance:</b> 4GB GDDR5 memory with 128-bit interface and up to 5000MHz effective memory clock</p>\n<p><b>Graphics Processing:</b> 384 CUDA cores to support smooth graphics performance</p>\n<p><b>API Support:</b> Supports DirectX 12 and OpenGL 4.6</p>\n<p><b>NVIDIA Technologies:</b> Features NVIDIA CUDA, PhysX and Adaptive V-Sync</p>\n<p><b>Connectivity:</b> PCI Express 3.0 interface compatibility with DVI and Mini-HDMI output options</p>\n<p><b>Efficiency:</b> Low power consumption with efficient design</p>\n<h4>Product Specifications</h4>\n<p><b>Brand And Model:</b> Ease GT 740</p>\n<p><b>GPU:</b> NVIDIA GeForce GT 740</p>\n<p><b>Memory:</b> 4GB GDDR5</p>\n<p><b>Memory Interface:</b> 128-bit</p>\n<p><b>CUDA Cores:</b> 384</p>\n<p><b>Memory Clock:</b> Up to 5000MHz Effective</p>\n<p><b>Interface:</b> PCI Express 3.0</p>\n<p><b>Supported APIs:</b> DirectX 12 and OpenGL 4.6</p>\n<p><b>Technologies:</b> NVIDIA CUDA, PhysX and Adaptive V-Sync</p>\n<p><b>Outputs:</b> DVI and Mini-HDMI</p>\n<p><b>Power:</b> Low power consumption with efficient design</p></div></article>",
+        "faqContent": ""
+      }
+    ]
+  }
+]

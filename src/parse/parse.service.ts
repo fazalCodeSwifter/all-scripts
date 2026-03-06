@@ -1,3 +1,6 @@
+/* eslint-disable prettier/prettier */
+// -------------------------- DYSON -----------------------------------------------
+/* eslint-disable @typescript-eslint/require-await */
 /* eslint-disable @typescript-eslint/no-unsafe-argument */
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-call */
@@ -6,13 +9,11 @@
 import { Injectable } from '@nestjs/common';
 import * as Papa from 'papaparse';
 import * as fs from 'fs';
+import * as path from 'path';
 
 interface ParsedProduct {
-  id: number;
   brand: string;
   main_title: string;
-  category?: string;
-  sub_category?: string;
   variants: ProductVariant[];
 }
 
@@ -20,10 +21,12 @@ interface ProductVariant {
   product_title: string;
   slug: string;
   description: string;
+  seo_content: string;
+  faq_content: string;
   attributes: Record<string, any>;
-  image: string;
+  images: string[]; // Array of images
   price: number;
-  discount_off: number;
+  discount_off: number; // Percentage
 }
 
 @Injectable()
@@ -58,29 +61,19 @@ export class ParseService {
    */
   private processRows(rows: any[]): ParsedProduct[] {
     const productsMap = new Map<string, ParsedProduct>();
-    let productIdCounter = 1;
 
     rows.forEach((row) => {
-      // Brand aur Main Title mandatory hain
-      const brand = row['Brand']?.trim();
-      const mainTitle = row['Main Title']?.trim();
+      // Brand aur Main Title extract karo
+      const brand = row['Brand']?.trim() || 'Unknown';
+      const mainTitle = row['Main Title']?.trim() || 'Unknown Product';
 
-      if (!brand || !mainTitle) {
-        console.warn('Skipping row - Brand or Main Title missing:', row);
-        return;
-      }
-
-      // Unique key for grouping
       const productKey = `${brand}___${mainTitle}`;
 
       // Agar product pehle se exist nahi karta to create karo
       if (!productsMap.has(productKey)) {
         productsMap.set(productKey, {
-          id: productIdCounter++,
           brand: brand,
           main_title: mainTitle,
-          category: row['Category']?.trim() || undefined,
-          sub_category: row['Sub Category']?.trim() || undefined,
           variants: [],
         });
       }
@@ -98,90 +91,144 @@ export class ParseService {
    */
   private createVariant(row: any): ProductVariant {
     const productTitle = row['Variants/Product title']?.trim() || '';
+    const description = row['Variants/Description']?.trim() || '';
 
-    // Dynamic attributes extract karo
-    const attributes = this.extractAttributes(row);
+    // SEO Content and FAQ Content (new fields)
+    const seoContent = row['variants/seoContent']?.trim() || '';
+    const faqContent = row['variants/faqContent']?.trim() || '';
 
-    // Price ko properly parse karo (commas remove karke)
-    const priceStr = row['variants/price']?.toString().replace(/,/g, '') || '0';
-    const price = parseFloat(priceStr) || 0;
+    // Images array - comma separated se split karo
+    const imagesStr = row['variants/image']?.trim() || '';
+    const images = imagesStr
+      .split(',')
+      .map((img: string) => img.trim())
+      .filter((img: string) => img !== '');
 
-    const discountStr = row['variants/discount off']?.toString() || '0';
-    const discountOff = parseFloat(discountStr) || 0;
+    // Price aur Discount calculation
+    const finalPrice = this.convertNumber(row['variants/price']);
+    const discountAmount = this.convertNumber(row['variants/discount off']);
 
-    return {
-      product_title: productTitle,
-      slug: this.generateSlug(productTitle),
-      description: row['Variants/Description']?.trim() || '',
-      attributes: attributes,
-      image: row['variants/image']?.trim() || '',
-      price: price,
-      discount_off: discountOff,
-    };
-  }
+    // Original price calculate karo
+    const originalPrice = finalPrice + discountAmount;
 
-  /**
-   * Row se dynamically attributes extract karta hai
-   * Sirf "variants/attributes/" prefix wale columns ko extract karega
-   */
-  private extractAttributes(row: any): Record<string, any> {
+    // Discount percentage calculate karo
+    let discountPercentage = 0;
+    if (originalPrice > 0 && discountAmount > 0) {
+      discountPercentage = Math.round((discountAmount / originalPrice) * 100);
+    }
+
+    // Attributes dynamically collect karo
     const attributes: Record<string, any> = {};
 
     Object.keys(row).forEach((key) => {
-      // Check if column is an attribute
-      if (key.toLowerCase().includes('variants/attributes/')) {
-        // Extract attribute name (e.g., "variants/attributes/Ram" -> "ram")
-        const attributeName = key
-          .replace(/variants\/attributes\//gi, '')
-          .trim()
-          .toLowerCase()
-          .replace(/\s+/g, '_');
+      // Skip main fields
+      if (
+        key === 'Brand' ||
+        key === 'Main Title' ||
+        key === 'Variants/Product title' ||
+        key === 'Variants/Description' ||
+        key === 'variants/image' ||
+        key === 'variants/price' ||
+        key === 'variants/discount off' ||
+        key === 'variants/seoContent' ||
+        key === 'variants/faqContent'
+      ) {
+        return;
+      }
 
+      // Extract attributes
+      if (key.startsWith('variants/attributes/')) {
+        const attrName = key.replace('variants/attributes/', '');
         const value = row[key]?.toString().trim();
 
-        // Only add if value exists
-        if (value && value !== '') {
-          attributes[attributeName] = value;
+        if (value && value !== '' && value !== 'undefined' && value !== 'null') {
+          attributes[attrName] = value;
         }
       }
     });
 
-    return attributes;
+    return {
+      product_title: productTitle,
+      slug: this.slugify(productTitle),
+      description: description,
+      seo_content: seoContent,
+      faq_content: faqContent,
+      attributes: attributes,
+      images: images,
+      price: finalPrice,
+      discount_off: discountPercentage, // Percentage form mein
+    };
   }
 
   /**
-   * Text se SEO-friendly slug generate karta hai
+   * Output ko desired format mein convert karta hai
    */
-  private generateSlug(text: string): string {
-    return text
-      .toLowerCase()
-      .replace(/[^a-z0-9\s-]/g, '') // Special characters remove
-      .replace(/\s+/g, '-') // Spaces ko dashes se replace
-      .replace(/-+/g, '-') // Multiple dashes ko single dash
-      .replace(/^-+|-+$/g, ''); // Start/end ke dashes remove
+  convertToDesiredFormat(products: ParsedProduct[]): any[] {
+    const output: any[] = [];
+
+    products.forEach((product) => {
+      product.variants.forEach((variant) => {
+        const mappedAttributes: Record<string, any> = {};
+
+        // Dynamic attributes spread karo
+        Object.entries(variant.attributes).forEach(([key, value]) => {
+          mappedAttributes[`variants/attributes/${key}`] = value ?? '';
+        });
+
+        // Images array ko comma-separated string mein convert
+        const imagesStr = variant.images.join(', ');
+
+        output.push({
+          Brand: product.brand,
+          'Main Title': product.main_title,
+          'Variants/Product title': variant.product_title,
+          'Variants/Description': variant.description,
+          'variants/seoContent': variant.seo_content,
+          'variants/faqContent': variant.faq_content,
+          'variants/image': imagesStr,
+          'variants/price': variant.price,
+          'variants/discount off': variant.discount_off, // Percentage
+          ...mappedAttributes,
+        });
+      });
+    });
+
+    return output;
+  }
+
+  /**
+   * Products ko CSV format mein save karta hai
+   */
+  async saveToCsvFile(products: any[], outputPath: string): Promise<void> {
+    const dir = path.dirname(outputPath);
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+
+    const csv = Papa.unparse(products);
+    fs.writeFileSync(outputPath, csv, 'utf-8');
+    console.log(`✓ CSV saved to ${outputPath}`);
   }
 
   /**
    * Products ko JSON file mein save karta hai
    */
-  // eslint-disable-next-line @typescript-eslint/require-await
-  async saveToJsonFile(
-    products: ParsedProduct[],
-    outputPath: string,
-  ): Promise<void> {
+  async saveToJsonFile(products: any[], outputPath: string): Promise<void> {
+    const dir = path.dirname(outputPath);
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+
     const jsonData = JSON.stringify(products, null, 2);
     fs.writeFileSync(outputPath, jsonData, 'utf-8');
-    console.log(`✓ Products saved to ${outputPath}`);
+    console.log(`✓ JSON saved to ${outputPath}`);
   }
 
   /**
    * Statistics generate karta hai
    */
   generateStats(products: ParsedProduct[]) {
-    const totalVariants = products.reduce(
-      (sum, p) => sum + p.variants.length,
-      0,
-    );
+    const totalVariants = products.reduce((sum, p) => sum + p.variants.length, 0);
     const brandCounts = new Map<string, number>();
 
     products.forEach((product) => {
@@ -197,5 +244,24 @@ export class ParseService {
         product_count: count,
       })),
     };
+  }
+
+  convertNumber(value: string | number | null | undefined): number {
+    if (value === null || value === undefined) return 0;
+    if (typeof value === 'number') return value;
+
+    // Remove commas and convert to number
+    const cleanValue = value.toString().replace(/,/g, '');
+    return Number(cleanValue) || 0;
+  }
+
+  private slugify(text: string) {
+    return text
+      .toLowerCase()
+      .trim()
+      .replace(/[^\w\s-]/g, '')
+      .replace(/\s+/g, '-')
+      .replace(/-+/g, '-')
+      .replace(/^-+|-+$/g, '');
   }
 }

@@ -1,5 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unsafe-call */
 /* eslint-disable @typescript-eslint/no-unsafe-return */
+// /* eslint-disable @typescript-eslint/no-unsafe-call */
+// /* eslint-disable @typescript-eslint/no-unsafe-return */
 // /* eslint-disable @typescript-eslint/no-floating-promises */
 // /* eslint-disable @typescript-eslint/no-unsafe-assignment */
 // /* eslint-disable @typescript-eslint/no-unsafe-argument */
@@ -60,97 +62,25 @@
 //   /**
 //    * Brand aur main title extract karo product title se
 //    */
-//   private extractBrandAndTitle(
-//     title: string,
-//     brand: string,
-//   ): {
+//   private extractBrandAndTitle(title: string): {
 //     brand: string;
 //     mainTitle: string | null;
 //   } {
-//     // const brand = 'Apple';
+//     const brand = 'Apple';
 
 //     // Title ko normalize karo
 //     // const normalized = title.replace(/Macbook/gi, 'MacBook');
 //     // const normalized = title.replace(/Watch/gi, 'Watch');
 //     // const normalized = title.replace(/ipad/gi, 'Ipad');
-//     // const normalized = title.replace(/IPhone/gi, 'iPhone');
-//     const normalized = title;
+//     const normalized = title.replace(/IPhone/gi, 'iPhone');
 
 //     // Different patterns check mega computer
 //     const patterns = [
-//       { regex: /TS EVO/i, result: 'TS EVO' }, // Samsung
-//       { regex: /1TB/i, result: '1TB' }, // Samsung
-//       { regex: /T7/i, result: 'T7' }, // Samsung
-//       { regex: /T9/i, result: 'T9' }, // Samsung
-//       { regex: /2TB/i, result: '2TB' }, // Samsung
-//       { regex: /4TB/i, result: '4TB' }, // Samsung
-//       { regex: /1TB/i, result: '1TB' }, // Samsung
-//       { regex: /8TB/i, result: '8TB' }, // Samsung
-//       { regex: /250GB/i, result: '250GB' }, // Samsung
-//       { regex: /PS8/i, result: 'PS8' }, // Lenovo
-//       { regex: /PS6/i, result: 'PS6' }, // Lenovo
-//       { regex: /10TB 3.5/i, result: '10TB 3.5' }, // Seagate
-//       { regex: /8TB 3.5/i, result: '8TB 3.5' }, // Seagate
-//       { regex: /6TB 3.5/i, result: '6TB 3.5' }, // Seagate
-//       { regex: /4TB 3.5/i, result: '4TB 3.5' }, // Seagate
-//       { regex: /Expansion/i, result: 'Expansion' }, // Seagate
-//       { regex: /Expansion/i, result: 'Expansion' }, // Seagate
-//       { regex: /14TB/i, result: '14TB' }, // Seagate
-//       { regex: /12TB/i, result: '12TB' }, // Seagate
-//       { regex: /16TB/i, result: '16TB' }, // Seagate
-//       { regex: /2TB/i, result: '2TB' }, // Seagate
-//       { regex: /E61/i, result: 'E61' }, // Sandisk
-//       { regex: /E30/i, result: 'E30' }, // Sandisk
-//       { regex: /32GB/i, result: '32GB' }, // Sandisk
-//       { regex: /SSD/i, result: 'SSD' }, // Hikvision
-//       { regex: /RED/i, result: 'RED' }, // WD
-//       { regex: /Blue/i, result: 'Blue' }, // WD
-//       { regex: /Green/i, result: 'Green' }, // WD
-//       { regex: /12TB 3.5/i, result: '12TB 3.5' }, // WD
-//       { regex: /4TB 3.5/i, result: '4TB 3.5' }, // WD
-//       { regex: /10TB 3.5/i, result: '10TB 3.5' }, // WD
-//       { regex: /14TB 3.5/i, result: '14TB 3.5' }, // WD
-//       { regex: /22TB 3.5/i, result: '22TB 3.5' }, // WD
-//       { regex: /Ultrastar/i, result: 'Ultrastar' }, // WD
-//       { regex: /6TB 3.5/i, result: '6TB 3.5' }, // WD
-//       { regex: /8TB 3.5/i, result: '8TB 3.5' }, // WD
-//       { regex: /18TB 3.5/i, result: '18TB 3.5' }, // WD
-//       { regex: /1TB 3.5/i, result: '1TB 3.5' }, // WD
-//       { regex: /2TB 3.5/i, result: '2TB 3.5' }, // WD
-//       { regex: /1TB/i, result: '1TB' }, // Kingston
-//       { regex: /2TB/i, result: '2TB' }, // Kingston
-//       { regex: /4TB/i, result: '4TB' }, // Kingston
-//       { regex: /256GB/i, result: '256GB' }, // Kingston
-//       { regex: /128GB/i, result: '128GB' }, // Kingston
-//       { regex: /500GB/i, result: '500GB' }, // Kingston
-//       { regex: /64GB/i, result: '64GB' }, // Kingston
-//       { regex: /256GB/i, result: '256GB' }, // Lexar
-//       { regex: /2TB/i, result: '2TB' }, // Lexar
-//       { regex: /1TB/i, result: '1TB' }, // Lexar
-//       { regex: /128GB/i, result: '128GB' }, // Lexar
-//       { regex: /512GB/i, result: '512GB' }, // Lexar
-//       { regex: /32GB/i, result: '32GB' }, // Lexar
-//       { regex: /Legend/i, result: 'Legend' }, // Adata
-//       { regex: /Storejet/i, result: 'Storejet' }, // Transcend
-//       { regex: /S500/i, result: 'S500' }, // Aigo
-//       { regex: /Pocket/i, result: 'Pocket' }, // Hiksemi
-//       { regex: /2TB/i, result: '2TB' }, // Verbatim
-//       { regex: /1TB/i, result: '1TB' }, // Verbatim
-//       { regex: /256GB/i, result: '256GB' }, // Verbatim
-//       { regex: /512GB/i, result: '512GB' }, // Verbatim
-//       { regex: /SPATIUM/i, result: 'SPATIUM' }, // Msi
-//       { regex: /DiskStation/i, result: 'DiskStation' }, // Synology
-//       { regex: /Enclosure/i, result: 'Enclosure' }, // QNAP
-//       { regex: /Elite/i, result: 'Elite' }, // Corsair
-//       { regex: /32GB/i, result: '32GB' }, // DAHUA
+//       { regex: /Mac Studio/i, result: 'Mac Studio' },
+//       { regex: /Mac Mini/i, result: 'Mac Mini' },
+//       { regex: /Mac Pro/i, result: 'Mac Pro' },
+//       { regex: /iMac/i, result: 'iMac' },
 //     ];
-//     // // Different patterns check mega computer
-//     // const patterns = [
-//     //   { regex: /Mac Studio/i, result: 'Mac Studio' },
-//     //   { regex: /Mac Mini/i, result: 'Mac Mini' },
-//     //   { regex: /Mac Pro/i, result: 'Mac Pro' },
-//     //   { regex: /iMac/i, result: 'iMac' },
-//     // ];
 //     // // Different patterns check mega iphone mobiles
 //     // const patterns = [
 //     //   { regex: /iPhone 16 Pro Max/i, result: 'iPhone 16 Pro Max' },
@@ -215,8 +145,7 @@
 //     // const normalized = fullTitle.replace(/Macbook/gi, 'MacBook');
 //     // const normalized = fullTitle.replace(/watch/gi, 'watch');
 //     // const normalized = fullTitle.replace(/ipad/gi, 'Ipad');
-//     // const normalized = fullTitle.replace(/IPhone/gi, 'iPhone');
-//     const normalized = fullTitle.replace(/LEXAR/gi, 'Lexar');
+//     const normalized = fullTitle.replace(/IPhone/gi, 'iPhone');
 //     let variant = normalized;
 
 //     const prefixToRemove = `${brand} ${mainTitle}`;
@@ -227,6 +156,22 @@
 //     }
 
 //     return variant.trim();
+//   }
+
+//   private normalizeSpecsKeys(specs: Record<string, any>) {
+//     const normalized: Record<string, any> = {};
+
+//     Object.entries(specs).forEach(([key, value]) => {
+//       const normalizedKey = key
+//         .toLowerCase() // lowercase
+//         .trim() // extra spaces remove
+//         .replace(/[^\w\s]/g, '') // special characters remove
+//         .replace(/\s+/g, '_'); // spaces → underscore
+
+//       normalized[normalizedKey] = value;
+//     });
+
+//     return normalized;
 //   }
 
 //   /**
@@ -287,12 +232,7 @@
 //     const groupedProducts: Record<string, ProductGroup> = {};
 
 //     for (const product of inputData) {
-//       const getBrand = (product as unknown as { specs: Record<string, any> })
-//         .specs['brand'];
-//       const { brand, mainTitle } = this.extractBrandAndTitle(
-//         product.title,
-//         getBrand,
-//       );
+//       const { brand, mainTitle } = this.extractBrandAndTitle(product.title);
 
 //       if (!mainTitle) {
 //         console.warn(`Could not extract main_title from: ${product.title}`);
@@ -314,7 +254,7 @@
 //         product_title: variantTitle,
 //         slug,
 //         description: product.description || '',
-//         attributes: product.specs || {},
+//         attributes: this.normalizeSpecsKeys(product.specs) || {},
 //         image: product.image || '',
 //         price,
 //         discount_off: discount,
@@ -489,11 +429,26 @@ export class ProductTransformService {
 
     // Agar brand mil gaya to return karo
     if (brand) {
-      return brand.trim();
+      return brand.replace(' ', '-').trim();
     }
 
     // Default brand (agar specs mein nahi mila)
     return 'Unknown';
+  }
+  private normalizeSpecsKeys(specs: Record<string, any>) {
+    const normalized: Record<string, any> = {};
+
+    Object.entries(specs).forEach(([key, value]) => {
+      const normalizedKey = key
+        .toLowerCase() // lowercase
+        .trim() // extra spaces remove
+        .replace(/[^\w\s]/g, '') // special characters remove
+        .replace(/\s+/g, '_'); // spaces → underscore
+
+      normalized[normalizedKey] = value;
+    });
+
+    return normalized;
   }
 
   /**
@@ -502,56 +457,124 @@ export class ProductTransformService {
   private extractMainTitle(title: string): string | null {
     // Title ko normalize karo
     const normalized = title;
+    //  // Different patterns check karo - category wise
+    // const patterns = [
+    //   { regex: /TS EVO/i, result: 'TS EVO' }, // Samsung
+    //   { regex: /T7/i, result: 'T7' }, // Samsung
+    //   { regex: /T9/i, result: 'T9' }, // Samsung
+    //   { regex: /PS8/i, result: 'PS8' }, // Lenovo
+    //   { regex: /PS6/i, result: 'PS6' }, // Lenovo
+    //   { regex: /Expansion/i, result: 'Expansion' }, // Seagate
+    //   { regex: /Desire/i, result: 'Desire' }, // Hikvision
+    //   { regex: /RED/i, result: 'RED' }, // WD
+    //   { regex: /Blue/i, result: 'Blue' }, // WD
+    //   { regex: /Green/i, result: 'Green' }, // WD
+    //   { regex: /Ultrastar/i, result: 'Ultrastar' }, // WD
+    //   { regex: /Legend/i, result: 'Legend' }, // Adata
+    //   { regex: /Storejet/i, result: 'Storejet' }, // Transcend
+    //   { regex: /SPATIUM/i, result: 'SPATIUM' }, // Msi
+    //   { regex: /DiskStation/i, result: 'DiskStation' }, // Synology
+    //   { regex: /Enclosure/i, result: 'Enclosure' }, // QNAP
+    //   { regex: /Elite/i, result: 'Elite' }, // Corsair
+    //   { regex: /S500/i, result: 'S500' }, // Aigo
+    //   { regex: /Pocket/i, result: 'Pocket' }, // Hiksemi
+    //   { regex: /E61/i, result: 'E61' }, // Sandisk
+    //   { regex: /E30/i, result: 'E30' }, // Sandisk
+    //   // generics
+    //   { regex: /22TB 3\.5/i, result: '22TB 3.5' }, // WD
+    //   { regex: /18TB 3\.5/i, result: '18TB 3.5' }, // WD
+    //   { regex: /14TB 3\.5/i, result: '14TB 3.5' }, // WD
+    //   { regex: /12TB 3\.5/i, result: '12TB 3.5' }, // WD
+    //   { regex: /10TB 3\.5/i, result: '10TB 3.5' }, // Seagate
+    //   { regex: /8TB 3\.5/i, result: '8TB 3.5' }, // Seagate
+    //   { regex: /6TB 3\.5/i, result: '6TB 3.5' }, // Seagate
+    //   { regex: /4TB 3\.5/i, result: '4TB 3.5' }, // Seagate
+    //   { regex: /2TB 3\.5/i, result: '2TB 3.5' }, // WD
+    //   { regex: /1TB 3\.5/i, result: '1TB 3.5' }, // WD
+    //   // specs
+    //   { regex: /16TB/i, result: '16TB' }, // Seagate
+    //   { regex: /14TB/i, result: '14TB' }, // Seagate
+    //   { regex: /12TB/i, result: '12TB' }, // Seagate
+    //   { regex: /4TB/i, result: '4TB' }, // Samsung
+    //   { regex: /2TB/i, result: '2TB' }, // Samsung
+    //   { regex: /1TB/i, result: '1TB' }, // Samsung
+    //   { regex: /512GB/i, result: '512GB' }, // Lexar
+    //   { regex: /500GB/i, result: '500GB' }, // Kingston
+    //   { regex: /256GB/i, result: '256GB' }, // Lexar
+    //   { regex: /250GB/i, result: '250GB' }, // Samsung
+    //   { regex: /128GB/i, result: '128GB' }, // Lexar
+    //   { regex: /64GB/i, result: '64GB' }, // Kingston
+    //   { regex: /32GB/i, result: '32GB' }, // Sandisk
+    //   // normal
+    // ];
 
+    // const patterns = [
+    //   { regex: /Archon 2/i, result: 'Archon 2' }, // Cougar
+    //   { regex: /A32 Plus/i, result: 'A32 Plus' }, // Asus
+    //   { regex: /Chamber Case/i, result: 'Chamber Case' }, // Lian Li
+    //   { regex: /Claw 460/i, result: 'Claw 460' }, // GameMax
+    //   { regex: /Infinity Pro/i, result: 'Infinity Pro' }, // GameMax
+    //   { regex: /Leader 2/i, result: 'Leader 2' }, // GameMax
+    //   { regex: /Master Casings/i, result: 'Master Casings' }, // Cooler Master
+    //   { regex: /MPG GUNGNIR/i, result: 'MPG GUNGNIR' }, // MSI
+    //   { regex: /MidTower FV270/i, result: 'MidTower FV270' }, // Cougar
+    //   { regex: /ProArt PA401/i, result: 'ProArt PA401' }, // Asus
+    //   { regex: /ROG Strix/i, result: 'ROG Strix' }, // Asus
+    //   { regex: /ROG Hyperion/i, result: 'ROG Hyperion' }, // Asus
+    //   { regex: /TUF GT502/i, result: 'TUF GT502' }, // Asus
+    //   { regex: /TUF GT501/i, result: 'TUF GT501' }, // Asus
+    //   { regex: /U600 Casing/i, result: 'U600 Casing' }, // Acer
+    //   { regex: /Y70 Modern/i, result: 'Y70 Modern' }, // HYTE
+    //   { regex: /AIRFACE/i, result: 'AIRFACE' }, // Cougar
+    //   { regex: /CFV235/i, result: 'CFV235' }, // Cougar
+    //   { regex: /DUOFACE/i, result: 'DUOFACE' }, // Cougar
+    //   { regex: /Forge/i, result: 'Forge' }, // GameMax
+    //   { regex: /FV150/i, result: 'FV150' }, // Cougar
+    //   { regex: /Infinity/i, result: 'Infinity' }, // GameMax
+    //   { regex: /LANDER/i, result: 'LANDER' }, // XPG
+    //   { regex: /Lancool/i, result: 'Lancool' }, // Lian Li
+    //   { regex: /MX110/i, result: 'MX110' }, // Cougar
+    //   { regex: /MX600/i, result: 'MX600' }, // Cougar
+    //   { regex: /Obsidian/i, result: 'Obsidian' }, // Corsair
+    //   { regex: /Tower/i, result: 'Tower' }, // Thermaltake
+    //   { regex: /Vector/i, result: 'Vector' }, // Lian Li
+    //   { regex: /VALOR/i, result: 'VALOR' }, // XPG
+    //   { regex: /Vista/i, result: 'Vista' }, // GameMax
+    // ];
+
+    // // Different patterns check karo - category wise
+    // const patterns = [
+    //   { regex: /Case Fans/i, result: 'Case Fans' }, // Cooler Master
+    //   { regex: /CPU Cooler/i, result: 'CPU Cooler' }, // ID-cooling
+    //   { regex: /Cooling Fan/i, result: 'Cooling Fan' }, // Thermalright
+    //   { regex: /Elite Vision/i, result: 'Elite Vision' }, // Thermalright
+    //   { regex: /Frozen Vision/i, result: 'Frozen Vision' }, // Thermalright
+    //   { regex: /Liquid Cooler/i, result: 'Liquid Cooler' }, // Cougar
+    //   { regex: /Mjolnir Vision/i, result: 'Mjolnir Vision' }, // Thermalright
+    //   { regex: /ROG Ryuo/i, result: 'ROG Ryuo' }, // asus
+    //   { regex: /Trofeo Vision/i, result: 'Trofeo Vision' }, // Thermalright
+    //   { regex: /Thermal Grease/i, result: 'Thermal Grease' }, // Cooler Master
+    //   { regex: /TUF Cooler/i, result: 'TUF Cooler' }, // asus
+    //   { regex: /UNI Fan/i, result: 'UNI Fan' }, // Lian Li
+    //   { regex: /Wonder Vision/i, result: 'Wonder Vision' }, // Thermalright
+    //   { regex: /Galahad/i, result: 'Galahad' }, // Lian Li
+    //   { regex: /Grizzly/i, result: 'Grizzly' }, // Thermal
+    //   { regex: /HydroShift/i, result: 'HydroShift' }, // Lian Li
+    //   { regex: /MPG/i, result: 'MPG' }, // MSI
+    //   { regex: /Phantom/i, result: 'Phantom' }, // Thermalright
+    // ];
     // Different patterns check karo - category wise
     const patterns = [
-      { regex: /TS EVO/i, result: 'TS EVO' }, // Samsung
-      { regex: /T7/i, result: 'T7' }, // Samsung
-      { regex: /T9/i, result: 'T9' }, // Samsung
-      { regex: /PS8/i, result: 'PS8' }, // Lenovo
-      { regex: /PS6/i, result: 'PS6' }, // Lenovo
-      { regex: /Expansion/i, result: 'Expansion' }, // Seagate
-      { regex: /Desire/i, result: 'Desire' }, // Hikvision
-      { regex: /RED/i, result: 'RED' }, // WD
-      { regex: /Blue/i, result: 'Blue' }, // WD
-      { regex: /Green/i, result: 'Green' }, // WD
-      { regex: /Ultrastar/i, result: 'Ultrastar' }, // WD
-      { regex: /Legend/i, result: 'Legend' }, // Adata
-      { regex: /Storejet/i, result: 'Storejet' }, // Transcend
-      { regex: /SPATIUM/i, result: 'SPATIUM' }, // Msi
-      { regex: /DiskStation/i, result: 'DiskStation' }, // Synology
-      { regex: /Enclosure/i, result: 'Enclosure' }, // QNAP
-      { regex: /Elite/i, result: 'Elite' }, // Corsair
-      { regex: /S500/i, result: 'S500' }, // Aigo
-      { regex: /Pocket/i, result: 'Pocket' }, // Hiksemi
-      { regex: /E61/i, result: 'E61' }, // Sandisk
-      { regex: /E30/i, result: 'E30' }, // Sandisk
-      // generics
-      { regex: /22TB 3\.5/i, result: '22TB 3.5' }, // WD
-      { regex: /18TB 3\.5/i, result: '18TB 3.5' }, // WD
-      { regex: /14TB 3\.5/i, result: '14TB 3.5' }, // WD
-      { regex: /12TB 3\.5/i, result: '12TB 3.5' }, // WD
-      { regex: /10TB 3\.5/i, result: '10TB 3.5' }, // Seagate
-      { regex: /8TB 3\.5/i, result: '8TB 3.5' }, // Seagate
-      { regex: /6TB 3\.5/i, result: '6TB 3.5' }, // Seagate
-      { regex: /4TB 3\.5/i, result: '4TB 3.5' }, // Seagate
-      { regex: /2TB 3\.5/i, result: '2TB 3.5' }, // WD
-      { regex: /1TB 3\.5/i, result: '1TB 3.5' }, // WD
-      // specs
-      { regex: /16TB/i, result: '16TB' }, // Seagate
-      { regex: /14TB/i, result: '14TB' }, // Seagate
-      { regex: /12TB/i, result: '12TB' }, // Seagate
-      { regex: /4TB/i, result: '4TB' }, // Samsung
-      { regex: /2TB/i, result: '2TB' }, // Samsung
-      { regex: /1TB/i, result: '1TB' }, // Samsung
-      { regex: /512GB/i, result: '512GB' }, // Lexar
-      { regex: /500GB/i, result: '500GB' }, // Kingston
-      { regex: /256GB/i, result: '256GB' }, // Lexar
-      { regex: /250GB/i, result: '250GB' }, // Samsung
-      { regex: /128GB/i, result: '128GB' }, // Lexar
-      { regex: /64GB/i, result: '64GB' }, // Kingston
-      { regex: /32GB/i, result: '32GB' }, // Sandisk
-      // normal
+      { regex: /GeForce RTX/i, result: 'GeForce RTX' }, // Gigabyte
+      // { regex: /GeForce RTX 5080/i, result: 'GeForce RTX 5080' }, // Gigabyte
+      // { regex: /GeForce RTX 5070/i, result: 'GeForce RTX 5070' }, // Gigabyte
+      // { regex: /GeForce RTX 5060/i, result: 'GeForce RTX 5060' }, // Gigabyte
+      // { regex: /GeForce RTX 5050/i, result: 'GeForce RTX 5050' }, // Gigabyte
+      // { regex: /GeForce RTX 3050/i, result: 'GeForce RTX 3050' }, // Gigabyte
+      { regex: /AMD Radeon/i, result: 'AMD Radeon' }, // AMD readon
+      { regex: /GeForce GT/i, result: 'GeForce GT' }, // Gigabyte
+      // { regex: /AMD Radeon 7800/i, result: 'AMD Radeon 7800' }, // AMD readon
+      // { regex: /AMD Radeon 9060/i, result: 'AMD Radeon 9060' }, // AMD readon
     ];
 
     for (const pattern of patterns) {
@@ -676,7 +699,7 @@ export class ProductTransformService {
         product_title: variantTitle,
         slug,
         description: product.description || '',
-        attributes: product.specs || {},
+        attributes: this.normalizeSpecsKeys(product.specs) || {},
         image: product.image || '',
         price,
         discount_off: discount,

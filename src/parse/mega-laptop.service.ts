@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 // /* eslint-disable @typescript-eslint/no-unused-vars */
 // /* eslint-disable @typescript-eslint/require-await */
 // /* eslint-disable @typescript-eslint/no-unsafe-argument */
@@ -2284,7 +2285,385 @@
 //   }
 // }
 
-// ---------------------------------------------- PAKLAP DRIVES ----------------------------------------------
+// // ---------------------------------------------- PAKLAP DRIVES ----------------------------------------------
+
+// /* eslint-disable @typescript-eslint/require-await */
+// /* eslint-disable @typescript-eslint/no-unsafe-argument */
+// /* eslint-disable @typescript-eslint/no-unsafe-member-access */
+// /* eslint-disable @typescript-eslint/no-unsafe-call */
+// /* eslint-disable @typescript-eslint/no-unsafe-assignment */
+// /* eslint-disable @typescript-eslint/prefer-promise-reject-errors */
+// import { Injectable } from '@nestjs/common';
+// import * as Papa from 'papaparse';
+// import * as fs from 'fs';
+// import * as path from 'path';
+
+// interface ParsedProduct {
+//   brand: string;
+//   main_title: string;
+//   variants: ProductVariant[];
+// }
+
+// interface ProductVariant {
+//   product_title: string;
+//   slug: string;
+//   description: string;
+//   attributes: Record<string, any>;
+//   image: string;
+//   price: number;
+//   discount_off: number;
+// }
+
+// @Injectable()
+// export class MegaLaptopParserService {
+//   /**
+//    * CSV file ko parse karke structured products array return karta hai
+//    */
+//   async parseCsvToProducts(filePath: string): Promise<ParsedProduct[]> {
+//     const csvData = fs.readFileSync(filePath, 'utf-8');
+
+//     return new Promise((resolve, reject) => {
+//       Papa.parse(csvData, {
+//         header: true,
+//         skipEmptyLines: true,
+//         complete: (results) => {
+//           try {
+//             const products = this.processRows(results.data);
+//             resolve(products);
+//           } catch (error) {
+//             reject(error);
+//           }
+//         },
+//         error: (error) => {
+//           reject(error);
+//         },
+//       });
+//     });
+//   }
+
+//   /**
+//    * Rows ko process karke products structure banata hai
+//    */
+//   private processRows(rows: any[]): ParsedProduct[] {
+//     const productsMap = new Map<string, ParsedProduct>();
+
+//     rows.forEach((row) => {
+//       // Title se Brand aur Main Title extract karo
+//       const fullTitle = row['title']?.trim().toLowerCase();
+//       if (!fullTitle) return;
+
+//       const { brand, mainTitle } = this.extractBrandAndMainTitle(fullTitle);
+//       const productKey = `${brand}___${mainTitle}`;
+
+//       // Agar product pehle se exist nahi karta to create karo
+//       if (!productsMap.has(productKey)) {
+//         productsMap.set(productKey, {
+//           brand: brand,
+//           main_title: mainTitle,
+//           variants: [],
+//         });
+//       }
+
+//       // Variant create karo
+//       const extractTitle = this.parseProductTitle(
+//         [brand],
+//         [mainTitle],
+//         fullTitle,
+//       );
+//       const variant = this.createVariant(row, extractTitle.variantTitle);
+//       productsMap.get(productKey)!.variants.push(variant);
+//     });
+
+//     return Array.from(productsMap.values());
+//   }
+
+//   /**
+//    * Title se Brand aur Main Title extract karta hai
+//    * Storage drives specific patterns (SSD/HDD/USB/NAS)
+//    */
+//   private extractBrandAndMainTitle(fullTitle: string): {
+//     brand: string;
+//     mainTitle: string;
+//   } {
+//     const parts = fullTitle.split(' ');
+
+//     // Brand extract karo (Kingston, WD, Samsung, Seagate, etc.)
+//     const brand = /^[A-Za-z]+$/.test(parts[0]) ? parts[0] : 'Unknown';
+
+//     let mainTitle = '';
+
+//     // Different drive types ke patterns
+//     // SSD patterns: "Kingston SSD 2TB NVMe Fury Renegade"
+//     if (fullTitle.match(/SSD/i)) {
+//       const ssdMatch = fullTitle.match(/SSD\s+(\d+(?:GB|TB))?/i);
+//       if (ssdMatch) {
+//         const capacity = ssdMatch[1]?.trim() || '';
+//         mainTitle = capacity ? `SSD ${capacity}`.trim() : 'SSD';
+//       }
+//     }
+//     // USB/Flash Drive patterns: "Kingston 64GB USB Drive"
+//     else if (fullTitle.match(/USB|Flash/i)) {
+//       const usbMatch = fullTitle.match(/(\d+(?:GB|TB))?\s*USB/i);
+//       if (usbMatch) {
+//         const capacity = usbMatch[1]?.trim() || '';
+//         mainTitle = capacity ? `USB Drive ${capacity}`.trim() : 'USB Drive';
+//       }
+//     }
+//     // NAS patterns: "Synology 4-Bay DiskStation"
+//     else if (fullTitle.match(/NAS|DiskStation|QNAP/i)) {
+//       const nasMatch = fullTitle.match(
+//         /(\d+-Bay)?\s*(DiskStation|NAS|TS-\d+)/i,
+//       );
+//       if (nasMatch) {
+//         mainTitle = nasMatch[0]?.trim();
+//       } else {
+//         mainTitle = 'NAS';
+//       }
+//     }
+//     // HDD patterns: "WD Red Plus 10TB"
+//     else if (fullTitle.match(/HDD|Hard Drive|IronWolf|Exos/i)) {
+//       const hddMatch = fullTitle.match(
+//         /(Red|Blue|IronWolf|Exos|My Book)\s+(\d+(?:GB|TB))?/i,
+//       );
+//       if (hddMatch) {
+//         mainTitle = hddMatch[0]?.trim();
+//       } else {
+//         mainTitle = 'HDD';
+//       }
+//     }
+//     // Portable SSD: "SanDisk Portable SSD"
+//     else if (fullTitle.match(/Portable/i)) {
+//       const portableMatch = fullTitle.match(
+//         /Portable\s+SSD\s+(\d+(?:GB|TB))?/i,
+//       );
+//       if (portableMatch) {
+//         const capacity = portableMatch[1].trim() || '';
+//         mainTitle = capacity
+//           ? `Portable SSD ${capacity}`.trim()
+//           : 'Portable SSD';
+//       }
+//     } else {
+//       // Fallback: Use first 2-3 words
+//       mainTitle = parts.slice(1, 3).join(' ');
+//     }
+
+//     return { brand, mainTitle: mainTitle || 'Storage Drive' };
+//   }
+
+//   /**
+//    * Single row se variant object banata hai
+//    */
+//   private createVariant(row: any, fullTitle: string): ProductVariant {
+//     const description = row['description'] || fullTitle;
+
+//     // Price parsing - handle "0" for unavailable products
+//     const priceStr = row['price']?.toString() || '0';
+//     let finalPrice = '0';
+//     let discount = '0';
+
+//     if (
+//       priceStr === '0' ||
+//       priceStr.toLowerCase().includes('coming soon') ||
+//       priceStr.toLowerCase().includes('in stock')
+//     ) {
+//       finalPrice = '0';
+//       discount = '0';
+//     } else {
+//       const priceMatch = priceStr.match(/Rs\.\s*([\d,]+)/g);
+//       if (priceMatch && priceMatch.length > 0) {
+//         const lastPrice = priceMatch[priceMatch.length - 1];
+//         finalPrice = lastPrice.replace(/Rs\.\s*/g, '').replace(/,/g, '');
+//         const discountMatch = priceStr.match(/-(\d+)%/);
+//         if (discountMatch) discount = discountMatch[1];
+//       }
+//     }
+
+//     const attributes: Record<string, any> = {};
+
+//     // CSV column names ko normalize karo
+//     const normalizedRow: Record<string, string> = {};
+//     Object.keys(row).forEach((key) => {
+//       const normalizedKey = key.toLowerCase().trim().replace(/\s+/g, '_');
+//       normalizedRow[normalizedKey] = row[key];
+//     });
+
+//     // Storage drives specific attribute mapping
+//     const attributeMapping: Record<string, string> = {
+//       // Core specs
+//       'details/brand': 'brand',
+//       'details/capacity': 'capacity',
+//       'details/interface': 'interface',
+//       'details/form_factor': 'form_factor',
+
+//       // Performance
+//       'details/read_speed': 'read_speed',
+//       'details/write_speed': 'write_speed',
+
+//       // Physical
+//       'details/color': 'color',
+//       'details/availability': 'availability',
+
+//       // Additional info
+//       'details/price': 'price_detail',
+//     };
+
+//     // Attributes extract karo
+//     Object.entries(attributeMapping).forEach(([csvKey, attrKey]) => {
+//       const normalizedCsvKey = csvKey.toLowerCase().trim().replace(/\s+/g, '_');
+
+//       if (normalizedRow[normalizedCsvKey]) {
+//         const value = normalizedRow[normalizedCsvKey]?.toString().trim();
+//         if (
+//           value &&
+//           value !== '' &&
+//           value !== 'undefined' &&
+//           value !== 'null' &&
+//           value !== 'N/A' &&
+//           value.toLowerCase() !== 'in stock'
+//         ) {
+//           attributes[attrKey] = value;
+//         }
+//       }
+//     });
+
+//     return {
+//       product_title: fullTitle,
+//       slug: this.slugify(fullTitle),
+//       description,
+//       attributes,
+//       image: row['images/0']?.trim() || '',
+//       price: this.convertNumber(finalPrice),
+//       discount_off: this.convertNumber(discount),
+//     };
+//   }
+
+//   /**
+//    * Output ko desired format mein convert karta hai
+//    */
+//   convertToDesiredFormat(products: ParsedProduct[]): any[] {
+//     const output: any[] = [];
+
+//     products.forEach((product) => {
+//       product.variants.forEach((variant) => {
+//         const mappedAttributes: Record<string, any> = {};
+
+//         // Dynamic attributes spread karo
+//         Object.entries(variant.attributes).forEach(([key, value]) => {
+//           mappedAttributes[`variants/attributes/${key}`] = value ?? '';
+//         });
+
+//         output.push({
+//           Brand: product.brand,
+//           'Main Title': product.main_title,
+//           'Variants/Product title': variant.product_title,
+//           'Variants/Description': variant.description,
+//           'variants/image': variant.image,
+//           'variants/price': variant.price,
+//           'variants/discount off': variant.discount_off,
+//           ...mappedAttributes,
+//         });
+//       });
+//     });
+
+//     return output;
+//   }
+
+//   /**
+//    * Products ko CSV format mein save karta hai
+//    */
+//   async saveToCsvFile(products: any[], outputPath: string): Promise<void> {
+//     const dir = path.dirname(outputPath);
+//     if (!fs.existsSync(dir)) {
+//       fs.mkdirSync(dir, { recursive: true });
+//     }
+
+//     const csv = Papa.unparse(products);
+//     fs.writeFileSync(outputPath, csv, 'utf-8');
+//     console.log(`✓ CSV saved to ${outputPath}`);
+//   }
+
+//   /**
+//    * Products ko JSON file mein save karta hai
+//    */
+//   async saveToJsonFile(products: any[], outputPath: string): Promise<void> {
+//     const dir = path.dirname(outputPath);
+//     if (!fs.existsSync(dir)) {
+//       fs.mkdirSync(dir, { recursive: true });
+//     }
+
+//     const jsonData = JSON.stringify(products, null, 2);
+//     fs.writeFileSync(outputPath, jsonData, 'utf-8');
+//     console.log(`✓ JSON saved to ${outputPath}`);
+//   }
+
+//   /**
+//    * Statistics generate karta hai
+//    */
+//   generateStats(products: ParsedProduct[]) {
+//     const totalVariants = products.reduce(
+//       (sum, p) => sum + p.variants.length,
+//       0,
+//     );
+//     const brandCounts = new Map<string, number>();
+
+//     products.forEach((product) => {
+//       const count = brandCounts.get(product.brand) || 0;
+//       brandCounts.set(product.brand, count + 1);
+//     });
+
+//     return {
+//       total_products: products.length,
+//       total_variants: totalVariants,
+//       brands: Array.from(brandCounts.entries()).map(([brand, count]) => ({
+//         brand,
+//         product_count: count,
+//       })),
+//     };
+//   }
+
+//   convertNumber(value: string | number | null | undefined): number {
+//     if (value === null || value === undefined) return 0;
+//     if (typeof value === 'number') return value;
+//     return Number(value.replace(/,/g, '')) || 0;
+//   }
+
+//   private slugify(text: string) {
+//     return text
+//       .toLowerCase()
+//       .replace(/ /g, '-')
+//       .replace(/[^\w-]+/g, '');
+//   }
+
+//   private parseProductTitle(
+//     brands: string[],
+//     mainTitles: string[],
+//     fullTitle: string,
+//   ) {
+//     let variantTitle = fullTitle;
+
+//     // Remove brand from title
+//     for (const b of brands) {
+//       if (variantTitle.toLowerCase().startsWith(b.toLowerCase())) {
+//         variantTitle = variantTitle.slice(b.length).trim();
+//         break;
+//       }
+//     }
+
+//     // Remove main title from variant title
+//     for (const mt of mainTitles) {
+//       if (variantTitle.toLowerCase().startsWith(mt.toLowerCase())) {
+//         variantTitle = variantTitle.slice(mt.length).trim();
+//         break;
+//       }
+//     }
+
+//     return {
+//       variantTitle,
+//     };
+//   }
+// }
+
+// -------------------------- DYSON -----------------------------------------------
 /* eslint-disable @typescript-eslint/require-await */
 /* eslint-disable @typescript-eslint/no-unsafe-argument */
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
@@ -2306,10 +2685,12 @@ interface ProductVariant {
   product_title: string;
   slug: string;
   description: string;
+  seo_content: string;
+  faq_content: string;
   attributes: Record<string, any>;
-  image: string;
+  images: string[]; // Array of images
   price: number;
-  discount_off: number;
+  discount_off: number; // Percentage
 }
 
 @Injectable()
@@ -2346,11 +2727,10 @@ export class MegaLaptopParserService {
     const productsMap = new Map<string, ParsedProduct>();
 
     rows.forEach((row) => {
-      // Title se Brand aur Main Title extract karo
-      const fullTitle = row['title']?.trim().toLowerCase();
-      if (!fullTitle) return;
+      // Brand aur Main Title extract karo
+      const brand = row['Brand']?.trim() || 'Unknown';
+      const mainTitle = row['Main Title']?.trim() || 'Unknown Product';
 
-      const { brand, mainTitle } = this.extractBrandAndMainTitle(fullTitle);
       const productKey = `${brand}___${mainTitle}`;
 
       // Agar product pehle se exist nahi karta to create karo
@@ -2363,12 +2743,7 @@ export class MegaLaptopParserService {
       }
 
       // Variant create karo
-      const extractTitle = this.parseProductTitle(
-        [brand],
-        [mainTitle],
-        fullTitle,
-      );
-      const variant = this.createVariant(row, extractTitle.variantTitle);
+      const variant = this.createVariant(row);
       productsMap.get(productKey)!.variants.push(variant);
     });
 
@@ -2376,162 +2751,76 @@ export class MegaLaptopParserService {
   }
 
   /**
-   * Title se Brand aur Main Title extract karta hai
-   * Storage drives specific patterns (SSD/HDD/USB/NAS)
-   */
-  private extractBrandAndMainTitle(fullTitle: string): {
-    brand: string;
-    mainTitle: string;
-  } {
-    const parts = fullTitle.split(' ');
-
-    // Brand extract karo (Kingston, WD, Samsung, Seagate, etc.)
-    const brand = /^[A-Za-z]+$/.test(parts[0]) ? parts[0] : 'Unknown';
-
-    let mainTitle = '';
-
-    // Different drive types ke patterns
-    // SSD patterns: "Kingston SSD 2TB NVMe Fury Renegade"
-    if (fullTitle.match(/SSD/i)) {
-      const ssdMatch = fullTitle.match(/SSD\s+(\d+(?:GB|TB))?/i);
-      if (ssdMatch) {
-        const capacity = ssdMatch[1]?.trim() || '';
-        mainTitle = capacity ? `SSD ${capacity}`.trim() : 'SSD';
-      }
-    }
-    // USB/Flash Drive patterns: "Kingston 64GB USB Drive"
-    else if (fullTitle.match(/USB|Flash/i)) {
-      const usbMatch = fullTitle.match(/(\d+(?:GB|TB))?\s*USB/i);
-      if (usbMatch) {
-        const capacity = usbMatch[1]?.trim() || '';
-        mainTitle = capacity ? `USB Drive ${capacity}`.trim() : 'USB Drive';
-      }
-    }
-    // NAS patterns: "Synology 4-Bay DiskStation"
-    else if (fullTitle.match(/NAS|DiskStation|QNAP/i)) {
-      const nasMatch = fullTitle.match(
-        /(\d+-Bay)?\s*(DiskStation|NAS|TS-\d+)/i,
-      );
-      if (nasMatch) {
-        mainTitle = nasMatch[0]?.trim();
-      } else {
-        mainTitle = 'NAS';
-      }
-    }
-    // HDD patterns: "WD Red Plus 10TB"
-    else if (fullTitle.match(/HDD|Hard Drive|IronWolf|Exos/i)) {
-      const hddMatch = fullTitle.match(
-        /(Red|Blue|IronWolf|Exos|My Book)\s+(\d+(?:GB|TB))?/i,
-      );
-      if (hddMatch) {
-        mainTitle = hddMatch[0]?.trim();
-      } else {
-        mainTitle = 'HDD';
-      }
-    }
-    // Portable SSD: "SanDisk Portable SSD"
-    else if (fullTitle.match(/Portable/i)) {
-      const portableMatch = fullTitle.match(
-        /Portable\s+SSD\s+(\d+(?:GB|TB))?/i,
-      );
-      if (portableMatch) {
-        const capacity = portableMatch[1].trim() || '';
-        mainTitle = capacity
-          ? `Portable SSD ${capacity}`.trim()
-          : 'Portable SSD';
-      }
-    } else {
-      // Fallback: Use first 2-3 words
-      mainTitle = parts.slice(1, 3).join(' ');
-    }
-
-    return { brand, mainTitle: mainTitle || 'Storage Drive' };
-  }
-
-  /**
    * Single row se variant object banata hai
    */
-  private createVariant(row: any, fullTitle: string): ProductVariant {
-    const description = row['description'] || fullTitle;
+  private createVariant(row: any): ProductVariant {
+    const productTitle = row['Variants/Product title']?.trim() || '';
+    const description = row['Variants/Description']?.trim() || '';
 
-    // Price parsing - handle "0" for unavailable products
-    const priceStr = row['price']?.toString() || '0';
-    let finalPrice = '0';
-    let discount = '0';
+    // SEO Content and FAQ Content (new fields)
+    const seoContent = row['seoContent']?.trim() || '';
+    const faqContent = row['faqContent']?.trim() || '';
 
-    if (
-      priceStr === '0' ||
-      priceStr.toLowerCase().includes('coming soon') ||
-      priceStr.toLowerCase().includes('in stock')
-    ) {
-      finalPrice = '0';
-      discount = '0';
-    } else {
-      const priceMatch = priceStr.match(/Rs\.\s*([\d,]+)/g);
-      if (priceMatch && priceMatch.length > 0) {
-        const lastPrice = priceMatch[priceMatch.length - 1];
-        finalPrice = lastPrice.replace(/Rs\.\s*/g, '').replace(/,/g, '');
-        const discountMatch = priceStr.match(/-(\d+)%/);
-        if (discountMatch) discount = discountMatch[1];
-      }
+    // Images array - comma separated se split karo
+    const imagesStr = row['variants/image']?.trim() || '';
+    const images = imagesStr
+      .split(',')
+      .map((img: string) => img.trim())
+      .filter((img: string) => img !== '');
+
+    // Price aur Discount calculation
+    const finalPrice = this.convertNumber(row['variants/price']);
+    const discountAmount = this.convertNumber(row['variants/discount off']);
+
+    // Original price calculate karo
+    const originalPrice = finalPrice + discountAmount;
+
+    // Discount percentage calculate karo
+    let discountPercentage = 0;
+    if (originalPrice > 0 && discountAmount > 0) {
+      discountPercentage = Math.round((discountAmount / originalPrice) * 100);
     }
 
+    // Attributes dynamically collect karo
     const attributes: Record<string, any> = {};
 
-    // CSV column names ko normalize karo
-    const normalizedRow: Record<string, string> = {};
     Object.keys(row).forEach((key) => {
-      const normalizedKey = key.toLowerCase().trim().replace(/\s+/g, '_');
-      normalizedRow[normalizedKey] = row[key];
-    });
+      // Skip main fields
+      if (
+        key === 'Brand' ||
+        key === 'Main Title' ||
+        key === 'Variants/Product title' ||
+        key === 'Variants/Description' ||
+        key === 'variants/image' ||
+        key === 'variants/price' ||
+        key === 'variants/discount off' ||
+        key === 'variants/seoContent' ||
+        key === 'variants/faqContent'
+      ) {
+        return;
+      }
 
-    // Storage drives specific attribute mapping
-    const attributeMapping: Record<string, string> = {
-      // Core specs
-      'details/brand': 'brand',
-      'details/capacity': 'capacity',
-      'details/interface': 'interface',
-      'details/form_factor': 'form_factor',
+      // Extract attributes
+      if (key.startsWith('variants/attributes/')) {
+        const attrName = key.replace('variants/attributes/', '');
+        const value = row[key]?.toString().trim();
 
-      // Performance
-      'details/read_speed': 'read_speed',
-      'details/write_speed': 'write_speed',
-
-      // Physical
-      'details/color': 'color',
-      'details/availability': 'availability',
-
-      // Additional info
-      'details/price': 'price_detail',
-    };
-
-    // Attributes extract karo
-    Object.entries(attributeMapping).forEach(([csvKey, attrKey]) => {
-      const normalizedCsvKey = csvKey.toLowerCase().trim().replace(/\s+/g, '_');
-
-      if (normalizedRow[normalizedCsvKey]) {
-        const value = normalizedRow[normalizedCsvKey]?.toString().trim();
-        if (
-          value &&
-          value !== '' &&
-          value !== 'undefined' &&
-          value !== 'null' &&
-          value !== 'N/A' &&
-          value.toLowerCase() !== 'in stock'
-        ) {
-          attributes[attrKey] = value;
+        if (value && value !== '' && value !== 'undefined' && value !== 'null') {
+          attributes[attrName] = value;
         }
       }
     });
 
     return {
-      product_title: fullTitle,
-      slug: this.slugify(fullTitle),
-      description,
-      attributes,
-      image: row['images/0']?.trim() || '',
-      price: this.convertNumber(finalPrice),
-      discount_off: this.convertNumber(discount),
+      product_title: productTitle,
+      slug: this.slugify(productTitle),
+      description: description,
+      seo_content: seoContent,
+      faq_content: faqContent,
+      attributes: attributes,
+      images: images,
+      price: finalPrice,
+      discount_off: discountPercentage, // Percentage form mein
     };
   }
 
@@ -2550,14 +2839,19 @@ export class MegaLaptopParserService {
           mappedAttributes[`variants/attributes/${key}`] = value ?? '';
         });
 
+        // Images array ko comma-separated string mein convert
+        const imagesStr = variant.images.join(', ');
+
         output.push({
           Brand: product.brand,
           'Main Title': product.main_title,
           'Variants/Product title': variant.product_title,
           'Variants/Description': variant.description,
-          'variants/image': variant.image,
+          'seoContent': variant.seo_content,
+          'faqContent': variant.faq_content,
+          'variants/image': imagesStr,
           'variants/price': variant.price,
-          'variants/discount off': variant.discount_off,
+          'variants/discount off': variant.discount_off, // Percentage
           ...mappedAttributes,
         });
       });
@@ -2598,10 +2892,7 @@ export class MegaLaptopParserService {
    * Statistics generate karta hai
    */
   generateStats(products: ParsedProduct[]) {
-    const totalVariants = products.reduce(
-      (sum, p) => sum + p.variants.length,
-      0,
-    );
+    const totalVariants = products.reduce((sum, p) => sum + p.variants.length, 0);
     const brandCounts = new Map<string, number>();
 
     products.forEach((product) => {
@@ -2622,7 +2913,10 @@ export class MegaLaptopParserService {
   convertNumber(value: string | number | null | undefined): number {
     if (value === null || value === undefined) return 0;
     if (typeof value === 'number') return value;
-    return Number(value.replace(/,/g, '')) || 0;
+
+    // Remove commas and convert to number
+    const cleanValue = value.toString().replace(/,/g, '');
+    return Number(cleanValue) || 0;
   }
 
   private slugify(text: string) {
@@ -2630,33 +2924,5 @@ export class MegaLaptopParserService {
       .toLowerCase()
       .replace(/ /g, '-')
       .replace(/[^\w-]+/g, '');
-  }
-
-  private parseProductTitle(
-    brands: string[],
-    mainTitles: string[],
-    fullTitle: string,
-  ) {
-    let variantTitle = fullTitle;
-
-    // Remove brand from title
-    for (const b of brands) {
-      if (variantTitle.toLowerCase().startsWith(b.toLowerCase())) {
-        variantTitle = variantTitle.slice(b.length).trim();
-        break;
-      }
-    }
-
-    // Remove main title from variant title
-    for (const mt of mainTitles) {
-      if (variantTitle.toLowerCase().startsWith(mt.toLowerCase())) {
-        variantTitle = variantTitle.slice(mt.length).trim();
-        break;
-      }
-    }
-
-    return {
-      variantTitle,
-    };
   }
 }

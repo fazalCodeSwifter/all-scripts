@@ -1,0 +1,690 @@
+[
+  {
+    "brand": "AMD",
+    "main_title": "Ryzen 5",
+    "variants": [
+      {
+        "product_title": "3600 Desktop Processor 6C 12T Unlocked, Tray AM4, Zen 2 Architecture, Up to 4.2 GHz",
+        "slug": "3600-desktop-processor-6c-12t-unlocked-tray-am4-zen-2-architecture-up-to-42-ghz",
+        "description": "<ul> <li><strong>System Memory Type:</strong> DDR4</li> <li><strong>Cores / Threads:</strong> 6 / 12</li> <li><strong>Base Clock:</strong> 3.6 GHz</li> <li><strong>Max Boost Clock:</strong> 4.2 GHz</li> <li><strong>L3 Cache:</strong> 32MB</li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 5 3600 – The King of Mid-Range Desktop Performance</h1>\n\n<p>The <strong>AMD Ryzen 5 3600</strong> remains one of the most popular desktop processors ever built, offering an incredible balance of speed, efficiency, and price. Featuring the advanced <strong>Zen 2 Architecture</strong>, this 6-core, 12-thread powerhouse is designed to handle everything from high-end gaming to professional content creation. With a boost clock of <strong>up to 4.2 GHz</strong>, it delivers smooth performance for modern PC builds on the versatile <strong>AM4 socket</strong>.</p>\n\n<hr>\n\n<h2>🌟 Key Features of This Processor</h2> <ul> <li><strong>6 Cores & 12 Threads:</strong> Perfect for multitasking, allowing you to game, stream, and record all at the same time without lagging.</li> <li><strong>Zen 2 Architecture:</strong> Built on a 7nm process, this architecture provides a massive jump in instructions per clock (IPC) compared to older generations.</li> <li><strong>Unlocked for Overclocking:</strong> Being an \"Unlocked\" processor, you can manually push the speeds higher if you have a high-quality cooling system.</li> <li><strong>PCIe 4.0 Support:</strong> One of the first mainstream CPUs to support PCIe 4.0, offering double the bandwidth for the latest graphics cards and NVMe SSDs.</li> </ul>\n\n<hr>\n\n<h2>👤 Who Should Use It?</h2> <p>The Ryzen 5 3600 is the perfect choice for <strong>Gamers and Budget Content Creators</strong>. If you are building a PC for smooth 1080p or 1440p gaming, this CPU provides the \"sweet spot\" of performance. It is also excellent for <strong>Video Editors and 3D Modelers</strong> who need the multi-threaded power of 12 threads but want to stay within a reasonable budget.</p>\n\n<h2>💼 Best Use Cases for This CPU</h2> <ul> <li><strong>Competitive Gaming:</strong> Provides high frame rates in eSports titles like Valorant, CS:GO, and Call of Duty: Warzone.</li> <li><strong>Productivity & Workstations:</strong> Handles heavy software like Adobe Premiere Pro and Blender much faster than standard 4-core CPUs.</li> <li><strong>Home Server / Streaming:</strong> The 12 threads make it a reliable choice for running a home Plex server or streaming to Twitch.</li> </ul>\n\n<hr>\n\n<h2>❓ Why Choose This Processor?</h2> <p>You should choose the <strong>AMD Ryzen 5 3600</strong> because it is widely considered the best value-for-money CPU of its era. It fits into almost any <strong>AM4 motherboard</strong> (B450, B550, X570), making it very easy to upgrade your existing system. Even as newer models arrive, the 3600 remains a \"Workhorse\" that can handle the latest games and professional apps with total reliability.</p>\n\n<hr>\n\n<h2>🛡️ Why Buy from Vision Tech (3 Months Warranty)?</h2> <p>At <strong>Vision Tech Pakistan</strong>, we ensure that every tray processor is tested for 100% stability and performance.</p> <ul> <li><strong>Full Stress Testing:</strong> We run benchmarks to ensure the processor maintains its boost speeds without overheating.</li> <li><strong>Pin Inspection:</strong> Every AM4 processor is manually inspected to ensure there are no bent pins, providing a \"hassle-free\" installation.</li> <li><strong>3-Month Shop Warranty:</strong> We offer 90 days of replacement warranty, giving you security that your PC build is backed by local support.</li> </ul>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the Ryzen 5 3600 still good for gaming in 2026?</h3> <p>Absolutely. Its 6-core/12-thread architecture remains the standard for modern gaming, easily handling the latest titles when paired with a decent GPU.</p>\n\n<h3>2. Does this processor require a dedicated graphics card?</h3> <p>Yes. The Ryzen 5 3600 <strong>does not have integrated graphics</strong>. You must install a dedicated graphics card to get a display.</p>\n\n<h3>3. What is the difference between \"Tray\" and \"Box\" versions?</h3> <p>The chip inside is identical. The \"Tray\" version simply ships in a protective plastic shell without the retail box or stock fan, saving you money.</p>\n\n<h3>4. Does it support Windows 11?</h3> <p>Yes, the Ryzen 5 3600 is fully compatible with Windows 11 and meets all TPM 2.0 and security requirements.</p>",
+        "attributes": {
+          "cpu": "AMD Ryzen 5 3600",
+          "processor": "6C 12T Unlocked",
+          " Cores": "6",
+          "threads": "12",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "3.6 GHZ",
+          "Max Boost Clock": "4.2 GHZ",
+          "Generation": "AMD Ryzen 3rd Generation",
+          "Compatible Motherboards": "B450, B550, X470, X570",
+          "Ram Support": "DDR4 3200mts & DDR5 4800mts"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/czone.com.pk-20-1540-18322-200525112717-87161-2462568-021025053301.webp",
+          "https://images-cdn.ubuy.com.sa/693a83eaca646da7e105c44d-amd-ryzen-5-3600-6-core-12-thread.jpg",
+          "https://static.webx.pk/files/19643/Images/amd-ryzen-5-3600-tray-cpu-price-in-pakistan-3-19643-735714-031223021849866.jpg"
+        ],
+        "price": 19990,
+        "discount_off": 0
+      },
+      {
+        "product_title": "8400F PC Gaming Processor | Zen 4 | 6 Cores 12 Threads | AM5 - Tray",
+        "slug": "8400f-pc-gaming-processor-zen-4-6-cores-12-threads-am5-tray",
+        "description": "<ul> <li><strong>Supports A620 B650 X670 X870 Motherboards</strong></li> <li><strong>Six High Performance CPU Cores</strong></li> <li><strong>Twelve Powerful Multi Processing Threads</strong></li> <li><strong>Blazing Fast Four Point Seven Boost</strong></li> <li><strong>Latest High Speed DDR5 RAM Support</strong></li> <li><strong>Large Sixteen Megabyte L3 Game Cache</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 5 8400F – The Modern Entry Point to the AM5 Era</h1>\n\n<p>The <strong>AMD Ryzen 5 8400F</strong> is a cutting-edge, efficiency-focused processor designed for the modern <strong>AM5 platform</strong>. Built on the latest <strong>Zen 4 Architecture</strong>, this 6-core, 12-thread CPU offers a significant jump in performance and technology over previous generations. As an \"F-Series\" processor, it is optimized for gamers who use dedicated graphics cards, providing a powerful and affordable path to high-speed DDR5 memory and PCIe 5.0 support.</p>\n\n<hr>\n\n<h2>🔍 Decoding the Name: What is the Ryzen 5 8400F?</h2> <p>Understanding AMD’s naming convention helps you realize exactly what power you are putting into your PC. Here is the breakdown of the <strong>8400F</strong>:</p>\n\n<ul> <li><strong>Ryzen 5:</strong> This is the <b>\"Mid-Range\"</b> category, balanced perfectly for gaming and daily professional work.</li> <li><strong>8th Generation:</strong> This CPU belongs to the <b>8000 Series</b>, meaning it uses the modern <b>Zen 4</b> architecture. It is much more efficient and faster than the older 5000 or 3000 series.</li> <li><strong>\"400\" Model:</strong> This indicates it is a value-optimized chip, designed to give you 90% of the performance of high-end chips at a much lower price.</li> <li><strong>\"F\" Suffix:</strong> This is important! The \"F\" means <b>No Integrated Graphics</b>. You MUST use a dedicated graphics card (NVIDIA or AMD) to get a display on your monitor.</li> </ul>\n\n<hr>\n\n<h2>🌟 Key Features & Pointers</h2> <ul> <li><strong>6 Cores & 12 Threads:</strong> Provides the perfect \"sweet spot\" for modern gaming and smooth multitasking.</li> <li><strong>Next-Gen AM5 Socket:</strong> Unlike the old AM4, this socket will support new CPUs for years, making your investment safe.</li> <li><strong>DDR5 Memory Only:</strong> Access the incredible speeds of DDR5 RAM for faster loading times and smoother system response.</li> <li><strong>5nm Zen 4 Tech:</strong> Smaller transistors mean more speed with less heat and lower electricity bills.</li> </ul>\n\n<hr>\n\n<h2>👤 Who is this Processor Perfect For?</h2> <p>The Ryzen 5 8400F is the \"Smart Builder's\" choice. It is best suited for:</p> <ul> <li><strong>Pure Gamers:</strong> Since gamers already buy a dedicated GPU, they don't need to pay extra for built-in graphics. This makes the 8400F a bargain.</li> <li><strong>Students & Office Pros:</strong> If you need a fast PC for the next 5 years that won't become \"old\" quickly, this is the perfect entry into the AM5 world.</li> <li><strong>DDR5 Early Adopters:</strong> For those who want to move away from old DDR4 technology without spending a huge amount of money.</li> </ul>\n\n<hr>\n\n<h2>🛠️ Best Suitable Options (Motherboard & Build)</h2> <p>To get the best performance out of your 8400F, we recommend the following setup:</p>\n\n<table> <tr> <th>Component</th> <th>Recommended Option</th> <th>Reason</th> </tr> <tr> <td><strong>Motherboard</strong></td> <td>B650 or A620 Chipset</td> <td>B650 allows for better features and future upgrades.</td> </tr> <tr> <td><strong>RAM</strong></td> <td>16GB or 32GB DDR5 (5200MHz+)</td> <td>Essential for AM5; provides massive bandwidth.</td> </tr> <tr> <td><strong>Graphics Card</strong></td> <td>RTX 4060 or RX 7600</td> <td>Pairs perfectly without causing any \"bottleneck.\"</td> </tr> <tr> <td><strong>PC Purpose</strong></td> <td>1080p/1440p Gaming & Work</td> <td>Ideal for high-frame-rate competitive gaming.</td> </tr> </table>\n\n<hr>\n\n<h2>🛡️ Why Buy from Vision Tech (11 Months Warranty)?</h2> <p>At <strong>Vision Tech Pakistan</strong>, we offer an industry-leading warranty to ensure your high-end build is fully protected.</p> <ul> <li><strong>11 Months Local Warranty:</strong> We provide nearly a full year of hardware security. If your processor faces any technical fault, we are here to support you.</li> <li><strong>Pin-Perfect Inspection:</strong> Every tray CPU is checked under a microscope to ensure perfect pins for your motherboard.</li> <li><strong>Expert Build Advice:</strong> Not sure which RAM fits? Our team will help you pick the best matching parts for this CPU.</li> </ul>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Ryzen 5 8400F support Windows 11?</h3> <p>Yes, it is fully optimized for Windows 11 and provides excellent security and performance features for the latest OS.</p>\n\n<h3>2. Can I use my old DDR4 RAM with this?</h3> <p>No. The 8400F and the AM5 platform require <strong>DDR5 RAM</strong>. This is a good thing, as it makes your PC much faster!</p>\n\n<h3>3. Why should I buy the \"Tray\" version?</h3> <p>Tray versions are the exact same processors but without the retail box. This allows us to offer you the <strong>best price in Pakistan</strong> while still giving you an 11-month warranty.</p>\n\n<h3>4. Will it run hot?</h3> <p>No, the 8400F is very power-efficient (65W). A standard aftermarket air cooler is more than enough to keep it icy cool.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 5 8400F",
+          "processor": "6C 12T Unlocked",
+          " Cores": "6",
+          "threads": "12",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "4.2 GHZ",
+          "Max Boost Clock": "4.7 GHZ",
+          "Generation": "AMD Ryzen 8 Generation",
+          "Compatible Motherboards": "A620 , X670E , X670 , B650E , B650 , X870E , X870 , B840 , B850",
+          "Ram Support": "DDR5 Upto 8000Mts"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/copy-7-czone.com.pk-1540-13906-201022080817-1540-16403-11072-87161-2462569-021025053306.webp",
+          "https://static.webx.pk/files/19643/Images/amd-ryzen-5-8400f-cpu-price-in-pakistan-junaidtech-1-19643-2251790-121124114151256.jpg",
+          "https://static.webx.pk/files/87161/Images/czone.com.pk-6-1540-18093-080425074737-87161-2462574-021025053344.webp",
+          "https://static.webx.pk/files/19643/Images/amd-ryzen-5-8400f-cpu-price-in-pakistan-junaidtech-2-19643-2251790-121124114147480.jpg"
+        ],
+        "price": 30500,
+        "discount_off": 0
+      },
+      {
+        "product_title": "5600 Desktop Processor | 6-Core 12 Thread Unlocked Socket AM4 - Tray",
+        "slug": "5600-desktop-processor-6-core-12-thread-unlocked-socket-am4-tray",
+        "description": "<ul> <li><strong>Powerful 6 Core 12 Thread Performance</strong></li> <li><strong>Blazing 4.4 Gigahertz Max Boost Clock</strong></li> <li><strong>Advanced Zen 3 Vermeer Architecture Tech</strong></li> <li><strong>High Speed Dual Channel DDR4 Support</strong></li> <li><strong>Supports Fast PCIe Gen 4 Lanes</strong></li> <li><strong>Compatible 300 400 500 Series Chipsets</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 5 5600 – The Best Value Gaming Workhorse</h1>\n\n<p>The <strong>AMD Ryzen 5 5600</strong> is widely celebrated as the \"Sweet Spot\" for modern PC builds. Utilizing the highly efficient <strong>Zen 3 Architecture</strong>, this 6-core, 12-thread processor delivers exceptional performance that rivals more expensive chips. Whether you are building a dedicated gaming rig or a balanced workstation, the 5600 provides the speed and reliability needed for smooth 1440p gaming and professional multitasking on the legendary <strong>AM4 socket</strong>.</p>\n\n<hr>\n\n<h2>🔍 Decoding the Name: What is the Ryzen 5 5600?</h2> <p>Understanding the \"5600\" model helps you see why it is the top choice for value-seekers. Here is the breakdown:</p>\n\n<ul> <li><strong>Ryzen 5:</strong> The \"Mainstream\" tier designed to handle everything from heavy gaming to professional creative software.</li> <li><strong>5th Generation:</strong> This is part of the <b>5000 Series</b> (Vermeer). It uses <b>Zen 3</b> technology, which fixed many of the \"latency\" issues of older generations, making it much faster in games.</li> <li><strong>\"600\" Model:</strong> This is the standard high-performance version. It is nearly identical to the \"5600X\" but runs at a slightly more efficient power level, saving you money without losing noticeable speed.</li> <li><strong>\"Tray\" Version:</strong> This refers to the processor being sold without the retail box or stock cooler. It’s the exact same high-quality chip but at a lower price point for custom builders.</li> </ul>\n\n<hr>\n\n<h2>🌟 Key Features & Pointers</h2> <ul> <li><strong>Powerful Six Cores Twelve Processing Threads</strong></li> <li><strong>Efficient Zen Three Seven Nanometer Architecture</strong></li> <li><strong>Massive Thirty Two Megabyte L3 Cache</strong></li> <li><strong>Supports High Speed PCI Express Four</strong></li> <li><strong>Fully Unlocked For Custom Frequency Tuning</strong></li> <li><strong>Includes Premium Eleven Months Shop Warranty</strong></li> </ul>\n\n<hr>\n\n<h2>👤 Who is this Processor Perfect For?</h2> <p>The Ryzen 5 5600 is designed for those who want \"high-end\" performance without the \"high-end\" price tag. It is best for:</p> <ul> <li><strong>1080p & 1440p Gamers:</strong> It perfectly handles high-refresh-rate gaming in titles like Warzone, Cyberpunk 2077, and Valorant.</li> <li><strong>Multi-Tasking Professionals:</strong> With 12 threads, it’s great for having dozens of browser tabs, Discord, and a heavy game open simultaneously.</li> <li><strong>Upgraders:</strong> If you currently have an older Ryzen (like a 1600 or 2600), this is the single best upgrade you can make to your existing AM4 motherboard.</li> </ul>\n\n<hr>\n\n<h2>🛠️ Best Suitable Options (Motherboard & Build)</h2> <p>To get the maximum 4.4 GHz boost from your 5600, pair it with these components:</p>\n\n<table> <tr> <th>Component</th> <th>Recommended Option</th> <th>Reason</th> </tr> <tr> <td><strong>Motherboard</strong></td> <td>B550 or B450 Chipset</td> <td>B550 supports PCIe 4.0 for faster SSDs and GPUs.</td> </tr> <tr> <td><strong>RAM</strong></td> <td>16GB DDR4 (3200MHz - 3600MHz)</td> <td>Ryzen 5000 series performs best with high-speed DDR4.</td> </tr> <tr> <td><strong>Graphics Card</strong></td> <td>RTX 3060, 4060, or RX 6700 XT</td> <td>Perfect balance for high-frame-rate gaming.</td> </tr> <tr> <td><strong>PC Purpose</strong></td> <td>High-End Gaming & Streaming</td> <td>Powerful enough to game and stream at the same time.</td> </tr> </table>\n\n<hr>\n\n<h2>🛡️ Why Buy from Vision Tech (11 Months Warranty)?</h2> <p>At <strong>Vision Tech Pakistan</strong>, we provide specialized support for the Pakistani gaming community.</p> <ul> <li><strong>11 Months Local Warranty:</strong> We stand by our hardware. You get nearly a full year of security for your processor.</li> <li><strong>Performance Verified:</strong> We ensure every \"Tray\" processor is authentic and meets its advertised boost clocks.</li> <li><strong>Expert Compatibility Check:</strong> Ask us if your current motherboard needs a BIOS update to support the 5000 series—we're here to help!</li> </ul>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Ryzen 5 5600 have built-in graphics?</h3> <p>No, this is not a \"G\" series processor. You <strong>must</strong> use a dedicated graphics card (GPU) to get a display.</p>\n\n<h3>2. Is it much better than the Ryzen 5 3600?</h3> <p>Yes! Thanks to the Zen 3 architecture, the 5600 is significantly faster in gaming (often 15-20% more FPS) and more efficient in daily tasks.</p>\n\n<h3>3. What cooler should I use for a Tray processor?</h3> <p>Since this is a Tray version (no cooler included), we recommend a decent aftermarket air cooler or a 120mm/240mm AIO for the best temperatures.</p>\n\n<h3>4. Will it work on an A320 or B450 motherboard?</h3> <p>Yes, most A320 and B450 boards support the Ryzen 5 5600, but you may need to update the BIOS before installing it.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 5 5600",
+          "processor": "6C 12T Unlocked",
+          " Cores": "6",
+          "threads": "12",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "3.6 GHZ",
+          "Max Boost Clock": "4.2 GHZ",
+          "Generation": "AMD Ryzen 5th Generation",
+          "Compatible Motherboards": "A620, B650, B650E, X670, X670E, B840, B850, X870, X870E,",
+          "Ram Support": "DDR5 Upto 8000mts"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/7-czone.com.pk-1540-13906-201022080817-87161-2462570-021025053312.webp",
+          "https://proaudio.com.pk/wp-content/uploads/2024/09/1647606644_IMG_1715993-1.jpg",
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-6-1540-18093-080425074737-87161-2462574-021025053344.webp"
+        ],
+        "price": 32899,
+        "discount_off": 0
+      },
+      {
+        "product_title": "5600X Desktop Processor, 6 Cores 12 Threads, 3.7GHz Base, 4.6GHz Max Boost, AM4 Socket, Unlocked, Tray",
+        "slug": "5600x-desktop-processor-6-cores-12-threads-37ghz-base-46ghz-max-boost-am4-socket-unlocked-tray",
+        "description": "<ul> <li><strong>Powerful 6 Core 12 Thread Performance</strong></li> <li><strong>Blazing 4.6 Gigahertz Max Boost Clock</strong></li> <li><strong>Advanced Zen 3 Architecture Vermeer Core</strong></li> <li><strong>Compatible With Reliable AM4 Socket Motherboards</strong></li> <li><strong>Fully Unlocked For Custom Precision Overclocking</strong></li> <li><strong>Supports Precision Boost 2 StoreMI Technology</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 5 5600X – The High-Performance Gaming Legend</h1>\n\n<p>The <strong>AMD Ryzen 5 5600X</strong> is the high-performance \"X\" variant of one of the most successful gaming processors ever made. Built on the <strong>Zen 3 Architecture</strong>, it features 6 cores and 12 threads with a massive boost clock of <strong>up to 4.6GHz</strong>. This processor is specifically engineered for gamers who demand every possible frame per second and creators who need snappy, responsive performance on the reliable <strong>AM4 platform</strong>.</p>\n\n<hr>\n\n<h2>🔍 Decoding the Name: What is the Ryzen 5 5600X?</h2> <p>The \"X\" makes a significant difference for enthusiasts. Here is what the <strong>5600X</strong> represents:</p>\n\n<ul> <li><strong>Ryzen 5:</strong> The competitive mid-range tier, widely considered the gold standard for pure gaming performance.</li> <li><strong>5th Generation:</strong> Part of the <b>5000 Series</b>, utilizing the <b>Zen 3</b> core. This generation brought a massive jump in single-core speed, which is critical for gaming.</li> <li><strong>\"X\" Suffix:</strong> The \"X\" signifies <b>Extreme Performance</b>. It features higher base and boost clock speeds compared to the non-X version, ensuring better performance right out of the box.</li> <li><strong>\"Tray\" Version:</strong> This is the processor only, provided without the retail box. It allows you to get the highest \"X\" tier performance at a more affordable price point.</li> </ul>\n\n<hr>\n\n<h2>🌟 Key Features & Pointers</h2> <ul> <li><strong>High Speed Six Core Twelve Threads</strong></li> <li><strong>Fast Four Point Six Gigahertz Boost</strong></li> <li><strong>Advanced Zen Three Seven Nanometer Core</strong></li> <li><strong>Massive Game Cache For Better Frames</strong></li> <li><strong>Fully Unlocked For Easy Manual Overclocking</strong></li> <li><strong>Includes Premium Eleven Months Shop Warranty</strong></li> </ul>\n\n<hr>\n\n<h2>👤 Who is this Processor Perfect For?</h2> <p>The Ryzen 5 5600X is for the user who refuses to compromise on speed. It is best for:</p> <ul> <li><strong>Hardcore Gamers:</strong> Ideal for competitive eSports (Valorant, CS2) and heavy AAA titles where single-core speed determines your FPS.</li> <li><strong>Streamers:</strong> Powerful enough to handle gaming and high-quality software encoding for Twitch or YouTube simultaneously.</li> <li><strong>Power Users:</strong> Those who want a snappy Windows experience and fast application load times.</li> </ul>\n\n<hr>\n\n<h2>🛠️ Best Suitable Options (Motherboard & Build)</h2> <p>To fully utilize the 4.6GHz boost of the 5600X, we recommend this high-performance setup:</p>\n\n<table> <tr> <th>Component</th> <th>Recommended Option</th> <th>Reason</th> </tr> <tr> <td><strong>Motherboard</strong></td> <td>B550 or X570 Chipset</td> <td>Best VRMs for maintaining high \"X\" series clock speeds.</td> </tr> <tr> <td><strong>RAM</strong></td> <td>16GB/32GB DDR4 (3600MHz CL16)</td> <td>3600MHz is the \"sweet spot\" for Zen 3 latency.</td> </tr> <tr> <td><strong>Graphics Card</strong></td> <td>RTX 4060 Ti, 4070, or RX 7700 XT</td> <td>High-end GPUs that the 5600X can easily drive.</td> </tr> <tr> <td><strong>PC Purpose</strong></td> <td>Pro Gaming & Content Creation</td> <td>A beast for gaming and 1080p video editing.</td> </tr> </table>\n\n<hr>\n\n<h2>🛡️ Why Buy from Vision Tech (11 Months Warranty)?</h2> <p>At <strong>Vision Tech Pakistan</strong>, we cater to enthusiasts who want the best hardware with the best protection.</p> <ul> <li><strong>11 Months Local Warranty:</strong> We provide long-term peace of mind for your high-performance \"X\" series processor.</li> <li><strong>Quality Guaranteed:</strong> Every 5600X tray unit is tested for stability at maximum boost frequencies.</li> <li><strong>Safe Packaging:</strong> Even as a tray version, we package it securely to ensure the AM4 pins arrive in perfect condition.</li> </ul>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the 5600X better than the 5600?</h3> <p>Yes, the 5600X has higher clock speeds (4.6GHz vs 4.4GHz) and is binned for better performance, making it the superior choice for gaming.</p>\n\n<h3>2. Does it come with a fan?</h3> <p>This is the <strong>Tray version</strong>, so no cooler is included. For an \"X\" series CPU, we recommend a high-quality air cooler or a 240mm AIO for best results.</p>\n\n<h3>3. Can I use this for 4K gaming?</h3> <p>Absolutely. While 4K depends mostly on your GPU, the 5600X is strong enough to ensure no CPU bottlenecks occur during high-resolution gaming.</p>\n\n<h3>4. Do I need to overclock it?</h3> <p>You don't have to! The 5600X is already tuned to boost very high on its own, but it is fully unlocked if you wish to push it further.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 5 5600X",
+          "processor": "6C 12T Unlocked",
+          " Cores": "6",
+          "threads": "12",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "3.7 GHZ",
+          "Max Boost Clock": "4.6 GHZ",
+          "Generation": "AMD Ryzen 5th Generation",
+          "Compatible Motherboards": "B550, X570, B450",
+          "Ram Support": "DDR5 Upto 8000mts"
+        },
+        "images": [
+          "https://rbtechngames.com/wp-content/uploads/2020/11/amd-ryzen-5-5600x-2.jpg",
+          "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2-247x247.png",
+          "https://techarc.pk/wp-content/uploads/2026/01/amd-ryzen-5-5600-pakistan.jpg"
+        ],
+        "price": 38999,
+        "discount_off": 0
+      },
+      {
+        "product_title": "7500F Processor, 6-Core 12-Thread Zen 4 CPU, 3.7 GHz Base / Up to 5.0 GHz Boost, Socket AM5, 32 MB L3, DDR5 (Tray)",
+        "slug": "7500f-processor-6-core-12-thread-zen-4-cpu-37-ghz-base-up-to-50-ghz-boost-socket-am5-32-mb-l3-ddr5-tray",
+        "description": "<ul> <li><strong>Powerful 6 Core 12 Thread Performance</strong></li> <li><strong>Blazing 5.0 Gigahertz Max Boost Clock</strong></li> <li><strong>Advanced Zen 4 Raphael Architecture Technology</strong></li> <li><strong>Next Generation Socket AM5 Motherboard Compatibility</strong></li> <li><strong>Supports Ultra Fast High Speed DDR5</strong></li> <li><strong>Efficient 65W TDP With 32MB Cache</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 5 7500F – The Ultimate Value King for AM5 Gaming</h1>\n\n<p>The <strong>AMD Ryzen 5 7500F</strong> has emerged as the \"hidden gem\" of the <strong>Zen 4</strong> era, specifically designed for gamers and PC enthusiasts who want to transition to the cutting-edge <strong>AM5 platform</strong> without the premium price tag. By removing the integrated graphics found in other 7000-series chips, AMD has created a laser-focused gaming processor that delivers the raw power of the 5nm architecture at an unbeatable value. With 6 high-performance cores and 12 processing threads, this CPU provides the foundation for a modern, future-proof gaming rig that can handle the most demanding AAA titles of today and tomorrow.</p>\n\n<h3>The Power of Zen 4 Architecture</h3> <p>At the heart of the Ryzen 5 7500F is the revolutionary <strong>Zen 4 architecture</strong>. Built on TSMC's 5nm process node, this processor brings a significant leap in Instructions Per Clock (IPC) over previous generations. This means that even at the same clock speeds, the 7500F can complete more tasks faster than its predecessors. With a base clock of 3.7 GHz and a staggering <strong>Max Boost Clock of up to 5.0 GHz</strong>, this CPU ensures that your system remains snappy and responsive, whether you are loading massive open-world maps or rendering complex 3D scenes.</p>\n\n<h3>Future-Proofing with the AM5 Socket</h3> <p>Choosing the Ryzen 5 7500F isn't just about today's performance; it's about the next five years of your computing life. The <strong>AM5 socket</strong> is a Land Grid Array (LGA) design that provides better power delivery and structural integrity. Most importantly, AMD has committed to supporting the AM5 platform for years to come. By investing in this \"Tray\" processor now, you are securing a motherboard platform that will allow you to upgrade to future Ryzen 8000 or 9000 series chips without needing to buy a new motherboard, saving you significant costs in the long run.</p>\n\n<h3>DDR5 Memory: A New Standard for Speed</h3> <p>The 7500F is built for the <strong>DDR5 memory</strong> era. By moving away from DDR4, this processor takes advantage of massive increases in memory bandwidth and lower power consumption. This translates directly into smoother frame rates in CPU-bound games and faster data processing in professional applications. When paired with high-frequency RAM (such as 6000MHz), the 7500F eliminates the bottlenecks that often plague older systems, providing a seamless \"stutter-free\" experience during intense gameplay or heavy multitasking.</p>\n\n<h3>Thermal Efficiency and \"Tray\" Value</h3> <p>Operating at a modest 65W TDP, the Ryzen 5 7500F is exceptionally easy to cool. This efficiency makes it perfect for small form factor (SFT) builds or for users who prefer a quiet, air-cooled system. As a <strong>\"Tray\" version</strong>, this processor offers the exact same silicon and performance as a retail box version but at a discounted price by excluding unnecessary packaging. This allows you to allocate more of your budget toward a high-end CPU cooler or a more powerful graphics card, optimizing your total \"price-to-performance\" ratio.</p>\n\n<hr>\n\n<h2>🔍 Decoding the Name: What is the Ryzen 5 7500F?</h2> <ul> <li><strong>Ryzen 5:</strong> The mainstream performance tier, optimized for high-refresh-rate gaming and daily creative tasks.</li> <li><strong>7000 Series:</strong> Represents the <b>8th Generation</b> of Ryzen technology, utilizing the most advanced 5nm manufacturing process.</li> <li><strong>\"F\" Suffix:</strong> Indicates <b>No Integrated Graphics</b>. This chip is purely for performance enthusiasts who already own a dedicated GPU.</li> <li><strong>\"Tray\" Format:</strong> Professional-grade packaging for builders, providing the best market price with the same 11-month reliability.</li> </ul>\n\n<hr>\n\n<h2>🛠️ Best Suitable Options (Motherboard & Build)</h2> <table> <tr> <th>Component</th> <th>Recommended Option</th> <th>Reason</th> </tr> <tr> <td><strong>Motherboard</strong></td> <td>B650 Chipset</td> <td>Offers the best balance of PCIe 5.0 support and VRM quality.</td> </tr> <tr> <td><strong>RAM</strong></td> <td>16GB/32GB DDR5 (6000MHz)</td> <td>Optimizes the Infinity Fabric clock for peak Zen 4 performance.</td> </tr> <tr> <td><strong>Graphics Card</strong></td> <td>RTX 4070 or RX 7800 XT</td> <td>The 7500F provides enough speed to prevent GPU bottlenecking at 1440p.</td> </tr> <tr> <td><strong>PC Purpose</strong></td> <td>Competitive Gaming & Work</td> <td>Perfect for Valorant, Warzone, and Adobe Creative Cloud.</td> </tr> </table>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Will this processor work on a B550 motherboard?</h3> <p>No. The Ryzen 5 7500F uses the <strong>Socket AM5</strong>. It requires a new 600-series motherboard (A620, B650, or X670) and is not compatible with AM4.</p>\n\n<h3>2. Do I need to buy a separate graphics card?</h3> <p>Yes. The <strong>\"F\" in 7500F</strong> stands for a lack of integrated graphics. You must have a dedicated GPU (NVIDIA or AMD) to get a display on your monitor.</p>\n\n<h3>3. Is the 7500F good for 1440p and 4K gaming?</h3> <p>Absolutely. At higher resolutions, the load shifts to the GPU, but the 7500F ensures that your 1% low frame rates stay high, preventing stutters.</p>\n\n<h3>4. Does it come with an 11-month warranty at Vision Tech?</h3> <p>Yes, at <strong>Vision Tech Pakistan</strong>, we provide a full 11-month local shop warranty to ensure your transition to AM5 is fully protected.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 5 7500F",
+          "processor": "6C 12T Unlocked",
+          " Cores": "6",
+          "threads": "12",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "3.7 GHZ",
+          "Max Boost Clock": "5.0 GHZ",
+          "Generation": "AMD Ryzen 7th Generation",
+          "Compatible Motherboards": "A620 , X670E , X670 , B650E , B650 , X870E , X870 , B840 , B850",
+          "Ram Support": "DDR5 Upto 8000mts"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/4-czone.com.pk-1540-17592-090125092858-87161-2462571-021025053321.webp",
+          "https://techmatched.pk/wp-content/uploads/2024/01/2-13.png",
+          "https://elyamamastore.com/cdn/shop/files/AMD-Ryzen-5-7500F-Processor-6-Cores-12-Threads-Up-to-5-0GHz-Boost-AM5-Socket-Elyamama-36359749304551.jpg?v=1764075636&width=1000",
+          "https://zestrogaming.com/wp-content/uploads/2025/02/Untitled-design-6.png"
+        ],
+        "price": 40500,
+        "discount_off": 0
+      }
+    ]
+  },
+  {
+    "brand": "Intel",
+    "main_title": "Core i5",
+    "variants": [
+      {
+        "product_title": "12400F Proessor - LGA 1700 - 6 Cores | 12 Threads (Tray Pack)",
+        "slug": "12400f-proessor-lga-1700-6-cores-12-threads-tray-pack",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Powerful 6 Core 12 Thread Performance</strong></li> <li><strong>Fast 4.4 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Advanced LGA 1700 Socket Motherboard Compatibility</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Lanes</strong></li> <li><strong>High Speed DDR5 Dual Channel Memory</strong></li> <li><strong>Large 18MB Intel Smart Cache System</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i5-12400F – The Ultimate 12th Gen Gaming Value King</h1>\n\n<p>The <strong>Intel Core i5-12400F</strong> is the standout performance leader of the <strong>Alder Lake</strong> generation, offering a perfect blend of speed and efficiency for modern desktop users. Built on the <strong>Intel 7 process</strong>, this 6-core, 12-thread powerhouse is designed to maximize productivity, gaming, and content creation. By focusing on high-performance \"Golden Cove\" cores, the i5-12400F delivers the raw processing power needed for demanding AAA titles and professional software without the high price tag of flagship models.</p>\n\n<h3>Alder Lake Architecture & Next-Gen Speed</h3> <p>As part of the 12th Generation lineup, this processor introduces the <strong>LGA 1700 socket</strong>, providing a foundation for future-ready technologies. With a <strong>Max Turbo Frequency of 4.4 GHz</strong> and 18MB of Intel Smart Cache, it ensures lightning-fast load times and smooth multitasking. Whether you are editing high-resolution video or engaging in competitive esports, the i5-12400F provides a reliable, stutter-free experience that keeps you ahead of the curve.</p>\n\n<h3>Advanced Connectivity: PCIe 5.0 and DDR5 Support</h3> <p>Stay at the cutting edge with support for <strong>PCI Express 5.0</strong> and <strong>DDR5 memory</strong>. The i5-12400F offers 20 total PCIe lanes (16x PCIe 5.0 and 4x PCIe 4.0), allowing for massive data throughput with the latest GPUs and ultra-fast NVMe SSDs. Its dual-channel memory controller supports both the value of DDR4 and the extreme speeds of DDR5 at 4800 MHz, giving builders total flexibility in their component selection.</p>\n\n<h3>AI-Powered Efficiency and Clear Communication</h3> <p>Beyond gaming, the i5-12400F features <strong>Intel Deep Learning Boost</strong> to accelerate AI workloads and <strong>GNA 3.0 (Gaussian & Neural Accelerator)</strong>. This technology is a game-changer for remote work and streaming, as it provides professional-grade noise suppression and background blurring during video calls, ensuring your voice is heard clearly without distracting environmental sounds.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Intel i5-12400F have integrated graphics?</h3> <p>No, the <strong>\"F\" suffix</strong> indicates that this processor requires a <strong>dedicated graphics card</strong> (NVIDIA or AMD) for display output.</p>\n\n<h3>2. Is this processor compatible with my old motherboard?</h3> <p>The i5-12400F requires the <strong>LGA 1700 socket</strong>. It is compatible with Intel 600 and 700 series motherboards (such as H610, B660, or Z790).</p>\n\n<h3>3. Can I use DDR4 RAM with the i5-12400F?</h3> <p>Yes, this CPU supports both <strong>DDR4 and DDR5</strong>. However, your choice depends on whether your motherboard is designed for DDR4 or DDR5 slots.</p>\n\n<h3>4. Does the Tray Pack include a cooler?</h3> <p>Typically, <strong>Tray Pack</strong> versions are sold without a retail box or stock cooler, making them ideal for builders who plan to use a high-quality aftermarket cooling solution.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i5 12400F",
+          "processor": "6C 12T Locked",
+          " Cores": "6",
+          "threads": "12",
+          "Supports Over Clocking": "No",
+          "Base Clock": "2.5 GHZ",
+          "Max Boost Clock": "-",
+          "Generation": "Intel 12th Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR5 Upto 4800mts"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/13-czone.com.pk-1540-14134-191222074918-87161-2462550-021025052953.webp",
+          "https://static.webx.pk/files/87161/Images/copy-4-czone.com.pk-1540-12715-110122062711-87161-2462550-021025052956.webp"
+        ],
+        "price": 41500,
+        "discount_off": 0
+      },
+      {
+        "product_title": "13400F Desktop Processor - 20M Cache, 10 Cores, 16 Threads, LGA1700, Tray Pack",
+        "slug": "13400f-desktop-processor-20m-cache-10-cores-16-threads-lga1700-tray-pack",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 10 Core 16 Thread Architecture</strong></li> <li><strong>Blazing 4.6 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Large 20MB Intel Smart Cache System</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Standard</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> <li><strong>Compatible 600 And 700 Series Chipsets</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i5-13400F – The Hybrid Powerhouse for Gaming and Work</h1>\n\n<p>The <strong>Intel Core i5-13400F</strong> marks a significant evolution in mid-range processing, introducing a powerful <strong>hybrid architecture</strong> to the i5 lineup. Built on the Raptor Lake architecture, this processor features <strong>10 Cores and 16 Threads</strong>, combining performance cores (P-cores) for high-speed gaming and efficient cores (E-cores) for background multitasking. With a <strong>Max Turbo Frequency of 4.6 GHz</strong> and an expanded 20MB Intel Smart Cache, it provides a massive performance boost over previous generations for both competitive gaming and creative workflows.</p>\n\n<h3>Advanced Hybrid Design & Efficiency</h3> <p>Unlike traditional processors, the i5-13400F intelligently distributes workloads across its specialized cores. The 6 P-cores handle heavy lifting like gaming and 3D rendering, while the 4 E-cores manage system tasks and streams. This design allows for a <strong>65W Processor Base Power</strong>, making it exceptionally energy-efficient while still delivering flagship-level responsiveness. It is the ideal \"set-and-forget\" solution for users who want high performance without the heat and power demands of higher-tier chips.</p>\n\n<h3>Future-Ready DDR5 and PCIe 5.0 Support</h3> <p>Built for the next decade of computing, the i5-13400F supports both <strong>DDR4 and DDR5 memory</strong>, giving you the flexibility to build a budget-friendly rig or a cutting-edge speed machine. It also features <strong>PCIe 5.0 support</strong>, offering double the bandwidth of PCIe 4.0 for the next generation of high-end graphics cards and NVMe storage. Compatible with both <strong>Intel 600 and 700 series motherboards</strong>, this CPU is the ultimate foundation for a modern, high-speed desktop system.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Intel i5-13400F require a graphics card?</h3> <p>Yes. The <strong>\"F\" suffix</strong> means this processor does not have integrated graphics. A <strong>discrete graphics card</strong> is required for your monitor to display an image.</p>\n\n<h3>2. What motherboards are compatible with this CPU?</h3> <p>The i5-13400F uses the <strong>LGA 1700 socket</strong> and is compatible with <strong>H610, B660, B760, H670, H770, Z690, and Z790</strong> chipsets. (Note: 600-series boards may require a BIOS update).</p>\n\n<h3>3. Is the i5-13400F good for streaming?</h3> <p>Absolutely. Thanks to the <strong>16 threads</strong> and the inclusion of Efficient-cores, this CPU can handle gaming and streaming simultaneously much better than older 6-core models.</p>\n\n<h3>4. Does it come with a cooler in the Tray Pack?</h3> <p>The <strong>Tray Pack</strong> version is typically the processor only. It is recommended to pair it with a high-quality air or liquid cooler for optimal thermal performance.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i5 13400F",
+          "processor": "10C 16T Locked",
+          " Cores": "10",
+          "threads": "16",
+          "Supports Over Clocking": "No",
+          "Base Clock": "4.6 GHZ",
+          "Generation": "Intel 13th Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR4 3200mts & DDR5 4800mts"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/3-czone.com.pk-1540-16376-090724101007-1540-16413-1207240728-87161-2462552-021025053011.webp",
+          "https://tpucdn.com/cpu-specs/images/chips/2995-front.jpg",
+          "https://levelup.com.pk/wp-content/uploads/2024/05/2-7.jpg"
+        ],
+        "price": 48500,
+        "discount_off": 0
+      },
+      {
+        "product_title": "Intel Core i5-14400F 14h Gen Desktop Processor | 10 Cores - 16 Threads | Tray",
+        "slug": "intel-core-i5-14400f-14h-gen-desktop-processor-10-cores-16-threads-tray",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 10 Core 16 Thread Architecture</strong></li> <li><strong>Blazing 4.7 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Large 20MB Intel Smart Cache System</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Standard</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> <li><strong>Compatible 600 And 700 Series Chipsets</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i5-14400F – The Versatile 14th Gen Performance Leader</h1>\n\n<p>The <strong>Intel Core i5-14400F</strong> is a powerhouse of the 14th Generation Raptor Lake Refresh lineup, engineered to provide elite gaming and multitasking performance. Featuring a sophisticated <strong>hybrid architecture with 10 Cores and 16 Threads</strong>, this processor balances 6 high-speed Performance-cores with 4 efficient Efficiency-cores. With a <strong>Max Turbo Frequency of 4.7 GHz</strong>, the i5-14400F is designed to handle modern AAA gaming, streaming, and demanding productivity applications with ease and reliability.</p>\n\n<h3>Advanced Hybrid Power and Efficiency</h3> <p>This 14th Gen processor utilizes Intel's refined 7 process to deliver exceptional speed while maintaining a stable <strong>65W base power</strong>. The expanded 20MB Intel Smart Cache significantly reduces data latency, ensuring that your most-used applications launch instantly and run smoothly. Whether you are battling in a high-refresh-rate esports title or rendering a video project, the i5-14400F intelligently manages its cores to give you the best performance exactly where you need it.</p>\n\n<h3>Next-Gen Connectivity and Flexibility</h3> <p>Build your system your way with support for both <strong>DDR4 and DDR5 memory</strong>. The i5-14400F is future-proofed with <strong>PCIe 5.0 and 4.0 support</strong>, providing up to 20 lanes for the latest graphics cards and ultra-fast NVMe storage drives. As a <strong>Tray Pack</strong> version, this processor is the perfect choice for custom PC builders looking for the latest 14th Gen technology to pair with their preferred high-performance cooling solution.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Intel i5-14400F require a dedicated GPU?</h3> <p>Yes. The <strong>\"F\" suffix</strong> denotes that this processor does not have integrated graphics. You must use a <strong>discrete graphics card</strong> for video output.</p>\n\n<h3>2. Is this processor compatible with my current motherboard?</h3> <p>The i5-14400F uses the <strong>LGA 1700 socket</strong>. It is compatible with <strong>H610, B660, B760, H670, H770, Z690, and Z790</strong> chipsets. (Note: Many boards will require a BIOS update to recognize 14th Gen chips).</p>\n\n<h3>3. Can I overclock the i5-14400F?</h3> <p>This is a <strong>locked processor</strong>, meaning it does not support traditional multiplier overclocking. However, it will automatically boost to 4.7 GHz using Intel Turbo Boost technology.</p>\n\n<h3>4. Does it support both RAM types?</h3> <p>Yes, it supports both <strong>DDR4 and DDR5</strong>. Your choice depends on whether your motherboard is a DDR4 or DDR5 specific model.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i5-14400F",
+          "processor": "10C 16T Locked",
+          " Cores": "10",
+          "threads": "16",
+          "Supports Over Clocking": "No",
+          "Base Clock": "4.7 MMHZ",
+          "Generation": "Intel Core i5 14 Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790</p>",
+          "Ram Support": "DDR4 & DDR5"
+        },
+        "images": [
+          "https://static3.webx.pk/files/70503/Images/712b5aa5-7b67-445f-a47d-36b3eaad7873-1-70503-0-030125103829436.png",
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/3-czone.com.pk-1540-16376-090724101007-1540-16413-1207240728-87161-2462552-021025053011.webp",
+          "https://static.webx.pk/files/2603/Images/pic-3-2603-2177768-250824084555237.jpg"
+        ],
+        "price": 56000,
+        "discount_off": 0
+      },
+      {
+        "product_title": "13600KF Desktop Processor - 24M Cache, up to 5.10 GHz, 14 Cores, 20 Threads, LGA1700, Unlocked, 13th Gen",
+        "slug": "13600kf-desktop-processor-24m-cache-up-to-510-ghz-14-cores-20-threads-lga1700-unlocked-13th-gen",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 14 Core 20 Thread Architecture</strong></li> <li><strong>Blazing 5.1 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Fully Unlocked For Precision Performance Overclocking</strong></li> <li><strong>Large 24MB Intel Smart Cache System</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Standard</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i5-13600KF – High-Performance 14-Core Unlocked Processor</h1>\n\n<p>The <strong>Intel Core i5-13600KF</strong> is a top-tier choice for enthusiasts, offering a massive leap in performance with its <strong>14 Cores and 20 Threads</strong>. Built on the Raptor Lake architecture, this \"KF\" series processor is <strong>fully unlocked</strong>, allowing for precision overclocking to push speeds up to a blistering <strong>5.1 GHz Max Turbo</strong>. By utilizing a hybrid design with 6 Performance-cores and 8 Efficient-cores, it seamlessly handles intense gaming while managing background tasks like streaming or recording without breaking a sweat.</p>\n\n<h3>Extreme Speed for Gamers and Creators</h3> <p>Equipped with a generous <strong>24MB Intel Smart Cache</strong> and support for the lightning-fast <strong>PCIe 5.0</strong> standard, the i5-13600KF is built to eliminate bottlenecks. It provides the high-bandwidth lanes necessary for next-gen GPUs and ultra-speed NVMe storage. As a \"KF\" model, it is optimized for users who already have a dedicated graphics card, stripping away the integrated graphics to focus purely on raw processing power and thermal efficiency.</p>\n\n<h3>Future-Proof Flexibility: DDR4 & DDR5</h3> <p>The i5-13600KF offers industry-leading flexibility by supporting both <strong>DDR4 (up to 3200 MT/s) and DDR5 (up to 5600 MT/s)</strong> memory. Whether you are building a budget-friendly powerhouse with existing DDR4 RAM or a cutting-edge DDR5 system, this processor adapts to your needs. Compatible with both <strong>Intel 600 and 700 series motherboards</strong>, it remains the \"sweet spot\" for anyone looking for flagship-level performance in a mid-range package.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Intel i5-13600KF have integrated graphics?</h3> <p>No. The <strong>\"F\" in the name</strong> means it does not have onboard graphics. You <strong>must</strong> have a dedicated graphics card (NVIDIA or AMD) to get a display on your monitor.</p>\n\n<h3>2. Can I overclock this processor?</h3> <p>Yes. The <strong>\"K\" in the name</strong> signifies it is <strong>unlocked</strong>. To overclock, you should pair it with a <strong>Z690 or Z790 motherboard</strong> for full control over clock speeds and voltages.</p>\n\n<h3>3. Does this processor come with a cooler?</h3> <p>No, the i5-13600KF is a high-performance chip and does not include a stock cooler. It is highly recommended to use a <strong>high-quality air cooler or a 240mm/360mm AIO liquid cooler</strong> due to its 125W base power.</p>\n\n<h3>4. Which motherboards are compatible?</h3> <p>It uses the <strong>LGA 1700 socket</strong> and is compatible with <strong>H610, B660, B760, H670, H770, Z690, and Z790</strong> motherboards. Note: 600-series boards may require a BIOS update.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i5 1300KF",
+          "processor": "14C 20T Unlocked",
+          " Cores": "14",
+          "threads": "20",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "-",
+          "Max Boost Clock": "5.1 MHZ",
+          "Generation": "Intel Core i5 13 Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR4 & DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/16-czone.com.pk-1540-14136-191222090514-87161-2462553-021025053014.webp",
+          "https://static3.webx.pk/files/4012/Images/3-10-4012-1447765-261022074459788.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpVsKWwbnz7xLN7sJaC5q2EKShY7dAbgAi7Q&s",
+          "https://media.arvutitark.ee/ymjSGP_26sF05OE6tcVFbMslc0U=/trim/fit-in/800x800/https%3A%2F%2Fcms.arvutitark.ee%2Fstorage%2Fmedia-hub-olev%2F2023%2F02%2F354225%2Fhpit-775_hpit_775_01.jpg"
+        ],
+        "price": 68500,
+        "discount_off": 0
+      },
+      {
+        "product_title": "14600KF New Gaming 14h Gen Desktop Processor - 14 Cores - 20 Threads - Unlocked | Tray Pack",
+        "slug": "14600kf-new-gaming-14h-gen-desktop-processor-14-cores-20-threads-unlocked-tray-pack",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 14 Core 20 Thread Architecture</strong></li> <li><strong>Blazing 5.3 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Fully Unlocked For Precision Performance Overclocking</strong></li> <li><strong>Large 24MB Intel Smart Cache System</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Standard</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i5-14600KF – The Ultimate 14th Gen Mid-Range Overclocker</h1>\n\n<p>The <strong>Intel Core i5-14600KF</strong> is the peak of 14th Generation performance for gamers and power users. Featuring an advanced hybrid architecture with <strong>14 Cores and 20 Threads</strong>, it combines 6 Performance-cores for high-speed tasks and 8 Efficient-cores for seamless multitasking. With a <strong>Max Turbo Frequency of 5.3 GHz</strong> and 24MB of Intel Smart Cache, this \"KF\" series processor is designed to deliver a competitive edge in AAA gaming, high-resolution streaming, and intensive creative workloads.</p>\n\n<h3>Unlocked Power for Enthusiasts</h3> <p>As an <strong>Unlocked</strong> processor, the i5-14600KF is built for those who want to push their hardware to the limit. When paired with a Z-series motherboard, you can manually tune clock speeds to achieve even higher performance. Because this is the \"KF\" variant, it is optimized for high-end builds that utilize a <strong>dedicated graphics card</strong>, removing the onboard graphics to maximize thermal efficiency and processing focus. It is a true enthusiast-grade chip that offers flagship-level speed without the flagship price tag.</p>\n\n<h3>Versatile Build Options & Connectivity</h3> <p>The i5-14600KF is designed for flexibility, supporting both <strong>DDR4 and DDR5 memory</strong> standards. This allows you to choose between cost-effective high-capacity DDR4 or the blazing-fast speeds of modern DDR5. It also fully supports <strong>PCIe 5.0</strong>, providing the bandwidth needed for the latest ultra-fast SSDs and next-generation GPUs. Compatible with both <strong>Intel 600 and 700 series chipsets</strong>, the i5-14600KF is the perfect foundation for a modern, high-performance gaming rig.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Intel i5-14600KF have integrated graphics?</h3> <p>No. The <strong>\"F\" suffix</strong> indicates that this CPU requires a <strong>discrete graphics card</strong> for display output. It is the ideal choice for gamers who plan to use a dedicated GPU.</p>\n\n<h3>2. Can I use this CPU on an older LGA 1700 motherboard?</h3> <p>Yes. It is compatible with <strong>600-series (Z690, B660, etc.)</strong> and <strong>700-series (Z790, B760, etc.)</strong> motherboards. Note that most 600-series boards will require a BIOS update.</p>\n\n<h3>3. Does it support overclocking?</h3> <p>Yes, the <strong>\"K\" designation</strong> means it is <strong>fully unlocked</strong>. To take full advantage of overclocking, it is recommended to use a <strong>Z690 or Z790 motherboard</strong>.</p>\n\n<h3>4. Does this processor come with a fan?</h3> <p>No, the i5-14600KF is a high-TDP processor (125W base) and does not include a stock cooler. A <strong>high-performance air cooler or 240mm+ liquid cooler</strong> is strongly recommended.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i5 14600KF",
+          "processor": "14C 20T Unlocked",
+          " Cores": "14",
+          "threads": "20",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "5.3MHZ",
+          "Max Boost Clock": "5.5MHZ",
+          "Generation": "Intel Core i5 14 Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR4 & DDR5"
+        },
+        "images": [
+          "https://build.zestrogaming.com/wp-content/uploads/2024/08/Core-i5-14600KF-Tray-300x300.jpg",
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/3-czone.com.pk-1540-16376-090724101007-1540-16413-1207240728-87161-2462552-021025053011.webp"
+        ],
+        "price": 76999,
+        "discount_off": 0
+      },
+      {
+        "product_title": "14600K New Gaming 14h Gen Desktop Processor - 14 Cores - 20 Threads - Unlocked - Tray",
+        "slug": "14600k-new-gaming-14h-gen-desktop-processor-14-cores-20-threads-unlocked-tray",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 14 Core 20 Thread Architecture</strong></li> <li><strong>Blazing 5.3 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Fully Unlocked For Precision Performance Overclocking</strong></li> <li><strong>Large 24MB Intel Smart Cache System</strong></li> <li><strong>Advanced Intel UHD 770 Integrated Graphics</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i5-14600K – High-Performance 14-Core Gaming Processor</h1>\n\n<p>The <strong>Intel Core i5-14600K</strong> is the definitive performance choice for the 14th Generation Raptor Lake Refresh series. Engineered for serious gamers and creators, it features a robust <strong>hybrid architecture with 14 Cores and 20 Threads</strong> (6 Performance-cores and 8 Efficient-cores). With a <strong>Max Turbo Frequency of 5.3 GHz</strong> and a massive 24MB Intel Smart Cache, the i5-14600K delivers the high-speed processing power required for competitive gaming, 4K video editing, and heavy multitasking environments.</p>\n\n<h3>Extreme Flexibility and Integrated Power</h3> <p>As an <strong>Unlocked</strong> \"K\" series processor, the i5-14600K offers enthusiasts the freedom to fine-tune performance through overclocking. Unlike the \"KF\" models, this version includes <strong>integrated Intel UHD Graphics 770</strong>, providing high-quality 4K display support and a reliable fallback if you aren't using a dedicated GPU. Built on the Intel 7 process, this chip balances raw speed with refined power efficiency, ensuring that your system remains responsive even under the most demanding sustained workloads.</p>\n\n<h3>Advanced Compatibility and Future-Proofing</h3> <p>The i5-14600K is designed to grow with your build, offering support for both <strong>DDR4 and DDR5 memory</strong>. This flexibility allows you to pair it with cost-effective DDR4 motherboards or unleash its full potential with ultra-fast DDR5 kits. With <strong>PCIe 5.0 and 4.0 support</strong>, you have the bandwidth necessary for next-generation graphics cards and storage. Compatible with <strong>Intel 600 and 700 series motherboards</strong> (LGA 1700), this \"Tray Pack\" processor is the ideal silicon foundation for a high-end, custom-cooled desktop system.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. What is the difference between the i5-14600K and i5-14600KF?</h3> <p>The i5-14600K includes <strong>integrated graphics (UHD 770)</strong>, whereas the \"KF\" model does not. The integrated graphics are useful for troubleshooting or for systems without a dedicated video card.</p>\n\n<h3>2. Does this processor come with a stock cooler?</h3> <p>No. High-performance \"K\" series processors do not include a cooler. Due to its 125W base power, it is recommended to use a <strong>high-end air cooler or a 240mm/360mm AIO liquid cooler</strong>.</p>\n\n<h3>3. Which motherboards are compatible with the i5-14600K?</h3> <p>It uses the <strong>LGA 1700 socket</strong> and works with <strong>H610, B660, B760, H670, H770, Z690, and Z790</strong> chipsets. For overclocking, a <strong>Z-series board</strong> is required.</p>\n\n<h3>4. Does it support DDR4 RAM?</h3> <p>Yes, it supports both <strong>DDR4 (up to 3200 MT/s) and DDR5 (up to 5600 MT/s)</strong>. Your choice depends on the specific motherboard model you select.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i5 14600K",
+          "processor": "14C 20T Unlocked",
+          " Cores": "14",
+          "threads": "20",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "5.3MHZ",
+          "Max Boost Clock": "5.6MHZ",
+          "Generation": "Intel Core i5 14 Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR4 & DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/19643/Images/intel-core-i5-14600k-tray-cpu-price-in-pakistan-1-19643-1944441-311223054140339.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ChSj1p0kd2pvAbsYG0uwrxI_--GFGbWrCA&s",
+          "https://microzaib.com/wp-content/uploads/2024/07/Untitled-1-Recovered-8.png"
+        ],
+        "price": 78000,
+        "discount_off": 0
+      }
+    ]
+  },
+  {
+    "brand": "AMD",
+    "main_title": "Ryzen 7",
+    "variants": [
+      {
+        "product_title": "7700 Unlocked Desktop Processor - Tray - Raphael AM5 Zen 4",
+        "slug": "7700-unlocked-desktop-processor-tray-raphael-am5-zen-4",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Powerful 8 Core 16 Thread Performance</strong></li> <li><strong>Blazing 5.3 Gigahertz Max Boost Clock</strong></li> <li><strong>Advanced Zen 4 Raphael Architecture Technology</strong></li> <li><strong>Next Generation Socket AM5 Motherboard Compatibility</strong></li> <li><strong>Supports Ultra Fast High Speed DDR5</strong></li> <li><strong>Efficient 65W TDP With 32MB Cache</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 7 7700 – Elite Zen 4 Eight-Core Gaming Performance</h1>\n\n<p>The <strong>AMD Ryzen 7 7700</strong> is a high-performance powerhouse built on the cutting-edge <strong>Zen 4 \"Raphael\" architecture</strong>. Designed for the <strong>AM5 socket</strong>, this processor features <strong>8 Cores and 16 Threads</strong>, making it the perfect choice for enthusiasts who demand elite gaming speeds and professional-grade multitasking capabilities. With its highly efficient 5nm process, the Ryzen 7 7700 delivers incredible clock speeds while maintaining impressive thermal management, ensuring your system stays cool under heavy workloads.</p>\n\n<h3>Future-Ready AM5 Platform</h3> <p>By moving to the <strong>AM5 platform</strong>, the Ryzen 7 7700 provides access to the latest industry standards. It features full support for <strong>DDR5 memory</strong> and <strong>PCIe 5.0</strong>, allowing for massive data bandwidth that can handle the next generation of high-end graphics cards and NVMe SSDs. This ensures your build remains relevant and upgradable for years to come. Whether you are rendering 4K video or playing competitive esports titles at high refresh rates, the Ryzen 7 7700 provides the raw power required for a seamless experience.</p>\n\n<h3>Unlocked for Precision Tuning</h3> <p>As an <strong>Unlocked</strong> processor, the Ryzen 7 7700 gives you total control over your performance. Enthusiasts can utilize <strong>Precision Boost Overdrive (PBO)</strong> or manual overclocking to squeeze out every bit of speed. Additionally, this CPU features <strong>32MB of L3 Cache</strong> and integrated <strong>AMD Radeon Graphics</strong> for basic display tasks. This \"Tray Pack\" version is specifically intended for custom builders who want flagship silicon to pair with their own premium aftermarket air or liquid cooling solutions.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the Ryzen 7 7700 unlocked for overclocking?</h3> <p>Yes, the Ryzen 7 7700 is <strong>fully unlocked</strong>. You can manually adjust frequencies or use AMD's PBO technology to enhance performance.</p>\n\n<h3>2. Does this processor support DDR4 RAM?</h3> <p>No, the Ryzen 7000 series (AM5) is <strong>exclusive to DDR5 memory</strong>. It is not compatible with older DDR4 motherboards or RAM.</p>\n\n<h3>3. Which motherboards work with the Ryzen 7 7700?</h3> <p>It requires an <strong>AM5 socket</strong> motherboard. Compatible chipsets include <strong>A620, B650, B650E, X670, X670E, and X870</strong>.</p>\n\n<h3>4. Does the Ryzen 7 7700 have integrated graphics?</h3> <p>Yes, it includes <strong>AMD Radeon Graphics</strong> (2-core), which are sufficient for basic office tasks, web browsing, and diagnostic purposes.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 7 7700",
+          "processor": "8C 16T Unlocked",
+          " Cores": "8",
+          "threads": "16",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "3.8 MHZ",
+          "Max Boost Clock": "5.3 MHZ",
+          "Generation": "AMD Ryzen 7th Generation",
+          "Compatible Motherboards": "A620 , X670E , X670 , B650E , B650 , X870E , X870 , B840 , B850",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/copy-1-czone.com.pk-1540-17728-250125093734-87161-2462565-021025053232.webp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwn0ArwB6q3m4ibSug5NPHzVKSE9EOyaeog&s",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvlRAmjyObMU85GN42k6UawEPDzFydvUjPA&s"
+        ],
+        "price": 68000,
+        "discount_off": 0
+      },
+      {
+        "product_title": "7800X3D Desktop Processor, AM5, 8-Core 16-Thread, Up To 5GHz Boost, 120W, Tray",
+        "slug": "7800x3d-desktop-processor-am5-8-core-16-thread-up-to-5ghz-boost-120w-tray",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Advanced 8 Core 16 Thread Zen 4 Architecture</strong></li> <li><strong>Revolutionary 96MB L3 AMD 3D V-Cache Technology</strong></li> <li><strong>Blazing 5.0 Gigahertz Max Boost Clock Speed</strong></li> <li><strong>Ultra Efficient 5nm Process With 120W TDP</strong></li> <li><strong>Supports Latest High Speed DDR5 Memory Standard</strong></li> <li><strong>Future Proof Socket AM5 Motherboard Compatibility</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 7 7800X3D – The World’s Fastest Gaming Processor</h1>\n\n<p>The <strong>AMD Ryzen 7 7800X3D</strong> is widely regarded as the ultimate CPU for gaming enthusiasts. Built on the <strong>Zen 4 architecture</strong> and the modern <strong>AM5 socket</strong>, this 8-core, 16-thread beast features AMD’s revolutionary <strong>3D V-Cache technology</strong>. By stacking a massive <strong>96MB of L3 cache</strong> directly onto the processor die, it dramatically reduces memory latency, allowing it to outperform even much more expensive processors in gaming workloads. With a <strong>5.0 GHz Boost Clock</strong> and incredible power efficiency, it is the gold standard for high-framerate, competitive gaming.</p>\n\n<h3>Unrivaled Gaming Efficiency</h3> <p>While many high-end CPUs consume massive amounts of power, the Ryzen 7 7800X3D is famously efficient. With a <strong>120W TDP</strong>, it delivers top-tier performance while running significantly cooler and using less electricity than its competitors. This \"Tray\" version provides the same elite silicon without the retail box, making it an excellent value for custom builders who plan to use their own high-performance cooling solution. Because the 3D V-Cache is sensitive to high voltages, this chip is optimized for <strong>Precision Boost Overdrive (PBO)</strong> and <strong>Curve Optimizer</strong> rather than traditional manual overclocking.</p>\n\n<h3>Future-Ready AM5 Platform</h3> <p>Choosing the 7800X3D puts you on the <strong>AM5 platform</strong>, which AMD has committed to supporting for years to come. It exclusively uses <strong>DDR5 memory</strong> and provides <strong>PCIe 5.0</strong> support for the next generation of ultra-fast GPUs and NVMe SSDs. Whether you are playing at 1080p for maximum frames or 4K for ultimate fidelity, the 7800X3D ensures your graphics card is never held back by your CPU.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the Ryzen 7 7800X3D better than the Ryzen 9 for gaming?</h3> <p>Yes. For pure gaming, the 7800X3D often outperforms the Ryzen 9 7950X3D because all 8 cores have direct access to the 3D V-Cache, avoiding the \"scheduling\" complexities found in the 12 and 16-core models.</p>\n\n<h3>2. Does this processor support DDR4 RAM?</h3> <p>No. The AM5 platform is <strong>DDR5 exclusive</strong>. For the best performance, it is recommended to use a <strong>DDR5-6000 CL30</strong> memory kit with AMD EXPO support.</p>\n\n<h3>3. Does it come with a CPU cooler?</h3> <p>No, the 7800X3D does not include a cooler. Due to the stacked cache design, it is best paired with a <strong>high-quality air cooler or a 240mm+ liquid cooler</strong> to maintain optimal boost speeds.</p>\n\n<h3>4. What motherboards are compatible?</h3> <p>You need an <strong>AM5 socket</strong> motherboard. Compatible chipsets include <strong>A620, B650, B650E, X670, X670E,</strong> and the newer <strong>800-series (X870/X870E)</strong>.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 7 7800X3D",
+          "processor": "8C 16T Unlocked",
+          " Cores": "8",
+          "threads": "16",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "4.2Mhz",
+          "Max Boost Clock": "5.4Mhz",
+          "Generation": "AMD Ryzen 7th Generation",
+          "Compatible Motherboards": "A620, B650, B650E, X670, X670E, B840, B850, X870, X870E,",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone-20260112103837-87161-0-120126103836411.webp",
+          "https://cdn11.bigcommerce.com/s-sp9oc95xrw/images/stencil/1280x1280/products/34143/99126/PRODUCT_IikiikMAGE__70719.1742910718.png?c=2",
+          "https://www.pbtech.com/pacific/imgprod/C/P/CPUAMD07800X3D__4.jpg"
+        ],
+        "price": 101000,
+        "discount_off": 0
+      },
+      {
+        "product_title": "9800X3D Desktop Processor, AM5, 8 Cores, 16 Threads, Up To 5.2GHz, Unlocked",
+        "slug": "9800x3d-desktop-processor-am5-8-cores-16-threads-up-to-52ghz-unlocked",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Advanced 8 Core 16 Thread Zen 5 Architecture</strong></li> <li><strong>Elite 96MB 2nd Generation AMD 3D V-Cache Tech</strong></li> <li><strong>Blazing 5.2 Gigahertz Max Boost Operating Frequency</strong></li> <li><strong>Fully Unlocked Multiplier For Precision Manual Overclocking</strong></li> <li><strong>Support For Ultra Fast PCIe 5.0 Data Transfer</strong></li> <li><strong>Compatible With Future Proof Socket AM5 Motherboards</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 7 9800X3D – The Ultimate Gaming Champion</h1>\n\n<p>The <strong>AMD Ryzen 7 9800X3D</strong> is the crown jewel of the <strong>Zen 5 \"Granite Ridge\"</strong> lineup. Specifically designed to be the world's fastest gaming processor, it features <strong>8 Cores and 16 Threads</strong> on the <strong>AM5 platform</strong>. What sets it apart is the <strong>2nd Gen 3D V-Cache technology</strong>, which places the massive 96MB of L3 cache <em>underneath</em> the processor die. This innovative \"inverted\" design allows the CPU cores to sit closer to the cooler, resulting in much higher clock speeds and better thermal performance than any previous X3D chip.</p>\n\n<h3>Fully Unlocked for Enthusiasts</h3> <p>For the first time in the history of the X3D series, the Ryzen 7 9800X3D is <strong>fully unlocked for overclocking</strong>. Thanks to the improved cooling efficiency of the 2nd Gen 3D V-Cache, users can now manually adjust multipliers and voltages just like a standard Ryzen chip. With a <strong>Max Boost Clock of 5.2 GHz</strong> out of the box, enthusiasts have already pushed this processor to significantly higher speeds, making it a versatile beast for both high-frame-rate gaming and intensive productivity tasks.</p>\n\n<h3>The Pinnacle of the AM5 Ecosystem</h3> <p>Operating with a <strong>120W TDP</strong>, the 9800X3D is built for the long-lasting <strong>AM5 socket</strong>, ensuring compatibility with the latest <strong>X870E and X870</strong> motherboards as well as existing 600-series boards. It exclusively supports <strong>DDR5 memory</strong> and provides full <strong>PCIe 5.0</strong> support for next-gen graphics and storage. Whether you are chasing 500+ FPS in esports or playing cinematic titles with ultra-low latency, the 9800X3D is the definitive choice for a premium gaming rig.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the Ryzen 7 9800X3D really better for gaming than the Ryzen 9?</h3> <p>Yes. In the majority of games, the 9800X3D outperforms the 12 and 16-core models because the massive 3D V-Cache is concentrated on a single 8-core complex, eliminating latency issues found in multi-die processors.</p>\n\n<h3>2. Does it support overclocking like normal CPUs?</h3> <p>Yes! Unlike the 5800X3D or 7800X3D, the <strong>9800X3D is fully unlocked</strong>. You can use Precision Boost Overdrive (PBO), Curve Optimizer, or manual multiplier adjustments to increase performance.</p>\n\n<h3>3. What is the recommended RAM speed?</h3> <p>While it officially supports 5600 MT/s, the \"sweet spot\" for performance and stability is <strong>DDR5-6000 CL30</strong> with an <strong>AMD EXPO™</strong> profile.</p>\n\n<h3>4. Can I use my old AM4 cooler?</h3> <p>Most AM4 coolers are compatible with the AM5 socket. However, because this chip has a 120W TDP and high boost clocks, a <strong>high-end air cooler or 240mm+ AIO</strong> is strongly recommended.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 7 9800X3D",
+          "processor": "8C 16T Unlocked",
+          " Cores": "8",
+          "threads": "16",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "4.7Mhz",
+          "Max Boost Clock": "5.2mhz",
+          "Generation": "AMD Ryzen 9 Generation",
+          "Compatible Motherboards": "X870E, X870, B850, B840, X670E, X670, B650E, B650, A620",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://www.bhphotovideo.com/images/fb/amd_100_100001084wof_ryzen_7_9800x3d_am5_1859346.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLm8BwcncogccydBbSiXaoUeIPQ1bjGDP8CA&sm",
+          "https://www.bhphotovideo.com/images/fb/amd_100_100001084wof_ryzen_7_9800x3d_am5_1859346.jpg"
+        ],
+        "price": 135000,
+        "discount_off": 0
+      }
+    ]
+  },
+  {
+    "brand": "Intel",
+    "main_title": "Core i7",
+    "variants": [
+      {
+        "product_title": "12700KF Processor, 12 Cores (8P+4E), 20 Threads, Up to 5.00 GHz, 25MB Cache",
+        "slug": "12700kf-processor-12-cores-8p4e-20-threads-up-to-500-ghz-25mb-cache",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 14 Core 20 Thread Architecture</strong></li> <li><strong>Blazing 5.1 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Fully Unlocked For Precision Performance Overclocking</strong></li> <li><strong>Large 24MB Intel Smart Cache System</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Standard</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i5-13600KF – High-Performance 14-Core Unlocked Processor</h1>\n\n<p>The <strong>Intel Core i5-13600KF</strong> is a top-tier choice for enthusiasts, offering a massive leap in performance with its <strong>14 Cores and 20 Threads</strong>. Built on the Raptor Lake architecture, this \"KF\" series processor is <strong>fully unlocked</strong>, allowing for precision overclocking to push speeds up to a blistering <strong>5.1 GHz Max Turbo</strong>. By utilizing a hybrid design with 6 Performance-cores and 8 Efficient-cores, it seamlessly handles intense gaming while managing background tasks like streaming or recording without breaking a sweat.</p>\n\n<h3>Extreme Speed for Gamers and Creators</h3> <p>Equipped with a generous <strong>24MB Intel Smart Cache</strong> and support for the lightning-fast <strong>PCIe 5.0</strong> standard, the i5-13600KF is built to eliminate bottlenecks. It provides the high-bandwidth lanes necessary for next-gen GPUs and ultra-speed NVMe storage. As a \"KF\" model, it is optimized for users who already have a dedicated graphics card, stripping away the integrated graphics to focus purely on raw processing power and thermal efficiency.</p>\n\n<h3>Future-Proof Flexibility: DDR4 & DDR5</h3> <p>The i5-13600KF offers industry-leading flexibility by supporting both <strong>DDR4 (up to 3200 MT/s) and DDR5 (up to 5600 MT/s)</strong> memory. Whether you are building a budget-friendly powerhouse with existing DDR4 RAM or a cutting-edge DDR5 system, this processor adapts to your needs. Compatible with both <strong>Intel 600 and 700 series motherboards</strong>, it remains the \"sweet spot\" for anyone looking for flagship-level performance in a mid-range package.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Intel i5-13600KF have integrated graphics?</h3> <p>No. The <strong>\"F\" in the name</strong> means it does not have onboard graphics. You <strong>must</strong> have a dedicated graphics card (NVIDIA or AMD) to get a display on your monitor.</p>\n\n<h3>2. Can I overclock this processor?</h3> <p>Yes. The <strong>\"K\" in the name</strong> signifies it is <strong>unlocked</strong>. To overclock, you should pair it with a <strong>Z690 or Z790 motherboard</strong> for full control over clock speeds and voltages.</p>\n\n<h3>3. Does this processor come with a cooler?</h3> <p>No, the i5-13600KF is a high-performance chip and does not include a stock cooler. It is highly recommended to use a <strong>high-quality air cooler or a 240mm/360mm AIO liquid cooler</strong> due to its 125W base power.</p>\n\n<h3>4. Which motherboards are compatible?</h3> <p>It uses the <strong>LGA 1700 socket</strong> and is compatible with <strong>H610, B660, B760, H670, H770, Z690, and Z790</strong> motherboards. Note: 600-series boards may require a BIOS update.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i7 12700KF",
+          "processor": "12C ( 8P+4E) 20T Unlocked",
+          " Cores": "12 ( 8 + 4E)",
+          "threads": "20",
+          "Supports Over Clocking": "Yes",
+          "Max Boost Clock": "5.0 MHZ Turbo",
+          "Generation": "Intel Core i7 12 Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR5 4800MT/s and DDR4 3200MT/s"
+        },
+        "images": [
+          "https://megacomputer.pk/wp-content/uploads/2023/03/Intel-Core-I7-12700K-.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ChSj1p0kd2pvAbsYG0uwrxI_--GFGbWrCA&s",
+          "https://static.webx.pk/files/87161/Images/4-czone.com.pk-1540-12908-170222070751-87161-2462561-021025053204.webp"
+        ],
+        "price": 68999,
+        "discount_off": 0
+      },
+      {
+        "product_title": "14700 Desktop Processor, Socket FCLGA1700, Up To 5.40GHz, 20 Cores, 28 Threads, 33MB Cache, Intel UHD Graphics 770, Tray",
+        "slug": "14700-desktop-processor-socket-fclga1700-up-to-540ghz-20-cores-28-threads-33mb-cache-intel-uhd-graphics-770-tray",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 20 Core 28 Thread Architecture</strong></li> <li><strong>Blazing 5.40 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Integrated Intel UHD 770 Graphics Engine</strong></li> <li><strong>Large 33MB Intel Smart Cache System</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Standard</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i7-14700 – High-Efficiency 20-Core Workhorse</h1>\n\n<p>The <strong>Intel Core i7-14700</strong> is a high-performance 14th Gen processor designed for the <strong>LGA 1700 socket</strong>. It features a massive <strong>20 Cores and 28 Threads</strong> (8 Performance-cores and 12 Efficient-cores), making it a powerhouse for professional multitasking, gaming, and content creation. With a <strong>Max Turbo frequency of 5.40 GHz</strong> and 33MB of Intel Smart Cache, it delivers flagship-tier speed while maintaining a lower power footprint (65W Base TDP) compared to its \"K\" series counterparts.</p>\n\n<h3>Integrated Graphics & Efficiency</h3> <p>Unlike the \"KF\" or \"F\" models, the i7-14700 includes <strong>Intel UHD Graphics 770</strong>, which is essential for video encoding via Intel QuickSync and serves as a reliable display output without a dedicated GPU. Because this is a non-K processor, it is <strong>locked</strong> for traditional manual overclocking, making it an ideal choice for users who want maximum performance out of the box without the need for complex tuning or expensive Z-series motherboards.</p>\n\n<h3>Modern Platform Compatibility</h3> <p>The i7-14700 offers industry-leading flexibility with support for both <strong>DDR4 and DDR5 memory</strong>. It also features 20 PCIe lanes, supporting <strong>PCIe 5.0</strong> for future-generation graphics cards and PCIe 4.0 for ultra-fast NVMe storage. Whether you are building a quiet workstation or a high-end gaming rig, this \"Tray\" processor provides the raw horsepower of the 14th Generation in a cooler, more efficient package.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the i7-14700 overclockable?</h3> <p>No. The i7-14700 has a <strong>locked multiplier</strong>. While you cannot manually overclock it like the i7-14700K, it will still automatically boost its speed up to 5.40 GHz using Intel Turbo Boost technology based on your workload.</p>\n\n<h3>2. What are the base and boost speeds?</h3> <p>The <strong>Base Clock</strong> is 2.1 GHz for Performance-cores and 1.5 GHz for Efficient-cores. The <strong>Max Turbo Speed</strong> reaches up to 5.40 GHz when the system needs maximum power for gaming or rendering.</p>\n\n<h3>3. Does this come with a cooler?</h3> <p>As a <strong>\"Tray\"</strong> processor, it typically does not come in retail packaging or include a stock cooler. It is recommended to use a <strong>high-quality air cooler or a 240mm AIO liquid cooler</strong> to handle its 219W Max Turbo Power.</p>\n\n<h3>4. Which RAM works with this processor?</h3> <p>It supports <strong>DDR5 (up to 5600 MT/s) and DDR4 (up to 3200 MT/s)</strong>. Your choice depends entirely on your motherboard's slots; you cannot use DDR4 RAM in a DDR5 motherboard.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i7 14700",
+          "processor": "20C 28T Locked",
+          " Cores": "20",
+          "threads": "28",
+          "Supports Over Clocking": "No",
+          "Base Clock": "5.4mhz",
+          "Generation": "Intel Core i7 14th Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790</p>",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/czone-20260106054357-87161-0-060126054319392.webp",
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/4-czone.com.pk-1540-12908-170222070751-87161-2462561-021025053204.webp",
+          "https://static.webx.pk/files/87161/Images/Thumbnails-Large/czone.com.pk-58-1540-12908-150825112735-87161-2462561-021025053158.webp"
+        ],
+        "price": 129999,
+        "discount_off": 0
+      },
+      {
+        "product_title": "14700KF Desktop Processor - Unlocked",
+        "slug": "14700kf-desktop-processor-unlocked",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 20 Core 28 Thread 14th Gen Architecture</strong></li> <li><strong>Extreme 5.6 Gigahertz Max Turbo Boost Frequency</strong></li> <li><strong>Fully Unlocked Multiplier For High Performance Overclocking</strong></li> <li><strong>Massive 33MB Intel Smart Cache Data System</strong></li> <li><strong>Support For Both DDR4 And DDR5 Memory</strong></li> <li><strong>Latest PCIe 5.0 And 4.0 Interface Support</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i7-14700KF – High-Speed 20-Core Unlocked Powerhouse</h1>\n\n<p>The <strong>Intel Core i7-14700KF</strong> is an elite-tier 14th Generation (Raptor Lake Refresh) processor built for the <strong>LGA 1700 socket</strong>. It is a massive upgrade over its predecessor, featuring <strong>20 Cores and 28 Threads</strong> (8 Performance-cores and 12 Efficient-cores). With a <strong>Max Turbo Frequency of 5.6 GHz</strong>, it is one of the fastest gaming and productivity CPUs on the market. As an <strong>unlocked \"K\" series</strong> chip, it allows for enthusiast-level overclocking, while the <strong>\"F\" designation</strong> means it is optimized for builders using a dedicated graphics card.</p>\n\n<h3>Maximum Multitasking and Gaming Speed</h3> <p>The i7-14700KF is designed to handle the most demanding modern workloads. Its massive <strong>33MB Intel Smart Cache</strong> and high clock speeds ensure that data is processed with minimal latency, providing ultra-smooth frame rates in AAA gaming and rapid speeds in 8K video editing or 3D rendering. Because this model lacks integrated graphics, it is often more cost-effective for gamers who are already planning to use a high-end NVIDIA or AMD GPU.</p>\n\n<h3>Future-Ready Platform and Flexibility</h3> <p>This processor offers exceptional build flexibility, supporting both <strong>DDR4 (up to 3200 MT/s) and DDR5 (up to 5600 MT/s+)</strong> memory standards. It features <strong>PCIe 5.0</strong> support, providing massive bandwidth for the latest graphics cards and ultra-fast NVMe storage. Compatible with both <strong>Intel 600 and 700 series motherboards</strong>, the i7-14700KF is a top-tier choice for users who want flagship performance and the ability to fine-tune their system through overclocking.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the i7-14700KF have integrated graphics?</h3> <p>No. The <strong>\"F\" suffix</strong> indicates it lacks onboard graphics. You <strong>must</strong> have a dedicated graphics card to get a display output.</p>\n\n<h3>2. What is the difference between i7-14700K and 14700KF?</h3> <p>They are identical in performance and overclocking ability. The only difference is that the 14700K includes Intel UHD 770 graphics, while the 14700KF does not.</p>\n\n<h3>3. Does it include a cooler?</h3> <p>No. This is a high-power chip with a 253W Max Turbo Power rating. You will need a <strong>high-end 360mm AIO liquid cooler</strong> or a flagship dual-tower air cooler to prevent thermal throttling.</p>\n\n<h3>4. Can I use it on a Z690 motherboard?</h3> <p>Yes, it is compatible with <strong>Z690, B660, Z790, and B760</strong> motherboards. However, 600-series boards will likely require a BIOS update to recognize the 14th Gen chip.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i7 14700KF",
+          "processor": "20C 28T Unlocked",
+          " Cores": "20",
+          "threads": "28",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "3.6mhz",
+          "Max Boost Clock": "5.6mhz",
+          "Generation": "Intel Core i7 14 Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/1-czone.com.pk-1540-16414-120724081930-87161-2462559-021025053138.webp",
+          "https://static.webx.pk/files/83855/Images/intel-core-i7-14700kf-new-gaming-desktop-processor-20-cores--83855-2369429-160525073025543.jpg",
+          "https://gameone.ph/media/catalog/product/mpiowebpcache/d378a0f20f83637cdb1392af8dc032a2/i/n/intel_core_unlocked_14th_gen_i7-14700kf_33mb-1.webp"
+        ],
+        "price": 129900,
+        "discount_off": 0
+      }
+    ]
+  },
+  {
+    "brand": "Intel",
+    "main_title": "Core Ultra 5",
+    "variants": [
+      {
+        "product_title": "235 Desktop Processor, 14 Cores (6P+8E), 14 Threads, Up to 5.0 GHz, 26MB Cache, Integrated Graphics, Intel AI Boost, FCLGA1851",
+        "slug": "235-desktop-processor-14-cores-6p8e-14-threads-up-to-50-ghz-26mb-cache-integrated-graphics-intel-ai-boost-fclga1851",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 14 Core 14 Thread Architecture</strong></li> <li><strong>Blazing 5.0 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Dedicated Intel AI Boost NPU Accelerator</strong></li> <li><strong>Advanced Intel Arc Integrated Graphics Solution</strong></li> <li><strong>Supports High Speed DDR5 6400 Memory</strong></li> <li><strong>New Socket LGA 1851 Motherboard Compatibility</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core Ultra 5 235 – Next-Gen Arrow Lake Efficiency & AI</h1>\n\n<p>The <strong>Intel Core Ultra 5 235</strong> marks the beginning of a new era for desktop computing, powered by the <strong>Arrow Lake-S architecture</strong>. This processor features a redefined hybrid design with <strong>14 Cores (6 Performance-cores and 8 Efficient-cores)</strong>. Unlike previous generations, this model focuses on a 1-to-1 core-to-thread ratio, offering <strong>14 Threads</strong> of pure efficiency. With a <strong>Max Turbo Frequency of 5.0 GHz</strong> and a specialized <strong>NPU (Neural Processing Unit)</strong>, the Core Ultra 5 235 is built to accelerate AI-driven tasks, from smart video editing to local AI workloads, all while maintaining a cool and power-efficient profile.</p>\n\n<h3>Advanced AI and Graphics Integration</h3> <p>Equipped with <strong>Intel AI Boost</strong>, this processor offloads complex AI tasks from the CPU and GPU to the dedicated NPU, ensuring your system remains responsive even during heavy background processing. The integrated <strong>Intel Arc Graphics</strong> provide a significant leap in visual performance over traditional onboard solutions, supporting high-quality 4K streaming and light content creation without the need for a separate video card. Built on a cutting-edge 3nm process, it offers a \"sweet spot\" for users who prioritize modern technology, low power consumption, and thermal stability.</p>\n\n<h3>Future-Ready Connectivity with LGA 1851</h3> <p>The Core Ultra 5 235 introduces the new <strong>LGA 1851 socket</strong>, making it compatible with the latest <strong>Intel 800 Series chipsets</strong>. This platform is designed for the future, supporting ultra-fast <strong>DDR5 6400 MT/s memory</strong> and providing <strong>PCIe 5.0 lanes</strong> for the next generation of high-speed SSDs and GPUs. Whether you are building a quiet home office setup or a modern productivity workstation, the Core Ultra 5 235 provides a streamlined, AI-ready foundation that is easy to cool and built to last.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the Intel Core Ultra 5 235 unlocked for overclocking?</h3> <p>No, this is a <strong>locked processor</strong>. For an unlocked version in this family, you would need to look at the \"K\" series models (like the 245K). However, it does feature <strong>Intel Turbo Boost 2.0</strong> to reach 5.0 GHz automatically.</p>\n\n<h3>2. Does this processor support DDR4 RAM?</h3> <p>No, the new LGA 1851 platform has moved exclusively to <strong>DDR5 memory</strong>. It officially supports speeds up to 6400 MT/s.</p>\n\n<h3>3. What motherboards work with the Core Ultra 5 235?</h3> <p>You must use an <strong>LGA 1851 socket</strong> motherboard. These include boards with the <strong>Z890, B860, and H810</strong> chipsets.</p>\n\n<h3>4. What is the benefit of the NPU (Intel AI Boost)?</h3> <p>The NPU handles AI-specific tasks (like background blur in calls, auto-framing, or AI photo enhancements) much more efficiently than a standard CPU, saving power and keeping your system fast.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core Ultra 5 235",
+          "processor": "14 cores (6P+8E) 14T Locked",
+          " Cores": "14 ( 6P + 8E)",
+          "threads": "14",
+          "Supports Over Clocking": "No",
+          "Base Clock": "5.0 MHZ",
+          "Generation": "Intel Core Ultra 5 235",
+          "Compatible Motherboards": "Z890, B860, H810",
+          "Ram Support": "DDR5 Upto 8000mts"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/czone.com.pk-63-1540-18885-150825115539-87161-2462582-021025053456.webp",
+          "https://brightstarcomp.com/cdn/shop/files/e_feff2392-9c0f-4d62-8b52-8604d40a881b.png?v=1744942169&width=1946"
+        ],
+        "price": 73000,
+        "discount_off": 0
+      },
+      {
+        "product_title": "Desktop Processor 245K, 14 Cores, 14 Threads, FCLGA1851 Socket, Unlocked Series 2",
+        "slug": "desktop-processor-245k-14-cores-14-threads-fclga1851-socket-unlocked-series-2",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 14 Core 14 Thread Efficient Design</strong></li> <li><strong>Blazing 5.2 Gigahertz Max Turbo Boost Frequency</strong></li> <li><strong>Integrated Intel AI Boost NPU For AI Acceleration</strong></li> <li><strong>Next Gen Intel Arc Graphics With Ray Tracing</strong></li> <li><strong>Exclusive Support For High Speed DDR5 6400 Memory</strong></li> <li><strong>Future Proof Socket LGA 1851 Motherboard Compatibility</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core Ultra 5 245K – Arrow Lake Unlocked AI-Powered Desktop Processor</h1>\n\n<p>Experience the next generation of computing with the <strong>Intel Core Ultra 5 245K</strong>. Part of the revolutionary <strong>Series 2 (Arrow Lake)</strong> lineup, this processor is built for the new <strong>FCLGA1851 socket</strong> and focuses on a massive leap in efficiency and AI integration. With <strong>14 Cores and 14 Threads</strong>, Intel has optimized this chip for real-world performance by utilizing a 1:1 core-to-thread ratio, eliminating Hyper-Threading to reduce heat and power consumption while maintaining blistering speeds up to <strong>5.2 GHz Max Turbo</strong>.</p>\n\n<h3>Intelligent Performance with Intel AI Boost</h3> <p>The Core Ultra 5 245K is one of the first desktop processors to feature a dedicated <strong>NPU (Neural Processing Unit)</strong>, known as <strong>Intel AI Boost</strong>. This hardware accelerator offloads AI tasks—such as background blur in video calls, AI-driven photo editing, and local generative AI—saving your CPU and GPU for what they do best. Paired with <strong>integrated Intel Arc Graphics</strong>, this chip is a versatile powerhouse for creators who need stable, high-speed performance for multitasking and 4K media workflows.</p>\n\n<h3>Extreme Efficiency and Modern Connectivity</h3> <p>Built on the cutting-edge <strong>TSMC 3nm process</strong>, the 245K is significantly more power-efficient than previous generations, running cooler under heavy gaming and production loads. It exclusively supports <strong>DDR5 memory</strong> (up to 6400 MT/s) and offers 24 PCIe lanes (including <strong>PCIe 5.0</strong> support), ensuring your system is ready for the fastest next-gen GPUs and NVMe SSDs. Whether you are overclocking for maximum frames or building a high-efficiency workstation, the Core Ultra 5 245K is the foundation of the modern AI PC.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Core Ultra 5 245K work with Z790 motherboards?</h3> <p>No, this processor requires the new <strong>LGA 1851 socket</strong>. You must pair it with an <strong>Intel 800-series motherboard</strong> (such as Z890, B860, or H810).</p>\n\n<h3>2. Why does it only have 14 threads with 14 cores?</h3> <p>Intel has removed Hyper-Threading in the Arrow Lake architecture to improve <strong>power efficiency and thermal stability</strong>. Each core now handles one high-performance thread, resulting in smoother performance and less wasted energy.</p>\n\n<h3>3. Is the Core Ultra 5 245K unlocked for overclocking?</h3> <p>Yes, the <strong>\"K\" suffix</strong> confirms that the multiplier is unlocked. When used with a <strong>Z890 motherboard</strong>, you can manually tune the clock speeds of both the P-cores and E-cores.</p>\n\n<h3>4. Does it support DDR4 RAM?</h3> <p>No, the LGA 1851 platform is <strong>DDR5 only</strong>. It is designed to work with high-speed memory kits starting at 6400 MT/s for the best possible bandwidth.</p>",
+        "attributes": {
+          "cpu": "Intel Core Ultra 5 245K",
+          "processor": "14C 14T Unlocked",
+          " Cores": "14",
+          "threads": "14",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "5.2Mhz",
+          "Max Boost Clock": "5.5Mhz",
+          "Generation": "Intel Core Ultra 5 245K",
+          "Compatible Motherboards": "Z890, B860, H810, W880, Q870",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/czone.com.pk-12-1540-17987-080325091901-87161-2462583-021025053502.webp",
+          "https://static.webx.pk/files/87161/Images/czone.com.pk-15-1540-17987-080325091901-87161-2462583-021025053507.webp",
+          "https://m.media-amazon.com/images/I/51GbMCaIHWL._AC_SL1000_.jpg"
+        ],
+        "price": 81000,
+        "discount_off": 0
+      }
+    ]
+  },
+  {
+    "brand": "Intel",
+    "main_title": "Core i9",
+    "variants": [
+      {
+        "product_title": "12900KF Processor (30M Cache - 16 Cores - 24 Threads)",
+        "slug": "12900kf-processor-30m-cache-16-cores-24-threads",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 16 Core 24 Thread Architecture</strong></li> <li><strong>Blazing 5.2 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Fully Unlocked For Precision Performance Overclocking</strong></li> <li><strong>Massive 30MB Intel Smart Cache System</strong></li> <li><strong>Supports Latest PCIe 5.0 4.0 Standard</strong></li> <li><strong>Versatile DDR4 And DDR5 Memory Support</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core i9-12900KF – High-Performance 16-Core Elite Gaming Processor</h1>\n\n<p>The <strong>Intel Core i9-12900KF</strong> is a powerhouse of the 12th Generation Alder Lake architecture, engineered for elite gaming and professional-grade content creation. Featuring a massive <strong>16 Cores and 24 Threads</strong>, it utilizes Intel's revolutionary hybrid design, pairing 8 high-speed Performance-cores (P-cores) with 8 power-efficient Efficient-cores (E-cores). With a <strong>Max Turbo Frequency of 5.2 GHz</strong> and a massive 30MB of Intel Smart Cache, this processor delivers the raw speed and multitasking depth required for modern AAA titles, 8K video editing, and complex 3D rendering.</p>\n\n<h3>Unlocked Power for Maximum Control</h3> <p>As a <strong>fully unlocked \"K\" series</strong> processor, the i9-12900KF is built for enthusiasts who want to push their system beyond standard limits. When paired with a Z690 or Z790 motherboard, you can precisely tune your clock speeds to maximize performance. Because this is the <strong>\"KF\" model</strong>, it is designed for builders using a dedicated high-end graphics card, omitting integrated graphics to focus entirely on pure processing throughput and thermal overhead.</p>\n\n<h3>Advanced Hybrid Architecture and Connectivity</h3> <p>The i9-12900KF leads the way in platform versatility, offering support for both <strong>DDR4 and DDR5 memory</strong> standards. This allows you to choose between cost-effective high-capacity RAM or the ultra-wide bandwidth of the latest DDR5 modules. With <strong>PCIe 5.0 and 4.0 support</strong>, it provides the massive data lanes necessary for the world's fastest GPUs and NVMe storage. Compatible with the <strong>LGA 1700 socket</strong>, this processor remains a top-tier choice for a future-ready, high-performance desktop build.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. What is the difference between i9-12900K and i9-12900KF?</h3> <p>The <strong>\"F\" suffix</strong> means this processor does <strong>not</strong> have integrated graphics. You must have a dedicated graphics card (NVIDIA or AMD) to get a display on your monitor.</p>\n\n<h3>2. Does this processor come with a cooler?</h3> <p>No. High-end i9 processors do not include a stock cooler. Because it can draw up to 241W of power under heavy load, a <strong>premium 360mm or 420mm AIO liquid cooler</strong> is strongly recommended.</p>\n\n<h3>3. Which RAM should I use with the i9-12900KF?</h3> <p>It supports <strong>DDR4 (up to 3200 MT/s) and DDR5 (up to 4800 MT/s+)</strong>. Your choice depends on your motherboard; you cannot use DDR4 sticks in a DDR5 motherboard slot.</p>\n\n<h3>4. What motherboard socket does it use?</h3> <p>It uses the <strong>LGA 1700 socket</strong>. It is compatible with Intel 600-series (Z690, B660) and 700-series (Z790, B760) motherboards.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core i9 12900KF",
+          "processor": "16C 24T Unlocked",
+          " Cores": "16",
+          "threads": "24",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "5.2MHZ",
+          "Max Boost Clock": "5.4Mhz",
+          "Generation": "Intel Core i9 12 Generation",
+          "Compatible Motherboards": "H610, B660, B760, H670, H770, Z690, Z790",
+          "Ram Support": "DDR4 & DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/1-czone.com.pk-1540-13810-280922092449-87161-2462562-021025053211.webp",
+          "https://static-01.daraz.pk/p/f8185c8459a696b08b68d7a06c977f8d.jpg",
+          "https://m.media-amazon.com/images/I/516wNdYa4-L._AC_UF894",
+          "1000_QL80_.jpg"
+        ],
+        "price": 85999,
+        "discount_off": 0
+      }
+    ]
+  },
+  {
+    "brand": "Intel",
+    "main_title": "Core Ultra 7",
+    "variants": [
+      {
+        "product_title": "Desktop Processor 265F, 20 Cores 20 Threads, Up To 5.3GHz, 36MB Cache, PCIe 5.0 and 4.0",
+        "slug": "desktop-processor-265f-20-cores-20-threads-up-to-53ghz-36mb-cache-pcie-50-and-40",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Hybrid 20 Core 20 Thread Architecture</strong></li> <li><strong>Blazing 5.3 Gigahertz Max Turbo Frequency</strong></li> <li><strong>Dedicated Intel AI Boost NPU Accelerator</strong></li> <li><strong>Massive 36MB L2 Cache For High Speed Data</strong></li> <li><strong>Supports Latest Ultra Fast DDR5 6400 Memory</strong></li> <li><strong>New Socket LGA 1851 Motherboard Compatibility</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core Ultra 7 265F – The Power-Efficient AI Powerhouse</h1>\n\n<p>The <strong>Intel Core Ultra 7 265F</strong> represents the cutting edge of the <strong>Arrow Lake (Series 2)</strong> architecture. Engineered for the all-new <strong>LGA 1851 socket</strong>, this processor features a massive <strong>20 Cores (8 Performance-cores and 12 Efficient-cores)</strong> and <strong>20 Threads</strong>. By moving to a 1:1 core-to-thread ratio, Intel has significantly improved thermal stability and power efficiency. With a <strong>Max Turbo frequency of 5.3 GHz</strong> and a generous <strong>36MB L2 Cache</strong>, this chip is designed for users who demand flagship-level multitasking and gaming performance without the excessive heat of previous generations.</p>\n\n<h3>Advanced AI Acceleration & Efficiency</h3> <p>Equipped with a dedicated <strong>Intel AI Boost NPU</strong>, the Core Ultra 7 265F is built for the era of the AI PC. It offloads complex AI tasks—like real-time video noise suppression, auto-framing, and smart productivity tools—to a specialized engine, keeping your CPU free for raw processing. As an <strong>\"F\" series model</strong>, it is optimized for enthusiasts who use a <strong>dedicated graphics card</strong>, stripping away integrated graphics to focus purely on core performance and high-speed data throughput via <strong>PCIe 5.0</strong>.</p>\n\n<h3>Future-Ready Platform: DDR5 & LGA 1851</h3> <p>The Core Ultra 7 265F is designed for the future, exclusively supporting <strong>DDR5 memory</strong> with speeds up to <strong>6400 MT/s</strong>. Built on a refined 3nm-class process, it offers a 65W base power (TDP) that makes it easier to cool than its \"K\" series siblings, while still capable of boosting to high performance levels when needed. Compatible with <strong>Intel 800-series motherboards</strong>, this processor is the perfect foundation for a modern, quiet, and incredibly fast workstation or gaming rig.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Intel Core Ultra 7 265F have integrated graphics?</h3> <p>No. The <strong>\"F\" suffix</strong> means it does not have onboard graphics. You <strong>must</strong> use a dedicated NVIDIA or AMD graphics card to get a display output.</p>\n\n<h3>2. Can I use my existing Z790 or B760 motherboard?</h3> <p>No. This processor uses the new <strong>LGA 1851 socket</strong> and is only compatible with <strong>Intel 800-series chipsets</strong> (like Z890, B860, or H810).</p>\n\n<h3>3. Is this processor unlocked for overclocking?</h3> <p>No, this is a <strong>locked processor</strong> (no \"K\" in the name). However, it features <strong>Intel Turbo Boost Max Technology 3.0</strong>, which automatically pushes speeds up to 5.3 GHz for heavy tasks.</p>\n\n<h3>4. Does it support DDR4 RAM?</h3> <p>No. The Core Ultra Series 2 platform has moved entirely to <strong>DDR5</strong>. It is optimized for high-speed dual-channel DDR5 kits at 6400 MT/s.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core Ultra 7",
+          "processor": "20C 20T Locked",
+          " Cores": "20",
+          "threads": "20",
+          "Supports Over Clocking": "No",
+          "Base Clock": "5.3Mhz",
+          "Generation": "Intel Core Ultra 7",
+          "Compatible Motherboards": "H810, B860, W880, Q870, Z890",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/72105406-730f-40a1-b377-b5f72edaf121.png;maxHeight=828;maxWidth=400?format=webp",
+          "https://techarc.pk/wp-content/uploads/2026/01/intel-core-ultra-7-265f-desktop-processor-1-techarc.pk_-1.webp",
+          "https://ecommerce.datablitz.com.ph/cdn/shop/files/Layer4_969dd5cd-ae43-41f9-8ca8-72b138079a93.jpg?v=1761207413"
+        ],
+        "price": 86500,
+        "discount_off": 0
+      },
+      {
+        "product_title": "265K Desktop Processor, 20 Cores, 30MB Cache, Up To 5.5GHz, Socket FCLGA1851, Unlocked, Tray",
+        "slug": "265k-desktop-processor-20-cores-30mb-cache-up-to-55ghz-socket-fclga1851-unlocked-tray",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Advanced 20 Core 20 Thread Unlocked Architecture</strong></li> <li><strong>Blazing 5.5 Gigahertz Max Turbo Frequency Speed</strong></li> <li><strong>Integrated Intel AI Boost NPU For AI Tasks</strong></li> <li><strong>Massive 66MB Combined L2 and L3 Cache Memory</strong></li> <li><strong>Support For Next Gen PCIe 5.0 and 4.0 Standard</strong></li> <li><strong>Compatible With New FCLGA1851 Socket Motherboards</strong></li> </ul>",
+        "seo_content": "<h1>Intel Core Ultra 7 265K – Unlocked Series 2 \"Arrow Lake\" Performance</h1>\n\n<p>The <strong>Intel Core Ultra 7 265K</strong> is the high-performance heart of the <strong>Arrow Lake (Series 2)</strong> family. Designed for enthusiasts and professionals, this unlocked processor features <strong>20 Cores (8 Performance-cores and 12 Efficient-cores)</strong>. In a bold architectural shift, Intel has optimized this chip with <strong>20 Threads</strong>, removing Hyper-Threading to deliver better per-core efficiency, lower operating temperatures, and superior power management. With a <strong>Max Turbo Frequency of 5.5 GHz</strong>, it is built to dominate both competitive gaming and heavy-duty creative workloads.</p>\n\n<h3>Revolutionary AI Integration & Efficiency</h3> <p>This \"K\" series processor is equipped with a dedicated <strong>Intel AI Boost NPU</strong>, transforming your desktop into an AI-ready workstation. The NPU handles background AI tasks—like noise suppression, video effects, and local AI processing—with minimal power draw, leaving the CPU and <strong>integrated Intel Graphics</strong> free to maintain peak performance. Built on a refined 3nm-class process, the 265K is designed to run cooler than previous generations while offering a massive <strong>30MB L3 Cache and 36MB L2 Cache</strong> for ultra-low latency data access.</p>\n\n<h3>Next-Gen Platform: LGA 1851 & DDR5</h3> <p>The Core Ultra 7 265K introduces the <strong>FCLGA1851 socket</strong>, requiring a new <strong>Intel 800-series motherboard</strong> (such as Z890). This platform is built for the future, supporting <strong>DDR5 memory</strong> at speeds of <strong>6400 MT/s</strong> and beyond via XMP. With <strong>PCIe 5.0</strong> support for both graphics and NVMe storage, this \"Tray\" version provides the ultimate foundation for a high-end, future-proof PC build focused on speed, efficiency, and cutting-edge technology.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Core Ultra 7 265K support Hyper-Threading?</h3> <p>No. Intel has removed Hyper-Threading in Series 2 (Arrow Lake) to improve <strong>efficiency and thermal performance</strong>. The 20 physical cores now provide 20 high-performance threads, which leads to better stability in gaming and productivity.</p>\n\n<h3>2. Can I use my Z790 motherboard with this CPU?</h3> <p>No, the 265K requires the new <strong>LGA 1851 socket</strong> found on <strong>Intel 800-series motherboards</strong> (like the Z890). It is not compatible with the older LGA 1700 socket.</p>\n\n<h3>3. What are the base and boost clock speeds?</h3> <p>The <strong>Performance-cores</strong> have a base frequency of 3.9 GHz and boost up to 5.5 GHz. The <strong>Efficient-cores</strong> have a base of 3.3 GHz and boost up to 4.6 GHz.</p>\n\n<h3>4. Does it come with a CPU cooler?</h3> <p>No. As a <strong>\"Tray\"</strong> or \"K\" series processor, a cooler is not included. It is highly recommended to use a <strong>360mm or 420mm AIO liquid cooler</strong> to manage the 250W Maximum Turbo Power during heavy workloads.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "Intel Core Ultra 7 265K",
+          "processor": "20C 20T Unlocked",
+          " Cores": "20",
+          "threads": "20",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "5mhz",
+          "Max Boost Clock": "5.3 mhz",
+          "Generation": "Intel Core Ultra 7 265K",
+          "Compatible Motherboards": "Z890, B860, H810, W880, Q870",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/czone.com.pk-10-1540-19161-170925081113-87161-2462585-021025053532.webp",
+          "https://static3.webx.pk/files/4012/Images/44-4012-2369833-170525065458917.jpg",
+          "https://techmatched.pk/wp-content/uploads/2025/06/Intel-Core-Ultra-7-265K-Desktop-Processor-20-cores-8-P-cores-12-E-cores-up-to-5.5-GHz-%C2%B7-Total-Cores-20-%C2%B7-Total-Threads-20-%C2%B7-Turbo-Frequency-5.5-GHz-2.png"
+        ],
+        "price": 109000,
+        "discount_off": 0
+      }
+    ]
+  },
+  {
+    "brand": "AMD",
+    "main_title": "Ryzen 9",
+    "variants": [
+      {
+        "product_title": "9900X Processor | Desktop Boxed Processor - Granite Ridge AM5 Zen 5 12C",
+        "slug": "9900x-processor-desktop-boxed-processor-granite-ridge-am5-zen-5-12c",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Advanced 12 Core 24 Thread Zen 5 Architecture</strong></li> <li><strong>Blazing 5.6 Gigahertz Max Boost Operating Frequency</strong></li> <li><strong>High Efficiency 120W TDP For Cooler Performance</strong></li> <li><strong>Massive 76MB Total L2 and L3 Cache Memory</strong></li> <li><strong>Full Support For Next Gen PCIe 5.0 Connectivity</strong></li> <li><strong>Compatible With Future Proof Socket AM5 Motherboards</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 9 9900X – Elite 12-Core Zen 5 Performance</h1>\n\n<p>The <strong>AMD Ryzen 9 9900X</strong> is a high-performance desktop processor from the <strong>9000 Series \"Granite Ridge\"</strong> family. Built on the revolutionary <strong>Zen 5 architecture</strong> using a 4nm process, this 12-core, 24-thread powerhouse is designed for enthusiasts who demand elite gaming speeds and professional-grade productivity. With a significant IPC (Instructions Per Clock) uplift over previous generations, the 9900X delivers incredible efficiency and lightning-fast processing for 3D rendering, video editing, and competitive gaming.</p>\n\n<h3>Optimized Efficiency & Advanced AI Ready</h3> <p>Despite its massive power, the Ryzen 9 9900X features a refined <strong>120W TDP</strong>, making it significantly more efficient than its predecessors while maintaining a blistering <strong>5.6 GHz Max Boost Clock</strong>. It is \"Enthusiast-Class AI Ready,\" optimized to handle modern AI-accelerated workloads and software development. Equipped with <strong>76MB of total cache</strong> (64MB L3 + 12MB L2), this processor minimizes data latency to ensure a smooth, stutter-free experience even under the most intensive multitasking scenarios.</p>\n\n<h3>Future-Proof AM5 Platform</h3> <p>The 9900X utilizes the <strong>Socket AM5</strong>, ensuring compatibility with the latest <strong>X870, X870E, X670, and B650</strong> motherboards. It fully supports <strong>PCIe 5.0</strong> for next-gen graphics cards and NVMe SSDs, providing the highest bandwidth available today. With native support for <strong>DDR5-5600 memory</strong> (and higher via AMD EXPO™ overclocking), this processor provides a cutting-edge foundation for any premium PC build intended to last for years to come.</p>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Does the Ryzen 9 9900X support overclocking?</h3> <p>Yes, the 9900X is <strong>fully unlocked</strong>. You can manually tune the processor or use <strong>Precision Boost Overdrive (PBO)</strong> and <strong>AMD Ryzen Master</strong> to easily push performance beyond factory settings.</p>\n\n<h3>2. What kind of RAM is required for this processor?</h3> <p>The 9900X requires <strong>DDR5 memory</strong>. While it officially supports up to 5600 MT/s, the \"sweet spot\" for performance on the AM5 platform is typically <strong>DDR5-6000</strong> using AMD EXPO™ profiles.</p>\n\n<h3>3. Does it come with a CPU cooler in the box?</h3> <p>No, this is a \"WOF\" (Without Fan) boxed processor. Due to its high performance, it is recommended to use a <strong>high-end air cooler</strong> or a <strong>240mm/360mm AIO liquid cooler</strong> for optimal thermal management.</p>\n\n<h3>4. Does it have integrated graphics?</h3> <p>Yes, it features <strong>AMD Radeon™ Graphics</strong> (2-core). While these are excellent for office work and troubleshooting, a dedicated graphics card is recommended for gaming and creative tasks.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 9 9900X",
+          "processor": "12C 24T Unlocked",
+          " Cores": "12",
+          "threads": "24T",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "4.4mhZ",
+          "Max Boost Clock": "5.6MHZ",
+          "Generation": "AMD RYZEN 9TH Generation",
+          "Compatible Motherboards": "X870E, X870, B850, B840, X670E, X670, B650E, B650, A620",
+          "Ram Support": "DDR5"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/3-czone.com.pk-1540-17591-090125092018-87161-2462577-021025053421.webp",
+          "https://www.caseking.de/dw/image/v2/BKRR_PRD/on/demandware.static/-/Sites-master-catalog-caseking/default/dw89ef6abe/images/data/product/HPAM/HPAM-283/HPAM-283_5ea0edf71b4f1919a06c3e9d7d7b53c5b227f362.jpg?sw=672"
+        ],
+        "price": 119999,
+        "discount_off": 0
+      },
+      {
+        "product_title": "9950X Desktop Processor 16-Core 32-Thread Up to 5.7GHz AM5 - Tray",
+        "slug": "9950x-desktop-processor-16-core-32-thread-up-to-57ghz-am5-tray",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Flagship 16 Core 32 Thread Zen 5 Architecture</strong></li> <li><strong>Extreme 5.7 Gigahertz Max Boost Clock Frequency</strong></li> <li><strong>Elite 170W TDP For Maximum Performance Scaling</strong></li> <li><strong>Massive 80MB Combined L2 and L3 Cache Memory</strong></li> <li><strong>Cutting Edge PCIe 5.0 And DDR5 Support</strong></li> <li><strong>Unlocked Multiplier For High Performance Enthusiast Overclocking</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 9 9950X – The Ultimate 16-Core Workstation Powerhouse</h1>\n\n<p>The <strong>AMD Ryzen 9 9950X</strong> is the flagship of the <strong>Zen 5 \"Granite Ridge\"</strong> lineup, engineered for the absolute highest tier of desktop performance. Featuring a massive <strong>16 Cores and 32 Threads</strong>, this processor is designed for enthusiasts, professional creators, and power users who need extreme multi-threaded capability. With a staggering <strong>5.7 GHz Max Boost Clock</strong> and improved IPC (Instructions Per Cycle) efficiency, the 9950X sets a new standard for performance on the <strong>AM5 platform</strong>.</p>\n\n<h3>Extreme Productivity and Multi-Tasking</h3> <p>Built on the advanced TSMC 4nm process, the 9950X excels in heavy-duty workloads such as 8K video editing, complex 3D rendering, and professional-grade software development. It features a robust <strong>170W TDP</strong>, allowing it to maintain high frequencies across all 16 cores for sustained periods. With <strong>80MB of total cache</strong> (64MB L3 + 16MB L2), it significantly reduces memory latency, ensuring that data-heavy applications respond instantly.</p>\n\n<h3>Modern Connectivity and AI Integration</h3> <p>The 9950X is more than just raw speed; it is built for the future. It provides native support for <strong>PCIe 5.0</strong>, offering double the bandwidth for the latest GPUs and ultra-fast NVMe storage. It also supports <strong>DDR5 memory</strong> and features built-in AI acceleration to optimize modern software tools. As a <strong>Tray version</strong> processor, it is intended for systems where high-end custom cooling—such as a 360mm AIO or custom liquid loop—is already planned, as no stock cooler is provided.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. What is the difference between the \"Tray\" and \"Boxed\" versions?</h3> <p>The \"Tray\" version of the 9950X is the exact same processor as the retail boxed version, but it is shipped in simpler protective packaging without the colorful retail box or any bundled accessories. Neither version includes a cooler, as high-end liquid cooling is recommended for this 170W chip.</p>\n\n<h3>2. Does the 9950X support ECC memory?</h3> <p>Yes, the Ryzen 9 9950X supports <strong>ECC (Error Correction Code) memory</strong>. This makes it an ideal choice for workstations where data integrity and system stability are critical for long rendering or calculation tasks.</p>\n\n<h3>3. What RAM speed is best for the 9950X?</h3> <p>The processor officially supports DDR5-5600, but for optimal Zen 5 performance, <strong>DDR5-6000 CL30</strong> is widely considered the performance \"sweet spot.\" It also supports higher speeds via <strong>AMD EXPO™</strong> profiles on compatible X870 and X670 motherboards.</p>\n\n<h3>4. Is it compatible with X670 and B650 motherboards?</h3> <p>Yes, the 9950X is fully compatible with all <strong>Socket AM5</strong> motherboards, including the 600-series (X670/B650) and the newer 800-series (X870/B850). Note that 600-series boards may require a BIOS update to recognize the Zen 5 architecture.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 9 9950X",
+          "processor": "16C 32T Unlocked",
+          " Cores": "16",
+          "threads": "32",
+          "Supports Over Clocking": "Yes",
+          "Base Clock": "4.3mhz",
+          "Max Boost Clock": "5.7mhz",
+          "Generation": "AMD Ryzen 9 Generation",
+          "Compatible Motherboards": "X870E, X870, B850, B840, X670E, X670, B650E, B650, A620"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/16-czone.com.pk-1540-16998-250924102744-87161-2462579-021025053431.webp",
+          "https://techarc.pk/wp-content/uploads/2026/01/amd-ryzen-9-9900x-12-core-24-thread-gaming-processor-1-techarc.pk_.webp"
+        ],
+        "price": 163000,
+        "discount_off": 0
+      },
+      {
+        "product_title": "9950X Desktop Processor 16-Core 32-Thread Up to 5.7GHz AM5",
+        "slug": "9950x-desktop-processor-16-core-32-thread-up-to-57ghz-am5",
+        "description": "<h2>🔍 Key Features & Pointers</h2> <ul> <li><strong>Flagship 16 Core 32 Thread Zen 5 Architecture</strong></li> <li><strong>Extreme 5.7 Gigahertz Max Boost Clock Speed</strong></li> <li><strong>High Performance 4.3 Gigahertz Base Clock Frequency</strong></li> <li><strong>Massive 80MB Combined L2 and L3 Cache Memory</strong></li> <li><strong>Native Support For PCIe 5.0 And DDR5 Memory</strong></li> <li><strong>Fully Unlocked For Precision Enthusiast Level Overclocking</strong></li> </ul>",
+        "seo_content": "<h1>AMD Ryzen 9 9950X – The Ultimate 16-Core Professional Flagship</h1>\n\n<p>The <strong>AMD Ryzen 9 9950X</strong> is the definitive flagship of the <strong>Zen 5 \"Granite Ridge\"</strong> series. Engineered for those who refuse to compromise, it features a massive <strong>16 Cores and 32 Threads</strong> on the <strong>AM5 platform</strong>. With a staggering <strong>Max Boost Clock of 5.7 GHz</strong>, this processor is a dual-threat powerhouse, capable of delivering elite-tier gaming frame rates while obliterating heavy-duty creative workloads like 3D rendering, scientific simulations, and 8K video production.</p>\n\n<h3>Extreme Throughput & Efficiency</h3> <p>Utilizing the advanced <strong>4nm process</strong>, the 9950X offers a massive jump in IPC (Instructions Per Cycle), allowing it to do more work at the same clock speeds as previous generations. It features a robust <strong>170W TDP</strong> (with a 230W PPT) to sustain its high frequencies during long-duration tasks. With <strong>80MB of total cache</strong> (64MB L3 + 16MB L2), the 9950X ensures that the most demanding applications have near-instant access to the data they need, virtually eliminating system stutters.</p>\n\n<h3>The Future of Desktop Computing</h3> <p>The 9950X is designed for the high-bandwidth era, supporting <strong>PCIe 5.0</strong> for the fastest available graphics cards and NVMe storage. It features <strong>integrated AMD Radeon™ Graphics</strong> for basic display needs and is \"AI-Ready,\" optimized to accelerate modern AI-enhanced software. Whether you are building a top-of-the-line workstation or the ultimate gaming rig, the Ryzen 9 9950X provides the raw horsepower to dominate any task for years to come.</p>\n\n<hr>",
+        "faq_content": "<h2>❓ Frequently Asked Questions (FAQs)</h2>\n\n<h3>1. Is the Ryzen 9 9950X better for gaming or productivity?</h3> <p>It excels at both. While its 16 cores make it a productivity monster for rendering and compiling, its 5.7 GHz boost clock and Zen 5 architecture make it one of the highest-performing gaming CPUs currently available.</p>\n\n<h3>2. What motherboards are compatible with the 9950X?</h3> <p>It requires a <strong>Socket AM5 motherboard</strong>. It is compatible with the latest <strong>X870E and X870</strong> boards, as well as existing <strong>X670E, X670, B650E, and B650</strong> boards (which may require a BIOS update).</p>\n\n<h3>3. Does this processor come with a cooler?</h3> <p>No. Due to its high performance and 170W TDP, no cooler is included in the box. AMD strongly recommends a <strong>280mm or 360mm AIO liquid cooler</strong> to maintain optimal temperatures and boost clocks.</p>\n\n<h3>4. What RAM speed should I use?</h3> <p>The 9950X officially supports DDR5-5600. However, for maximum performance, the \"sweet spot\" is <strong>DDR5-6000 CL30</strong> using an <strong>AMD EXPO™</strong> profile, which provides the best balance of speed and latency.</p>\n\n<hr>",
+        "attributes": {
+          "cpu": "AMD Ryzen 9 9950X",
+          "processor": "16C 32T Unlcoked",
+          " Cores": "16",
+          "threads": "32",
+          "Base Clock": "4.3mhz",
+          "Max Boost Clock": "5.7mhz",
+          "Generation": "AMD Ryzen 9 Generation",
+          "Compatible Motherboards": "X870E, X870, B850, B840, X670E, X670, B650E, B650, A620"
+        },
+        "images": [
+          "https://static.webx.pk/files/87161/Images/czone.com.pk-47-1540-18908-180825102257-87161-2462581-021025053452.webp",
+          "https://static.webx.pk/files/87161/Images/16-czone.com.pk-1540-16998-250924102744-87161-2462579-021025053431.webp",
+          "https://igeekjo.com/cdn/shop/files/ezgif.com-webp-to-jpg-1200x1200_1.png?v=1733841415"
+        ],
+        "price": 165000,
+        "discount_off": 0
+      }
+    ]
+  }
+]
