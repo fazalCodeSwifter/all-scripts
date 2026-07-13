@@ -1,6 +1,3 @@
-/* eslint-disable prettier/prettier */
-// -------------------------- DYSON -----------------------------------------------
-/* eslint-disable @typescript-eslint/require-await */
 /* eslint-disable @typescript-eslint/no-unsafe-argument */
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-call */
@@ -9,13 +6,14 @@
 import { Injectable } from '@nestjs/common';
 import * as Papa from 'papaparse';
 import * as fs from 'fs';
-import * as path from 'path';
 
 // ─── Interfaces ───────────────────────────────────────────────────────────────
 
 interface ParsedProduct {
   brand: string;
   main_title: string;
+  category?: string;
+  sub_category?: string;
   variants: ProductVariant[];
 }
 
@@ -65,7 +63,7 @@ export class ParseService {
   async saveToJsonFile(products: ParsedProduct[], outputPath: string): Promise<void> {
     const jsonData = JSON.stringify(products, null, 2);
     fs.writeFileSync(outputPath, jsonData, 'utf-8');
-    console.log(`✓ JSON saved to ${outputPath}`);
+    console.log(`✓ Products saved to ${outputPath}`);
   }
 
   // ─── Public: Stats generate karo ───────────────────────────────────────────
